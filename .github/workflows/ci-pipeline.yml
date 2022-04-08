@@ -9,10 +9,10 @@ on:
 jobs:
   ci:
     name: CI Pipeline
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     container:
-      image: ubuntu-20.04
+      image: ubuntu:latest
 
     services:
       postgres:
