@@ -19,12 +19,12 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 17
+          
+      - name: Run Tests
+        run:  ./gradlew test
 
-       - name: Run Tests
-         run:  ./gradlew test
-
-       - name:  Publish Test Report
-         uses: mikepenz/action-junit-report@v3.0.1
-         if: always()
-         with:
-           report-paths: '**/build/test-results/test/TEST-*.xml'
+      - name:  Publish Test Report
+        uses: mikepenz/action-junit-report@v3.0.1
+        if: always()
+        with:
+         report-paths: '**/build/test-results/test/TEST-*.xml'
