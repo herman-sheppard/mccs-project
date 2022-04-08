@@ -13,7 +13,7 @@
  }
 
  resource "heroku_pipeline" "mccs_pipeline" {
-   name = "mccs-build-pipeline"
+   name = "mccs-pipeline"
  }
 
  resource "heroku_pipeline_coupling" "staging_pipeline_coupling" {
@@ -27,7 +27,7 @@
    org_repo = "herman-sheppard/mccs-project"
  }
 
- resource "herokux_app_github_integration" "mccs_gh_integration" {
+ resource "herokux_app_github_integration" "mccs_project_gh_integration" {
    app_id = heroku_app.mccs_staging.uuid
    branch = "master"
    auto_deploy = true
