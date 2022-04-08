@@ -3,7 +3,7 @@ name: CI Pipeline
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 
 jobs:
@@ -19,10 +19,6 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 17
-          
-#       - name: HashiCorp - Setup Terraform
-#         uses: hashicorp/setup-terraform@v1.4.0
-        
 
        - name: Run Tests
          run:  ./gradlew test
