@@ -1,4 +1,4 @@
-<window xmlns="http://jmix.io/schema/ui/window"
+    <window xmlns="http://jmix.io/schema/ui/window"
         caption="msg://caption">
 
     <actions>

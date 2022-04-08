@@ -7,12 +7,12 @@
             <drawer id="drawer" expandOnHover="true">
                 <cssLayout id="appTitleBox"
                            stylename="jmix-drawer-header"
-                           width="100%">
+                           width="100%" height="AUTO">
                     <image id="logoImage"
                            stylename="app-icon"
                            scaleMode="SCALE_DOWN">
                         <resource>
-                            <theme path="branding/app-icon-menu.svg"/>
+                            <theme path="branding/icon_256x256@2x.png"/>
                         </resource>
                     </image>
                     <label id="appTitleLabel"
@@ -42,7 +42,14 @@
                       stylename="jmix-workarea"
                       height="100%">
                 <initialLayout spacing="true" margin="true">
+                    <image id="backgroundImage"
+                           scaleMode="CONTAIN" align="MIDDLE_CENTER" height="100%">
+                        <resource>
+                            <theme path="branding/mccs-logo.svg"/>
+                        </resource>
+                    </image>
                 </initialLayout>
+
             </workArea>
         </cssLayout>
     </layout>
