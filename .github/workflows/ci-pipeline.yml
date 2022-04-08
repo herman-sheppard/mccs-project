@@ -18,9 +18,9 @@ jobs:
       postgres:
         image: postgres:14.2-alpine
         env:
-          MAIN_DATASOURCE_URL: jdbc:postgresql://postgres:5432/mccs-db
-          MAIN_DATASOURCE_USERNAME: db_user
-          MAIN_DATASOURCE_PASSWORD: db_password
+          POSTGRES_DB: jdbc:postgresql://postgres:5432/mccs-db
+          POSTGRES_USERNAME: db_user
+          POSTGRES_PASSWORD: db_password
         options: >-
           --health-cmd pg_isready
           --health-interval 10s
