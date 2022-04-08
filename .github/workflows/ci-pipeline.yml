@@ -22,10 +22,10 @@ jobs:
           MAIN_DATASOURCE_USERNAME: db_user
           MAIN_DATASOURCE_PASSWORD: db_password
         options: >-
-          -- health-cmd pg_isready
-          -- health-interval 10s
-          -- health-timeout 5s
-          -- health-retries 5
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
 
     steps:
       - name: Git Checkout
