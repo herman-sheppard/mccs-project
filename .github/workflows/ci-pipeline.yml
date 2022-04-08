@@ -10,6 +10,23 @@ jobs:
   ci:
     name: CI Pipeline
     runs-on: ubuntu-latest
+
+    container:
+      image: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:14.2-alpine
+        env:
+          MAIN_DATASOURCE_URL: jdbc:postgresql://postgres:5432/mccs-db
+          MAIN_DATASOURCE_USERNAME: db_user
+          MAIN_DATASOURCE_PASSWORD: db_password
+        options: >-
+          -- health-cmd pg_isready
+          -- health-interval 10s
+          -- health-timeout 5s
+          -- health-retries 5
+
     steps:
       - name: Git Checkout
         uses: actions/checkout@v3.0.0
@@ -21,6 +38,10 @@ jobs:
           java-version: 17
           
       - name: Run Tests
+        env:
+          MAIN_DATASOURCE_URL: jdbc:postgresql://postgres:5432/mccs-db
+          MAIN_DATASOURCE_USERNAME: db_user
+          MAIN_DATASOURCE_PASSWORD: db_password
         run:  ./gradlew test
 
       - name:  Publish Test Report
