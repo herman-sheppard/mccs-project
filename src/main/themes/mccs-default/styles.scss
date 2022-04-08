@@ -1,0 +1,8 @@
+@import "mccs-default-defaults";
+@import "addons";
+@import "mccs-default";
+
+.mccs-default {
+  @include addons;
+  @include mccs-default;
+}
