@@ -18,8 +18,8 @@ jobs:
       postgres:
         image: postgres:14.2-alpine
         env:
-          POSTGRES_DB: jdbc:postgresql://postgres:5432/mccs-db
-          POSTGRES_USERNAME: db_user
+          POSTGRES_DB: mccs-db
+          POSTGRES_USER: db_user
           POSTGRES_PASSWORD: db_password
         options: >-
           --health-cmd pg_isready
