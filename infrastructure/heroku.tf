@@ -24,7 +24,7 @@
 
  resource "herokux_pipeline_github_integration" "pipeline_integration" {
    pipeline_id = heroku_pipeline.mccs_pipeline.id
-   org_repo = "herman-sheppard/mccs"
+   org_repo = "herman-sheppard/mccs-project"
  }
 
  resource "herokux_app_github_integration" "mccs_gh_integration" {
