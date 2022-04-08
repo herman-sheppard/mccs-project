@@ -5,7 +5,7 @@
         <item screen="mccs_User.browse" caption="msg://io.embraceit.mccsproject.screen.user/UserBrowse.caption"
               icon="USER_CIRCLE_O"/>
     </menu>
-    <menu id="administration">
+    <menu id="administration" icon="COGS">
         <item screen="ui_JmxConsoleScreen"  icon="UNLOCK_ACTION"/>
         <item screen="entityInspector.browse" icon="BINOCULARS"/>
         <item screen="sec_ResourceRoleModel.browse"
