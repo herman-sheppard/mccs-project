@@ -24,10 +24,6 @@
                            scaleMode="SCALE_DOWN"
                            stylename="jmix-login-logo"
                            width="AUTO"/>
-                    <label id="welcomeLabel"
-                           stylename="jmix-brandlogin-welcome-label h1"
-                           value="msg://welcomeLabel"
-                           width="350px"/>
                     <capsLockIndicator id="capsLockIndicator"
                                        align="MIDDLE_CENTER"/>
                     <vbox id="loginForm"
