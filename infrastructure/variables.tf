@@ -8,3 +8,12 @@ variable "heroku_api_key" {
   sensitive = true
 }
 
+variable "JMIX_PREMIUM_USER" {
+  type = string
+  sensitive = true
+}
+
+variable "JMIX_PREMIUM_PASSWORD" {
+  type = string
+  sensitive = true
+}
