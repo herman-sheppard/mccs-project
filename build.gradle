@@ -56,6 +56,8 @@ dependencies {
     implementation("io.jmix.quartz:jmix-quartz-starter")
     implementation("io.jmix.dashboards:jmix-dashboards-starter")
     implementation("io.jmix.dashboards:jmix-dashboards-ui-starter")
+    implementation("io.jmix.ui:jmix-charts-starter")
+    widgets("io.jmix.ui:jmix-charts-widgets")
 }
 
 test {
