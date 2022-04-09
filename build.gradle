@@ -60,7 +60,6 @@ dependencies {
     widgets("io.jmix.ui:jmix-pivot-table-widgets")
     widgets("io.jmix.ui:jmix-ui-widgets")
     implementation("io.jmix.ui:jmix-pivot-table-starter")
-    implementation("io.jmix.quartz:jmix-quartz-starter")
     implementation("io.jmix.dashboards:jmix-dashboards-starter")
     implementation("io.jmix.dashboards:jmix-dashboards-ui-starter")
     implementation("io.jmix.ui:jmix-charts-starter")
@@ -70,6 +69,14 @@ dependencies {
     implementation("io.jmix.email:jmix-email-ui-starter")
     implementation("io.jmix.email:jmix-email-starter")
     implementation("io.jmix.ui:jmix-ui-export-starter")
+    implementation("io.jmix.appsettings:jmix-appsettings-starter")
+    implementation("io.jmix.appsettings:jmix-appsettings-ui-starter")
+    implementation("io.jmix.bpm:jmix-bpm-ui-starter")
+    implementation("io.jmix.bpm:jmix-bpm-starter")
+    implementation("io.jmix.businesscalendar:jmix-businesscalendar-starter")
+    implementation("io.jmix.businesscalendar:jmix-businesscalendar-ui-starter")
+    implementation("io.jmix.notifications:jmix-notifications-starter")
+    implementation("io.jmix.notifications:jmix-notifications-ui-starter")
 }
 
 test {
