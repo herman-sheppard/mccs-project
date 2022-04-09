@@ -2,9 +2,9 @@
 <menu-config xmlns="http://jmix.io/schema/ui/menu">
 
     <menu id="application" caption="msg://io.embraceit.mccsproject/menu.application" icon="CODEPEN" expanded="true">
-        <item screen="mccs_User.browse" caption="msg://io.embraceit.mccsproject.screen.user/UserBrowse.caption"
-              icon="USER_CIRCLE_O"/>
-<!--        <item screen="mccs_Designation.browse"-->
+        <item screen="mccs_MccsUser.browse"
+              caption="msg://io.embraceit.mccsproject.screen.mccsuser/mccsUserBrowse.menu" icon="USER_CIRCLE_O"/>
+        <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->
 <!--        <item screen="mccs_MCDConsultations.browse"-->
@@ -32,6 +32,8 @@
         <item screen="bpm_DecisionTableModelerScreen" icon="CODE_FORK"/>
     </menu>
     <menu id="administration" icon="COGS">
+        <item screen="mccs_User.browse" caption="msg://io.embraceit.mccsproject.screen.user/UserBrowse.caption"
+              icon="USER_CIRCLE_O"/>
         <item screen="ui_JmxConsoleScreen" icon="UNLOCK_ACTION"/>
         <item screen="sec_ResourceRoleModel.browse"
               caption="msg://io.jmix.securityui/menu.sec_ResourceRoleModel.browse" icon="SHIELD"/>
