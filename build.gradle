@@ -60,6 +60,8 @@ dependencies {
     widgets("io.jmix.ui:jmix-charts-widgets")
     implementation("io.jmix.dynattr:jmix-dynattr-ui-starter")
     implementation("io.jmix.dynattr:jmix-dynattr-starter")
+    implementation("io.jmix.email:jmix-email-ui-starter")
+    implementation("io.jmix.email:jmix-email-starter")
 }
 
 test {

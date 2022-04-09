@@ -45,7 +45,7 @@
         <item screen="userSessions.browse" icon="USER_SECRET"/>
         <item screen="dynat_Category.browse" icon="BOLT"/>
         <item screen="mten_Tenant.browse" icon="BANK"/>
-<!--        <item screen="email_SendingMessage.browse" icon="ENVELOPE_OPEN"/>-->
+        <item screen="email_SendingMessage.browse" icon="ENVELOPE_OPEN"/>
 <!--        <item screen="appset_appSettingsEntity.screen" icon="WRENCH"/>-->
 <!--        <item screen="buscal_BusinessCalendarModel.browse" icon="CALENDAR"/>-->
         <item screen="quartz_JobModel.browse" caption="msg://io.jmix.quartz.screen.jobs/jobModelBrowse.menu"
