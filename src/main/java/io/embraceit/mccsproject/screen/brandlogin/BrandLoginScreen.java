@@ -137,6 +137,6 @@ public class BrandLoginScreen extends Screen {
 
     private void initLogoImage() {
         logoImage.setSource(RelativePathResource.class)
-                .setPath("VAADIN/brand-login-screen/jmix-icon-login.svg");
+                .setPath("VAADIN/brand-login-screen/mccs-logo-solid.svg");
     }
 }
