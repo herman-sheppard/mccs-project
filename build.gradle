@@ -58,6 +58,8 @@ dependencies {
     implementation("io.jmix.dashboards:jmix-dashboards-ui-starter")
     implementation("io.jmix.ui:jmix-charts-starter")
     widgets("io.jmix.ui:jmix-charts-widgets")
+    implementation("io.jmix.dynattr:jmix-dynattr-ui-starter")
+    implementation("io.jmix.dynattr:jmix-dynattr-starter")
 }
 
 test {
