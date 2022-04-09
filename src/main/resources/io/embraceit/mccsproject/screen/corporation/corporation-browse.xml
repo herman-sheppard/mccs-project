@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:c="http://jmix.io/schema/ui/jpql-condition"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://corporationBrowse.caption"
+        focusComponent="corporationsTable">
+    <data readOnly="true">
+        <collection id="corporationsDc"
+                    class="io.embraceit.mccsproject.entity.Corporation">
+            <fetchPlan extends="_base">
+                <property name="cipcDetails" fetchPlan="_base"/>
+                <property name="headOfficeContactDetails" fetchPlan="_base"/>
+                <property name="headOfficeAddress" fetchPlan="_base"/>
+                <property name="businessContact" fetch="AUTO" fetchPlan="_base"/>
+            </fetchPlan>
+            <loader id="corporationsDl">
+                <query>
+                    <![CDATA[select e from mccs_Corporation e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="lookupSelectAction"
+                caption="msg:///actions.Select"
+                icon="LOOKUP_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="lookupCancelAction"
+                caption="msg:///actions.Cancel"
+                icon="LOOKUP_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="corporationsTable" spacing="true">
+        <filter id="filter"
+                dataLoader="corporationsDl">
+            <properties include=".*"/>
+        </filter>
+        <dataGrid id="corporationsTable"
+                  width="100%"
+                  dataContainer="corporationsDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column property="reportStartDate" id="reportStartDate"/>
+                <column property="reportEndDate" id="reportEndDate"/>
+                <column property="reportName" id="reportName"/>
+                <column property="businessName" id="businessName"/>
+                <column property="businessLogo" id="businessLogo"/>
+                <column property="businessContact" id="businessContact"/>
+                <column property="cipcDetails.registrationNumber" id="cipcDetails.registrationNumber"/>
+                <column property="cipcDetails.enterpriseName" id="cipcDetails.enterpriseName"/>
+                <column property="cipcDetails.enterpriseShortenedName" id="cipcDetails.enterpriseShortenedName"/>
+                <column property="cipcDetails.registrationDate" id="cipcDetails.registrationDate"/>
+                <column property="cipcDetails.businessStartDate" id="cipcDetails.businessStartDate"/>
+                <column property="cipcDetails.enterpriseType" id="cipcDetails.enterpriseType"/>
+                <column property="cipcDetails.enterpriseStatus" id="cipcDetails.enterpriseStatus"/>
+                <column property="cipcDetails.financialYearEndDate" id="cipcDetails.financialYearEndDate"/>
+                <column property="cipcDetails.mainBusinessObjectives" id="cipcDetails.mainBusinessObjectives"/>
+                <column property="headOfficeContactDetails.officeNumber" id="headOfficeContactDetails.officeNumber"/>
+                <column property="headOfficeContactDetails.mobileNumber" id="headOfficeContactDetails.mobileNumber"/>
+                <column property="headOfficeContactDetails.homeNumber" id="headOfficeContactDetails.homeNumber"/>
+                <column property="headOfficeContactDetails.email" id="headOfficeContactDetails.email"/>
+                <column property="headOfficeAddress.streetName" id="headOfficeAddress.streetName"/>
+                <column property="headOfficeAddress.suburb" id="headOfficeAddress.suburb"/>
+                <column property="headOfficeAddress.city" id="headOfficeAddress.city"/>
+                <column property="headOfficeAddress.postalCode" id="headOfficeAddress.postalCode"/>
+                <column property="headOfficeAddress.province" id="headOfficeAddress.province"/>
+                <column property="headOfficeAddress.country" id="headOfficeAddress.country"/>
+                <column property="miningSector" id="miningSector"/>
+            </columns>
+            <simplePagination/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="corporationsTable.create"/>
+                <button id="editBtn" action="corporationsTable.edit"/>
+                <button id="removeBtn" action="corporationsTable.remove"/>
+            </buttonsPanel>
+        </dataGrid>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

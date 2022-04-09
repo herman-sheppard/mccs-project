@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://minesEdit.caption"
+        focusComponent="form">
+    <data>
+        <instance id="minesDc"
+                  class="io.embraceit.mccsproject.entity.Mines">
+            <fetchPlan extends="_base">
+                <property name="parentCorporation" fetch="AUTO" fetchPlan="_base"/>
+                <property name="businessAddress" fetchPlan="_instance_name">
+                    <property name="streetName"/>
+                    <property name="suburb"/>
+                    <property name="city"/>
+                    <property name="postalCode"/>
+                    <property name="province"/>
+                    <property name="country"/>
+                </property>
+                <property name="businessContactDetails" fetchPlan="_instance_name">
+                    <property name="officeNumber"/>
+                    <property name="mobileNumber"/>
+                    <property name="homeNumber"/>
+                    <property name="email"/>
+                </property>
+                <property name="businessContact" fetchPlan="_base">
+                    <property name="contactDetails" fetchPlan="_instance_name">
+                        <property name="officeNumber"/>
+                        <property name="mobileNumber"/>
+                        <property name="homeNumber"/>
+                        <property name="email"/>
+                    </property>
+                    <property name="workAddress" fetchPlan="_instance_name">
+                        <property name="streetName"/>
+                        <property name="suburb"/>
+                        <property name="city"/>
+                        <property name="postalCode"/>
+                        <property name="province"/>
+                        <property name="country"/>
+                    </property>
+                </property>
+            </fetchPlan>
+            <loader/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="windowCommitAndClose" caption="msg:///actions.Ok"
+                icon="EDITOR_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="windowClose"
+                caption="msg:///actions.Close"
+                icon="EDITOR_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout spacing="true" expand="scrollBox">
+        <scrollBox id="scrollBox" spacing="true">
+            <form id="form" dataContainer="minesDc">
+                <column width="350px">
+                    <dateField id="reportStartDateField" property="reportStartDate"/>
+                    <textField id="reportEndDateField" property="reportEndDate"/>
+                    <textField id="reportNameField" property="reportName"/>
+                    <textField id="businessNameField" property="businessName"/>
+                    <textField id="businessAddressStreetNameField" property="businessAddress.streetName"/>
+                    <textField id="businessAddressSuburbField" property="businessAddress.suburb"/>
+                    <textField id="businessAddressCityField" property="businessAddress.city"/>
+                    <textField id="businessAddressPostalCodeField" property="businessAddress.postalCode"/>
+                    <textField id="businessAddressProvinceField" property="businessAddress.province"/>
+                    <textField id="businessAddressCountryField" property="businessAddress.country"/>
+                    <textField id="businessContactDetailsOfficeNumberField"
+                               property="businessContactDetails.officeNumber"/>
+                    <textField id="businessContactDetailsMobileNumberField"
+                               property="businessContactDetails.mobileNumber"/>
+                    <textField id="businessContactDetailsHomeNumberField" property="businessContactDetails.homeNumber"/>
+                    <textField id="businessContactDetailsEmailField" property="businessContactDetails.email"/>
+                    <fileStorageUpload id="businessLogoField" property="businessLogo"/>
+                    <entityPicker id="businessContactField" property="businessContact">
+                        <actions>
+                            <action id="entityLookup" type="entity_lookup"/>
+                            <action id="entityClear" type="entity_clear"/>
+                        </actions>
+                    </entityPicker>
+                    <textField id="mineNameField" property="mineName"/>
+                    <comboBox id="miningSectorField" property="miningSector"/>
+                    <textField id="mineCodeField" property="mineCode"/>
+                    <entityPicker id="parentCorporationField" property="parentCorporation">
+                        <actions>
+                            <action id="entityLookup" type="entity_lookup"/>
+                            <action id="entityClear" type="entity_clear"/>
+                        </actions>
+                    </entityPicker>
+                </column>
+            </form>
+        </scrollBox>
+        <hbox id="editActions" spacing="true">
+            <button id="commitAndCloseBtn" action="windowCommitAndClose"/>
+            <button id="closeBtn" action="windowClose"/>
+        </hbox>
+    </layout>
+</window>

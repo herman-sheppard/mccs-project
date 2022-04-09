@@ -2,30 +2,23 @@
 <window xmlns="http://jmix.io/schema/ui/window"
         xmlns:c="http://jmix.io/schema/ui/jpql-condition"
         xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
-        caption="msg://mccsUserBrowse.caption"
-        focusComponent="mccsUsersTable">
+        caption="msg://statesBrowse.caption"
+        focusComponent="statesesTable">
     <data readOnly="true">
-        <collection id="mccsUsersDc"
-                    class="io.embraceit.mccsproject.entity.MccsUser">
-            <fetchPlan extends="_base">
-                <property name="address" fetch="AUTO" fetchPlan="_base"/>
-            </fetchPlan>
-            <loader id="mccsUsersDl">
+        <collection id="statesesDc"
+                    class="io.embraceit.mccsproject.entity.States">
+            <fetchPlan extends="_base"/>
+            <loader id="statesesDl">
                 <query>
-                    <![CDATA[select e from mccs_MccsUser e]]>
+                    <![CDATA[select e from mccs_States e]]>
                 </query>
             </loader>
         </collection>
-        <instance id="mccsUserDc" class="io.embraceit.mccsproject.entity.MccsUser">
-            <fetchPlan extends="_base"/>
-            <loader id="mccsUserDl"/>
-        </instance>
     </data>
     <facets>
         <dataLoadCoordinator auto="true"/>
         <dynattr:dynamicAttributes/>
         <screenSettings id="settingsFacet" auto="true"/>
-        <presentations auto="true"/>
     </facets>
     <actions>
         <action id="lookupSelectAction"
@@ -39,34 +32,37 @@
     </actions>
     <dialogMode height="600"
                 width="800"/>
-    <layout expand="mccsUsersTable" spacing="true">
+    <layout expand="statesesTable" spacing="true">
         <filter id="filter"
-                dataLoader="mccsUsersDl">
+                dataLoader="statesesDl">
             <properties include=".*"/>
         </filter>
-        <dataGrid id="mccsUsersTable"
-                  width="100%"
-                  dataContainer="mccsUsersDc">
+        <groupTable id="statesesTable"
+                    width="100%"
+                    dataContainer="statesesDc">
             <actions>
                 <action id="create" type="create"/>
                 <action id="edit" type="edit"/>
                 <action id="remove" type="remove"/>
             </actions>
             <columns>
-                <column property="username" id="username"/>
-                <column property="firstName" id="firstName"/>
-                <column property="lastName" id="lastName"/>
-                <column property="email" id="email"/>
-                <column property="active" id="active"/>
+                <column id="name"/>
+                <column id="countryCode"/>
+                <column id="countryName"/>
+                <column id="stateCode"/>
+                <column id="stateType"/>
+                <column id="latitude"/>
+                <column id="longitude"/>
+                <column id="location"/>
             </columns>
             <simplePagination/>
             <buttonsPanel id="buttonsPanel"
                           alwaysVisible="true">
-                <button id="createBtn" action="mccsUsersTable.create"/>
-                <button id="editBtn" action="mccsUsersTable.edit"/>
-                <button id="removeBtn" action="mccsUsersTable.remove"/>
+                <button id="createBtn" action="statesesTable.create"/>
+                <button id="editBtn" action="statesesTable.edit"/>
+                <button id="removeBtn" action="statesesTable.remove"/>
             </buttonsPanel>
-        </dataGrid>
+        </groupTable>
         <hbox id="lookupActions" spacing="true" visible="false">
             <button action="lookupSelectAction"/>
             <button action="lookupCancelAction"/>

@@ -4,6 +4,24 @@
     <menu id="application" caption="msg://io.embraceit.mccsproject/menu.application" icon="CODEPEN" expanded="true">
         <item screen="mccs_MccsUser.browse"
               caption="msg://io.embraceit.mccsproject.screen.mccsuser/mccsUserBrowse.menu" icon="USER_CIRCLE_O"/>
+        <item screen="mccs_Mines.browse" caption="msg://io.embraceit.mccsproject.screen.mines/minesBrowse.menu"
+              icon="FONT_AWESOME"/>
+        <item screen="mccs_Cities.browse" caption="msg://io.embraceit.mccsproject.screen.cities/citiesBrowse.menu"
+              icon="BUILDING_O"/>
+        <item screen="mccs_Client.browse" caption="msg://io.embraceit.mccsproject.screen.client/clientBrowse.menu"
+              icon="USER_O"/>
+        <item screen="mccs_Contractor.browse"
+              caption="msg://io.embraceit.mccsproject.screen.contractor/contractorBrowse.menu" icon="USER_PLUS"/>
+        <item screen="mccs_Corporation.browse"
+              caption="msg://io.embraceit.mccsproject.screen.corporation/corporationBrowse.menu" icon="INDUSTRY"/>
+        <item screen="mccs_Countries.browse"
+              caption="msg://io.embraceit.mccsproject.screen.countries/countriesBrowse.menu" icon="GLOBE"/>
+        <item screen="mccs_Employee.browse"
+              caption="msg://io.embraceit.mccsproject.screen.employee/employeeBrowse.menu" icon="ADDRESS_CARD"/>
+        <item screen="mccs_States.browse" caption="msg://io.embraceit.mccsproject.screen.states/statesBrowse.menu"
+              icon="ARROWS"/>
+        <item screen="mccs_MccReport.browse"
+              caption="msg://io.embraceit.mccsproject.screen.mccreport/mccReportBrowse.menu" icon="CREATE_ACTION"/>
         <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->
