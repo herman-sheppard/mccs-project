@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.5.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="1" author="mccs">
+        <dropForeignKeyConstraint baseTableName="qrtz_blob_triggers"
+                                  constraintName="qrtz_blob_triggers_sched_name_fkey"/>
+    </changeSet>
+    <changeSet id="2" author="mccs">
+        <dropForeignKeyConstraint baseTableName="qrtz_cron_triggers"
+                                  constraintName="qrtz_cron_triggers_sched_name_fkey"/>
+    </changeSet>
+    <changeSet id="3" author="mccs">
+        <dropForeignKeyConstraint baseTableName="qrtz_simple_triggers"
+                                  constraintName="qrtz_simple_triggers_sched_name_fkey"/>
+    </changeSet>
+    <changeSet id="4" author="mccs">
+        <dropForeignKeyConstraint baseTableName="qrtz_simprop_triggers"
+                                  constraintName="qrtz_simprop_triggers_sched_name_fkey"/>
+    </changeSet>
+    <changeSet id="5" author="mccs">
+        <dropForeignKeyConstraint baseTableName="qrtz_triggers" constraintName="qrtz_triggers_sched_name_fkey"/>
+    </changeSet>
+    <changeSet id="6" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_blob_triggers"/>
+    </changeSet>
+    <changeSet id="7" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_calendars"/>
+    </changeSet>
+    <changeSet id="8" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_cron_triggers"/>
+    </changeSet>
+    <changeSet id="9" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_fired_triggers"/>
+    </changeSet>
+    <changeSet id="10" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_job_details"/>
+    </changeSet>
+    <changeSet id="11" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_locks"/>
+    </changeSet>
+    <changeSet id="12" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_paused_trigger_grps"/>
+    </changeSet>
+    <changeSet id="13" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_scheduler_state"/>
+    </changeSet>
+    <changeSet id="14" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_simple_triggers"/>
+    </changeSet>
+    <changeSet id="15" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_simprop_triggers"/>
+    </changeSet>
+    <changeSet id="16" author="mccs">
+        <dropTable cascadeConstraints="true" tableName="qrtz_triggers"/>
+    </changeSet>
+</databaseChangeLog>
