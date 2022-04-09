@@ -1,6 +1,10 @@
  resource "heroku_app" "mccs_staging" {
    name   = "mccs-staging"
    region = "eu"
+   config_vars = {
+     JMIX_PREMIUM_USER = var.JMIX_PREMIUM_USER
+     JMIX_PREMIUM_PASSWORD = var.JMIX_PREMIUM_PASSWORD
+   }
 
    buildpacks = [
      "heroku/gradle"
