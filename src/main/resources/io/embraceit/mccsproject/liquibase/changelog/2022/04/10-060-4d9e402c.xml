@@ -27,6 +27,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_OFFICE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_MOBILE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_HOME_NUMBER" type="VARCHAR(255)"/>
@@ -68,6 +69,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_OFFICE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_MOBILE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_HOME_NUMBER" type="VARCHAR(255)"/>
@@ -111,6 +113,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_STREET_NAME" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_SUBURB" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_CITY" type="VARCHAR(255)"/>
@@ -162,6 +165,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
         </createTable>
     </changeSet>
     <changeSet id="5" author="mccs">
@@ -186,6 +190,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_OFFICE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_MOBILE_NUMBER" type="VARCHAR(255)"/>
             <column name="CONTACT_DETAILS_HOME_NUMBER" type="VARCHAR(255)"/>
@@ -211,6 +216,7 @@
                 <constraints nullable="false" primaryKey="true" primaryKeyName="PK_MCCS_MCC_REPORT"/>
             </column>
             <column name="REPORT_LEVEL" type="VARCHAR(255)"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="REPORT_START_DATE" type="DATE"/>
             <column name="REPORT_END_DATE" type="VARCHAR(255)"/>
             <column name="REPORT_NAME" type="VARCHAR(255)">
@@ -262,6 +268,7 @@
             <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
             <column name="DELETED_BY" type="VARCHAR(255)"/>
             <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_STREET_NAME" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_SUBURB" type="VARCHAR(255)"/>
             <column name="BUSINESS_ADDRESS_CITY" type="VARCHAR(255)"/>
@@ -279,6 +286,44 @@
         </createTable>
     </changeSet>
     <changeSet id="8" author="mccs">
+        <addColumn tableName="MCCS_USER">
+            <column name="ADDRESS_CITY" type="VARCHAR(255)"/>
+            <column name="ADDRESS_COUNTRY" type="VARCHAR(255)"/>
+            <column name="ADDRESS_POSTAL_CODE" type="VARCHAR(255)"/>
+            <column name="ADDRESS_PROVINCE" type="VARCHAR(255)"/>
+            <column name="ADDRESS_STREET_NAME" type="VARCHAR(255)"/>
+            <column name="ADDRESS_SUBURB" type="VARCHAR(255)"/>
+            <column name="MCTENANT" type="VARCHAR(255)"/>
+            <column name="PROFILE_IMAGE" type="VARCHAR(1024)"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="9" author="mccs">
+        <addColumn tableName="MCCS_USER">
+            <column name="DTYPE" type="VARCHAR(31)"/>
+        </addColumn>
+
+        <update tableName="MCCS_USER">
+            <column name="DTYPE" value="mccs_User"/>
+            <where>DTYPE is null</where>
+        </update>
+    </changeSet>
+    <changeSet id="10" author="mccs">
+        <addColumn tableName="MCCS_CITIES">
+            <column name="TENANT" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="11" author="mccs">
+        <addColumn tableName="MCCS_COUNTRIES">
+            <column name="TENANT" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="12" author="mccs">
+        <addColumn tableName="MCCS_STATES">
+            <column name="TENANT" type="VARCHAR(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="13" author="mccs">
         <createIndex indexName="IDX_CLIENT_COMPANY_CONTACT_ID" tableName="MCCS_CLIENT">
             <column name="COMPANY_CONTACT_ID"/>
         </createIndex>
@@ -287,7 +332,7 @@
                                  constraintName="FK_MCCS_CLIENT_ON_COMPANY_CONTACT" referencedColumnNames="ID"
                                  referencedTableName="MCCS_EMPLOYEE"/>
     </changeSet>
-    <changeSet id="9" author="mccs">
+    <changeSet id="14" author="mccs">
         <createIndex indexName="IDX_MINES" tableName="MCCS_MINES">
             <column name="PARENT_CORPORATION_ID"/>
         </createIndex>
@@ -296,12 +341,12 @@
                                  constraintName="FK_MCCS_MINES_ON_PARENT_CORPORATION" referencedColumnNames="ID"
                                  referencedTableName="MCCS_CORPORATION"/>
     </changeSet>
-    <changeSet id="10" author="mccs">
+    <changeSet id="15" author="mccs">
         <addForeignKeyConstraint baseColumnNames="BUSINESS_CONTACT_ID" baseTableName="MCCS_CORPORATION"
                                  constraintName="FK_MCCS_CORPORATION_ON_BUSINESS_CONTACT" referencedColumnNames="ID"
                                  referencedTableName="MCCS_CLIENT"/>
     </changeSet>
-    <changeSet id="11" author="mccs">
+    <changeSet id="16" author="mccs">
         <addForeignKeyConstraint baseColumnNames="BUSINESS_CONTACT_ID" baseTableName="MCCS_MINES"
                                  constraintName="FK_MCCS_MINES_ON_BUSINESS_CONTACT" referencedColumnNames="ID"
                                  referencedTableName="MCCS_CLIENT"/>
