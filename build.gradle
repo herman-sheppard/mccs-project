@@ -77,6 +77,7 @@ dependencies {
     implementation("io.jmix.businesscalendar:jmix-businesscalendar-ui-starter")
     implementation("io.jmix.notifications:jmix-notifications-starter")
     implementation("io.jmix.notifications:jmix-notifications-ui-starter")
+    implementation("io.jmix.awsfs:jmix-awsfs-starter")
 }
 
 test {
