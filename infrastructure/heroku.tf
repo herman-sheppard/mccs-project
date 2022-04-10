@@ -16,6 +16,11 @@
    plan = "heroku-postgresql:hobby-dev"
  }
 
+ resource "heroku_addon" "mccs_staging_cloudcube" {
+   app  = heroku_app.mccs_staging.id
+   plan = "cloudcube:hobby"
+ }
+
  resource "heroku_pipeline" "mccs_pipeline" {
    name = "mccs-pipeline"
  }
