@@ -42,6 +42,8 @@ jobs:
           MAIN_DATASOURCE_URL: jdbc:postgresql://postgres:5432/mccs-test-db
           MAIN_DATASOURCE_USERNAME: db_user
           MAIN_DATASOURCE_PASSWORD: db_password
+          JMIX_PREMIUM_USER: ${JMIX_PREMIUM_USER}
+          JMIX_PREMIUM_PASSWORD: ${JMIX_PREMIUM_PASSWORD}
         run:  ./gradlew clean test
 
       - name:  Publish Test Report
