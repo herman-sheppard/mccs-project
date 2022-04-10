@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:c="http://jmix.io/schema/ui/jpql-condition"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://mccsUserBrowse.caption"
+        focusComponent="mccsUsersTable">
+    <data readOnly="true">
+        <collection id="mccsUsersDc"
+                    class="io.embraceit.mccsproject.entity.MccsUser">
+            <fetchPlan extends="_base">
+                <property name="address" fetch="AUTO" fetchPlan="_base"/>
+            </fetchPlan>
+            <loader id="mccsUsersDl">
+                <query>
+                    <![CDATA[select e from mccs_MccsUser e]]>
+                </query>
+            </loader>
+        </collection>
+        <instance id="mccsUserDc" class="io.embraceit.mccsproject.entity.MccsUser">
+            <fetchPlan extends="_base"/>
+            <loader id="mccsUserDl"/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+        <presentations auto="true"/>
+    </facets>
+    <actions>
+        <action id="lookupSelectAction"
+                caption="msg:///actions.Select"
+                icon="LOOKUP_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="lookupCancelAction"
+                caption="msg:///actions.Cancel"
+                icon="LOOKUP_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="mccsUsersTable" spacing="true">
+        <filter id="filter"
+                dataLoader="mccsUsersDl">
+            <properties include=".*"/>
+        </filter>
+        <dataGrid id="mccsUsersTable"
+                  width="100%"
+                  dataContainer="mccsUsersDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column property="username" id="username"/>
+                <column property="firstName" id="firstName"/>
+                <column property="lastName" id="lastName"/>
+                <column property="email" id="email"/>
+                <column property="active" id="active"/>
+            </columns>
+            <simplePagination/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="mccsUsersTable.create"/>
+                <button id="editBtn" action="mccsUsersTable.edit"/>
+                <button id="removeBtn" action="mccsUsersTable.remove"/>
+            </buttonsPanel>
+        </dataGrid>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

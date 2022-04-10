@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:c="http://jmix.io/schema/ui/jpql-condition"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://employeeBrowse.caption"
+        focusComponent="employeesTable">
+    <data readOnly="true">
+        <collection id="employeesDc"
+                    class="io.embraceit.mccsproject.entity.Employee">
+            <fetchPlan extends="_base">
+                <property name="contactDetails" fetchPlan="_instance_name">
+                    <property name="officeNumber"/>
+                    <property name="mobileNumber"/>
+                    <property name="homeNumber"/>
+                    <property name="email"/>
+                </property>
+                <property name="workAddress" fetchPlan="_instance_name">
+                    <property name="streetName"/>
+                    <property name="suburb"/>
+                    <property name="city"/>
+                    <property name="postalCode"/>
+                </property>
+            </fetchPlan>
+            <loader id="employeesDl">
+                <query>
+                    <![CDATA[select e from mccs_Employee e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="lookupSelectAction"
+                caption="msg:///actions.Select"
+                icon="LOOKUP_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="lookupCancelAction"
+                caption="msg:///actions.Cancel"
+                icon="LOOKUP_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="employeesTable" spacing="true">
+        <filter id="filter"
+                dataLoader="employeesDl">
+            <properties include=".*"/>
+        </filter>
+        <dataGrid id="employeesTable"
+                  width="100%"
+                  dataContainer="employeesDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column property="reportStartDate" id="reportStartDate"/>
+                <column property="reportEndDate" id="reportEndDate"/>
+                <column property="reportName" id="reportName"/>
+                <column property="firstName" id="firstName"/>
+                <column property="surname" id="surname"/>
+                <column property="contactDetails.officeNumber" id="contactDetails.officeNumber"/>
+                <column property="contactDetails.mobileNumber" id="contactDetails.mobileNumber"/>
+                <column property="contactDetails.homeNumber" id="contactDetails.homeNumber"/>
+                <column property="contactDetails.email" id="contactDetails.email"/>
+                <column property="workAddress.streetName" id="workAddress.streetName"/>
+                <column property="workAddress.suburb" id="workAddress.suburb"/>
+                <column property="workAddress.city" id="workAddress.city"/>
+                <column property="workAddress.postalCode" id="workAddress.postalCode"/>
+                <column property="acceptMailingLists" id="acceptMailingLists"/>
+                <column property="employeeNumber" id="employeeNumber"/>
+            </columns>
+            <simplePagination/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="employeesTable.create"/>
+                <button id="editBtn" action="employeesTable.edit"/>
+                <button id="removeBtn" action="employeesTable.remove"/>
+            </buttonsPanel>
+        </dataGrid>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>

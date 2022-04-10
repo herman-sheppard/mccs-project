@@ -2,6 +2,7 @@ package io.embraceit.mccsproject.entity;
 
 import io.jmix.core.annotation.DeletedBy;
 import io.jmix.core.annotation.DeletedDate;
+import io.jmix.core.annotation.TenantId;
 import io.jmix.core.entity.annotation.JmixGeneratedValue;
 import io.jmix.core.metamodel.annotation.JmixEntity;
 import org.springframework.data.annotation.CreatedBy;
@@ -51,6 +52,10 @@ public class StandardEntity {
     @Column(name = "DELETED_DATE")
     @Temporal(TemporalType.TIMESTAMP)
     private Date deletedDate;
+
+    @TenantId
+    @Column(name = "TENANT")
+    private String tenant;
 
     public Date getDeletedDate() {
         return deletedDate;
@@ -114,5 +119,13 @@ public class StandardEntity {
 
     public void setId(UUID id) {
         this.id = id;
+    }
+
+    public String getTenant() {
+        return tenant;
+    }
+
+    public void setTenant(String tenant) {
+        this.tenant = tenant;
     }
 }

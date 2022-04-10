@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://contractorEdit.caption"
+        focusComponent="form">
+    <data>
+        <instance id="contractorDc"
+                  class="io.embraceit.mccsproject.entity.Contractor">
+            <fetchPlan extends="_base">
+                <property name="contactDetails" fetchPlan="_instance_name">
+                    <property name="officeNumber"/>
+                    <property name="mobileNumber"/>
+                    <property name="homeNumber"/>
+                    <property name="email"/>
+                </property>
+                <property name="workAddress" fetchPlan="_instance_name">
+                    <property name="streetName"/>
+                    <property name="suburb"/>
+                    <property name="city"/>
+                    <property name="postalCode"/>
+                    <property name="province"/>
+                    <property name="country"/>
+                </property>
+            </fetchPlan>
+            <loader/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="windowCommitAndClose" caption="msg:///actions.Ok"
+                icon="EDITOR_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="windowClose"
+                caption="msg:///actions.Close"
+                icon="EDITOR_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout spacing="true" expand="scrollBox">
+        <scrollBox id="scrollBox" spacing="true">
+            <form id="form" dataContainer="contractorDc">
+                <column width="350px">
+                    <dateField id="reportStartDateField" property="reportStartDate"/>
+                    <textField id="reportEndDateField" property="reportEndDate"/>
+                    <textField id="reportNameField" property="reportName"/>
+                    <textField id="firstNameField" property="firstName"/>
+                    <textField id="surnameField" property="surname"/>
+                    <textField id="contactDetailsOfficeNumberField" property="contactDetails.officeNumber"/>
+                    <textField id="contactDetailsMobileNumberField" property="contactDetails.mobileNumber"/>
+                    <textField id="contactDetailsHomeNumberField" property="contactDetails.homeNumber"/>
+                    <textField id="contactDetailsEmailField" property="contactDetails.email"/>
+                    <textField id="workAddressStreetNameField" property="workAddress.streetName"/>
+                    <textField id="workAddressSuburbField" property="workAddress.suburb"/>
+                    <textField id="workAddressCityField" property="workAddress.city"/>
+                    <textField id="workAddressPostalCodeField" property="workAddress.postalCode"/>
+                    <textField id="workAddressProvinceField" property="workAddress.province"/>
+                    <textField id="workAddressCountryField" property="workAddress.country"/>
+                    <checkBox id="acceptMailingListsField" property="acceptMailingLists"/>
+                    <textField id="contractorNumberField" property="contractorNumber"/>
+                    <dateField id="contractStartDateField" property="contractStartDate"/>
+                    <dateField id="contractEndDateField" property="contractEndDate"/>
+                </column>
+            </form>
+        </scrollBox>
+        <hbox id="editActions" spacing="true">
+            <button id="commitAndCloseBtn" action="windowCommitAndClose"/>
+            <button id="closeBtn" action="windowClose"/>
+        </hbox>
+    </layout>
+</window>

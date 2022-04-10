@@ -2,10 +2,12 @@ package io.embraceit.mccsproject.entity;
 
 import io.jmix.core.HasTimeZone;
 import io.jmix.core.annotation.Secret;
+import io.jmix.core.annotation.TenantId;
 import io.jmix.core.entity.annotation.SystemLevel;
 import io.jmix.core.metamodel.annotation.DependsOnProperties;
 import io.jmix.core.metamodel.annotation.InstanceName;
 import io.jmix.core.metamodel.annotation.JmixEntity;
+import io.jmix.multitenancy.core.AcceptsTenant;
 import io.jmix.security.authentication.JmixUserDetails;
 import org.springframework.security.core.GrantedAuthority;
 
@@ -19,7 +21,7 @@ import java.util.Collections;
 @Table(name = "MCCS_USER", indexes = {
         @Index(name = "IDX_MCCS_USER_ON_USERNAME", columnList = "USERNAME", unique = true)
 })
-public class User extends StandardEntity implements JmixUserDetails, HasTimeZone {
+public class User extends StandardEntity implements JmixUserDetails, HasTimeZone, AcceptsTenant {
 
     @Column(name = "USERNAME", nullable = false)
     protected String username;
@@ -44,6 +46,10 @@ public class User extends StandardEntity implements JmixUserDetails, HasTimeZone
 
     @Column(name = "TIME_ZONE_ID")
     protected String timeZoneId;
+
+    @TenantId
+    @Column(name = "MCTENANT")
+    private String tenant;
 
     @Transient
     protected Collection<? extends GrantedAuthority> authorities;
@@ -141,5 +147,20 @@ public class User extends StandardEntity implements JmixUserDetails, HasTimeZone
 
     public void setTimeZoneId(String timeZoneId) {
         this.timeZoneId = timeZoneId;
+    }
+
+    @Override
+    public String getTenant() {
+        return tenant;
+    }
+
+    @Override
+    public void setTenant(String tenant) {
+        this.tenant = tenant;
+    }
+
+    @Override
+    public String getTenantId() {
+        return tenant;
     }
 }

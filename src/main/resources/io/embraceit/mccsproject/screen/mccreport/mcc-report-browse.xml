@@ -1,0 +1,107 @@
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:c="http://jmix.io/schema/ui/jpql-condition"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://mccReportBrowse.caption"
+        focusComponent="table">
+    <data>
+        <collection id="mccReportsDc"
+                    class="io.embraceit.mccsproject.entity.MccReport">
+            <fetchPlan extends="_base">
+                <property name="tableOfContents" fetchPlan="_base"/>
+            </fetchPlan>
+            <loader id="mccReportsDl">
+                <query>
+                    <![CDATA[select e from mccs_MccReport e]]>
+                </query>
+            </loader>
+        </collection>
+        <instance id="mccReportDc"
+                  class="io.embraceit.mccsproject.entity.MccReport">
+            <fetchPlan extends="_base">
+                <property name="tableOfContents" fetchPlan="_base"/>
+            </fetchPlan>
+            <loader/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="save" icon="OK" caption="msg:///actions.Ok" shortcut="CTRL-ENTER"/>
+        <action id="cancel" icon="CANCEL" caption="msg:///actions.Cancel" description="Esc"/>
+    </actions>
+    <dialogMode height="600" width="800"/>
+    <layout>
+        <split id="split" height="100%" orientation="horizontal" reversePosition="true" width="100%">
+            <vbox id="lookupBox" expand="table" height="100%" margin="false,true,false,false" spacing="true">
+                <filter id="filter" dataLoader="mccReportsDl">
+                    <properties include=".*"/>
+                </filter>
+                <dataGrid id="table"
+                          width="100%"
+                          dataContainer="mccReportsDc">
+                    <actions>
+                        <action id="create" type="create"/>
+                        <action id="edit" type="edit"/>
+                        <action id="remove" type="remove"/>
+                    </actions>
+                    <columns>
+                        <column property="reportStartDate" id="reportStartDate"/>
+                        <column property="reportEndDate" id="reportEndDate"/>
+                        <column property="reportName" id="reportName"/>
+                        <column property="reportLevel" id="reportLevel"/>
+                        <column property="tableOfContents.reportName" id="tableOfContents.reportName"/>
+                        <column property="tableOfContents.companyName" id="tableOfContents.companyName"/>
+                        <column property="tableOfContents.sectorName" id="tableOfContents.sectorName"/>
+                        <column property="tableOfContents.mineName" id="tableOfContents.mineName"/>
+                        <column property="tableOfContents.miningRightsFileNumber"
+                                id="tableOfContents.miningRightsFileNumber"/>
+                        <column property="tableOfContents.mineCode" id="tableOfContents.mineCode"/>
+                        <column property="tableOfContents.commodity" id="tableOfContents.commodity"/>
+                        <column property="tableOfContents.tocHeading" id="tableOfContents.tocHeading"/>
+                        <column property="tableOfContents.tocSubheading" id="tableOfContents.tocSubheading"/>
+                    </columns>
+                    <simplePagination/>
+                    <buttonsPanel id="buttonsPanel"
+                                  alwaysVisible="true">
+                        <button id="createBtn" action="table.create"/>
+                        <button id="editBtn" action="table.edit"/>
+                        <button id="removeBtn" action="table.remove"/>
+                    </buttonsPanel>
+                </dataGrid>
+                <hbox id="lookupActions" spacing="true" visible="false">
+                    <button action="lookupSelectAction"/>
+                    <button action="lookupCancelAction"/>
+                </hbox>
+            </vbox>
+            <vbox id="editBox" height="100%" margin="false,false,false,true" expand="fieldGroupBox" spacing="true">
+                <scrollBox id="fieldGroupBox">
+                    <form id="form" dataContainer="mccReportDc">
+                        <column width="350px">
+                            <dateField id="reportStartDateField" property="reportStartDate"/>
+                            <textField id="reportEndDateField" property="reportEndDate"/>
+                            <textField id="reportNameField" property="reportName"/>
+                            <comboBox id="reportLevelField" property="reportLevel"/>
+                            <textField id="tableOfContentsReportNameField" property="tableOfContents.reportName"/>
+                            <textField id="tableOfContentsCompanyNameField" property="tableOfContents.companyName"/>
+                            <textField id="tableOfContentsSectorNameField" property="tableOfContents.sectorName"/>
+                            <textField id="tableOfContentsMineNameField" property="tableOfContents.mineName"/>
+                            <textField id="tableOfContentsMiningRightsFileNumberField"
+                                       property="tableOfContents.miningRightsFileNumber"/>
+                            <textField id="tableOfContentsMineCodeField" property="tableOfContents.mineCode"/>
+                            <comboBox id="tableOfContentsCommodityField" property="tableOfContents.commodity"/>
+                            <textField id="tableOfContentsTocHeadingField" property="tableOfContents.tocHeading"/>
+                            <textField id="tableOfContentsTocSubheadingField" property="tableOfContents.tocSubheading"/>
+                        </column>
+                    </form>
+                </scrollBox>
+                <hbox id="actionsPane" spacing="true" visible="false">
+                    <button id="saveBtn" action="save"/>
+                    <button id="cancelBtn" action="cancel"/>
+                </hbox>
+            </vbox>
+        </split>
+    </layout>
+</window>
