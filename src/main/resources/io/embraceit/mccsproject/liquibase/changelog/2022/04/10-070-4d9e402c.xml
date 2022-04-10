@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.5.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="1" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="CAPITAL" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="2" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="CURRENCY" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="3" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="CURRENCY_NAME" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="4" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="CURRENCY_SYMBOL" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="5" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="EMOJIU" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="6" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="FLAG" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="7" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="ISO2" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="8" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="ISO3" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="9" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="LATITUDE" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="10" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="LOCATION" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="11" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="LONGITUDE" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="12" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="NAME" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="13" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="NATIVE_NAME" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="14" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="NUMERIC_CODE" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="15" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="PHONE_CODE" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="16" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="REGION" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="17" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="SUBREGION" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+    <changeSet id="18" author="mccs">
+        <dropNotNullConstraint columnDataType="varchar(255)" columnName="TLD" tableName="MCCS_COUNTRIES"/>
+    </changeSet>
+</databaseChangeLog>

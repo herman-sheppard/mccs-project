@@ -1,5 +1,6 @@
 package io.embraceit.mccsproject.entity;
 
+import io.embraceit.mccsproject.entity.enums.ReportLevel;
 import io.jmix.core.annotation.TenantId;
 import io.jmix.core.metamodel.annotation.JmixEntity;
 

@@ -1,4 +1,4 @@
-package io.embraceit.mccsproject.entity;
+package io.embraceit.mccsproject.entity.enums;
 
 import io.jmix.core.metamodel.datatype.impl.EnumClass;
 
