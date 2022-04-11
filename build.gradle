@@ -41,6 +41,7 @@ dependencies {
 
     implementation 'org.springframework.boot:spring-boot-starter-web'
 
+//    implementation 'de.diedavids.jmix.wizard:jmix-wizard-starter:1.0.0'
 
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
