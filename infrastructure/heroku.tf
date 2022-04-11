@@ -13,7 +13,7 @@
 
  resource "heroku_addon" "mccs_staging_db" {
    app  = heroku_app.mccs_staging.id
-   plan = "heroku-postgresql:hobby-dev"
+   plan = "heroku-postgresql:standard-0"
  }
 
  resource "heroku_addon" "mccs_staging_cloudcube" {
