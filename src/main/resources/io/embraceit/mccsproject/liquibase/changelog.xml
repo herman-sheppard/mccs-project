@@ -9,5 +9,6 @@
     <property name="uuid.type" dbms="!oracle" value="uuid"/>
 
     <includeAll path="/io/embraceit/mccsproject/liquibase/changelog"/>
+    <includeAll path="/io/embraceit/mccsproject/liquibase/data"/>
 
 </databaseChangeLog>

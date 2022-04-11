@@ -5,7 +5,6 @@ import io.jmix.core.metamodel.annotation.InstanceName;
 import io.jmix.core.metamodel.annotation.JmixEntity;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
 
 @JmixEntity
 @Table(name = "MCCS_STATES", indexes = {
@@ -14,8 +13,7 @@ import javax.validation.constraints.NotNull;
 @Entity(name = "mccs_States")
 public class States extends StandardEntity {
     @InstanceName
-    @Column(name = "NAME", nullable = false)
-    @NotNull
+    @Column(name = "NAME")
     private String name;
 
     @JoinColumn(name = "COUNTRY_ID")

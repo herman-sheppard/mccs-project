@@ -1,5 +1,6 @@
 package io.embraceit.mccsproject.entity;
 
+import io.embraceit.mccsproject.entity.enums.EnterpriseStatus;
 import io.jmix.core.metamodel.annotation.JmixEntity;
 
 import javax.persistence.Column;

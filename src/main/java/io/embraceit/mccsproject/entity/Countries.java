@@ -7,86 +7,67 @@ import io.jmix.core.metamodel.annotation.JmixEntity;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
-import javax.validation.constraints.NotNull;
 
 @JmixEntity
 @Table(name = "MCCS_COUNTRIES")
 @Entity(name = "mccs_Countries")
 public class Countries extends StandardEntity {
     @InstanceName
-    @Column(name = "NAME", nullable = false)
-    @NotNull
+    @Column(name = "NAME")
     private String name;
 
     @CaseConversion
-    @Column(name = "ISO3", nullable = false)
-    @NotNull
+    @Column(name = "ISO3")
     private String iso3;
 
     @CaseConversion
-    @Column(name = "ISO2", nullable = false)
-    @NotNull
+    @Column(name = "ISO2")
     private String iso2;
 
-    @Column(name = "NUMERIC_CODE", nullable = false)
-    @NotNull
+    @Column(name = "NUMERIC_CODE")
     private String numericCode;
 
-    @Column(name = "PHONE_CODE", nullable = false)
-    @NotNull
+    @Column(name = "PHONE_CODE")
     private String phoneCode;
 
-    @Column(name = "CAPITAL", nullable = false)
-    @NotNull
+    @Column(name = "CAPITAL")
     private String capital;
 
     @CaseConversion
-    @Column(name = "CURRENCY", nullable = false)
-    @NotNull
+    @Column(name = "CURRENCY")
     private String currency;
 
-    @Column(name = "CURRENCY_NAME", nullable = false)
-    @NotNull
+    @Column(name = "CURRENCY_NAME")
     private String currencyName;
 
-    @Column(name = "CURRENCY_SYMBOL", nullable = false)
-    @NotNull
+    @Column(name = "CURRENCY_SYMBOL")
     private String currencySymbol;
 
-    @Column(name = "TLD", nullable = false)
-    @NotNull
+    @Column(name = "TLD")
     private String tld;
 
-    @NotNull
-    @Column(name = "NATIVE_NAME", nullable = false)
+    @Column(name = "NATIVE_NAME")
     private String nativeName;
 
-    @Column(name = "REGION", nullable = false)
-    @NotNull
+    @Column(name = "REGION")
     private String region;
 
-    @Column(name = "SUBREGION", nullable = false)
-    @NotNull
+    @Column(name = "SUBREGION")
     private String subregion;
 
-    @Column(name = "LATITUDE", nullable = false)
-    @NotNull
+    @Column(name = "LATITUDE")
     private String latitude;
 
-    @Column(name = "LONGITUDE", nullable = false)
-    @NotNull
+    @Column(name = "LONGITUDE")
     private String longitude;
 
-    @Column(name = "LOCATION", nullable = false)
-    @NotNull
+    @Column(name = "LOCATION")
     private String location;
 
-    @Column(name = "FLAG", nullable = false)
-    @NotNull
+    @Column(name = "FLAG")
     private String flag;
 
-    @Column(name = "EMOJIU", nullable = false)
-    @NotNull
+    @Column(name = "EMOJIU")
     private String emojiu;
 
     public String getEmojiu() {

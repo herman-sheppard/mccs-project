@@ -45,6 +45,7 @@
                     <textField id="addressProvinceField" property="address.province"/>
                     <textField id="addressCountryField" property="address.country"/>
                     <fileStorageUpload id="profileImageField" property="profileImage"/>
+                    <textField id="tenantField" property="tenant"/>
                 </column>
             </form>
         </scrollBox>
