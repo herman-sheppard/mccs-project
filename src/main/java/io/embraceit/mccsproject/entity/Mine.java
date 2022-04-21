@@ -51,22 +51,14 @@ public class Mine extends StandardEntity {
 	@Column(name = "SECTOR")
 	private String sector;
 
-	public void setSector(Sectors sector) {
-		this.sector = sector == null ? null : sector.getId();
-	}
-
 	public Sectors getSector() {
-		return sector == null ? null : Sectors.fromId(sector);
+
+		return sector == null ? null : Sectors.valueOf(sector);
 	}
 
-
-//	public void setCommodity(Sectors commodity) {
-//		this.commodity = commodity == null ? null : commodity.getId();
-//	}
-//
-//	public Sectors getCommodity() {
-//		return commodity == null ? null : Sectors.fromId(commodity);
-//	}
+	public void setSector(Sectors sector) {
+		this.sector = sector == null ? null : sector.name();
+	}
 
 	public String getOwner() {
 		return owner;
