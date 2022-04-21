@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.5.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="1" author="mccs">
+        <createTable tableName="MCCS_HR_DEVELOPMENT">
+            <column name="ID" type="UUID">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="PK_MCCS_HR_DEVELOPMENT"/>
+            </column>
+            <column name="VERSION" type="INT">
+                <constraints nullable="false"/>
+            </column>
+            <column name="CREATED_BY" type="VARCHAR(255)"/>
+            <column name="CREATED_DATE" type="DATETIME"/>
+            <column name="LAST_MODIFIED_BY" type="VARCHAR(255)"/>
+            <column name="LAST_MODIFIED_DATE" type="DATETIME"/>
+            <column name="DELETED_BY" type="VARCHAR(255)"/>
+            <column name="DELETED_DATE" type="DATETIME"/>
+            <column name="TENANT" type="VARCHAR(255)"/>
+            <column name="ELEMENT_NUMBER" type="VARCHAR(255)"/>
+            <column name="ELEMENT_DESCRIPTION" type="VARCHAR(2000)"/>
+            <column name="MEASURE" type="VARCHAR(1000)"/>
+            <column name="COMPLIANCE_TARGET_PERCENTAGE" type="VARCHAR(255)"/>
+            <column name="WEIGHTING" type="VARCHAR(255)"/>
+            <column name="ACTUAL_PERCENTAGE" type="DOUBLE"/>
+            <column name="OUTCOME" type="VARCHAR(255)"/>
+            <column name="DOCUMENT_PROOF" type="CLOB"/>
+            <column name="OVERALL_OUTCOME" type="VARCHAR(255)"/>
+        </createTable>
+    </changeSet>
+</databaseChangeLog>

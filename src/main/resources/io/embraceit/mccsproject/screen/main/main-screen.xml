@@ -1,4 +1,5 @@
 <window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:dashboard="http://jmix.io/schema/dashboards/ui"
         caption="msg://application.caption">
 
     <layout>
@@ -42,12 +43,15 @@
                       stylename="jmix-workarea"
                       height="100%">
                 <initialLayout spacing="true" margin="true">
-                    <image id="backgroundImage"
-                           scaleMode="CONTAIN" align="MIDDLE_CENTER" height="100%">
-                        <resource>
-                            <theme path="branding/mccs-logo.svg"/>
-                        </resource>
-                    </image>
+                    <dashboard:dashboard id="mainDashboard"
+                                         code="main-dashboard">
+                    </dashboard:dashboard>
+<!--                    <image id="backgroundImage"-->
+<!--                           scaleMode="CONTAIN" align="MIDDLE_CENTER" height="100%">-->
+<!--                        <resource>-->
+<!--                            <theme path="branding/mccs-logo.svg"/>-->
+<!--                        </resource>-->
+<!--                    </image>-->
                 </initialLayout>
 
             </workArea>

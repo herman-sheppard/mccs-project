@@ -22,6 +22,12 @@
               icon="ADDRESS_CARD"/>
         <item screen="mccs_States.browse" caption="msg://io.embraceit.mccsproject.screen.states/statesBrowse.menu"
               icon="ARROWS"/>
+        <item screen="mccs_MiningCharterScorecard.browse"
+              caption="msg://io.embraceit.mccsproject.screen.miningcharterscorecard/miningCharterScorecardBrowse.menu"/>
+        <item screen="mccs_Ownership.browse"
+              caption="msg://io.embraceit.mccsproject.screen.ownership/ownershipBrowse.menu"/>
+        <item screen="mccs_HRDevelopment.browse"
+              caption="msg://io.embraceit.mccsproject.screen.hrdevelopment/HRDevelopmentBrowse.menu"/>
         <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->

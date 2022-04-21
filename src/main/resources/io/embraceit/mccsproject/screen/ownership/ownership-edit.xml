@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://ownershipEdit.caption"
+        focusComponent="form">
+    <data>
+        <instance id="ownershipDc"
+                  class="io.embraceit.mccsproject.entity.Ownership">
+            <fetchPlan extends="_base"/>
+            <loader/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="windowCommitAndClose" caption="msg:///actions.Ok"
+                icon="EDITOR_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="windowClose"
+                caption="msg:///actions.Close"
+                icon="EDITOR_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout spacing="true" expand="scrollBox">
+        <scrollBox id="scrollBox" spacing="true">
+            <form id="form" dataContainer="ownershipDc">
+                <column width="350px">
+                    <textField id="tenantField" property="tenant"/>
+                    <textField id="elementDescriptionField" property="elementDescription"/>
+                    <textField id="measureField" property="measure"/>
+                    <textField id="complianceTargetPercentageField" property="complianceTargetPercentage"/>
+                    <textField id="weightingPercentageField" property="weightingPercentage"/>
+                    <textField id="actualEntryField" property="actualEntry"/>
+                    <textField id="calculationField" property="calculation"/>
+                    <fileStorageUpload id="proofField" property="proof"/>
+                </column>
+            </form>
+        </scrollBox>
+        <hbox id="editActions" spacing="true">
+            <button id="commitAndCloseBtn" action="windowCommitAndClose"/>
+            <button id="closeBtn" action="windowClose"/>
+        </hbox>
+    </layout>
+</window>

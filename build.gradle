@@ -80,6 +80,7 @@ dependencies {
     implementation("io.jmix.notifications:jmix-notifications-ui-starter")
     implementation("io.jmix.awsfs:jmix-awsfs-starter")
     themes("io.jmix.dashboards:jmix-dashboards-ui")
+    implementation("io.jmix.dashboards:jmix-dashboards-chart-starter")
 }
 
 test {

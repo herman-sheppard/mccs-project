@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragment xmlns="http://jmix.io/schema/ui/fragment">
+    <data>
+        <collection id="minesDc" class="io.embraceit.mccsproject.entity.Mine">
+            <fetchPlan extends="_local"/>
+            <loader id="minesDl">
+                <query>
+                    <![CDATA[select e from mccs_Mine e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <layout expand="minesTable" width="100%" height="AUTO">
+        <table id="minesTable" height="100px" width="100%" dataContainer="minesDc" multiselect="true">
+            <actions>
+                <action id="excelExport" type="excelExport"/>
+                <action id="exclude" type="exclude"/>
+                <action id="listPrintForm" type="listPrintForm"/>
+                <action id="refresh" type="refresh"/>
+                <action id="showPivot" type="showPivot"/>
+                <action id="view" type="view"/>
+            </actions>
+            <buttonsPanel alwaysVisible="true">
+                <button id="minesTableExcelExportBtn" action="minesTable.excelExport"/>
+                <button id="minesTableExcludeBtn" action="minesTable.exclude"/>
+                <button id="minesTableListPrintFormBtn" action="minesTable.listPrintForm"/>
+                <button id="minesTableRefreshBtn" action="minesTable.refresh"/>
+                <button id="minesTableShowPivotBtn" action="minesTable.showPivot"/>
+                <button id="minesTableViewBtn" action="minesTable.view"/>
+            </buttonsPanel>
+            <columns>
+                <column id="tenant" visible="false"/>
+                <column id="mineCode"/>
+                <column id="mineName"/>
+                <column id="sector"/>
+                <column id="type"/>
+                <column id="owner"/>
+                <column id="commodity" visible="false"/>
+                <column id="province"/>
+                <column id="district"/>
+                <column id="farm" visible="false"/>
+                <column id="tel" visible="false"/>
+                <column id="postal" visible="false"/>
+            </columns>
+        </table>
+    </layout>
+</fragment>
