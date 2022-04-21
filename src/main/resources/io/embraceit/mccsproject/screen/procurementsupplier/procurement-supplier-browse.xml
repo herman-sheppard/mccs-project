@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://jmix.io/schema/ui/window"
+        xmlns:dynattr="http://jmix.io/schema/dynattr/ui"
+        caption="msg://procurementSupplierBrowse.caption"
+        focusComponent="procurementSuppliersTable">
+    <data readOnly="true">
+        <collection id="procurementSuppliersDc"
+                    class="io.embraceit.mccsproject.entity.ProcurementSupplier">
+            <fetchPlan extends="_base"/>
+            <loader id="procurementSuppliersDl">
+                <query>
+                    <![CDATA[select e from mccs_ProcurementSupplier e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+        <dynattr:dynamicAttributes/>
+        <screenSettings id="settingsFacet" auto="true"/>
+    </facets>
+    <actions>
+        <action id="lookupSelectAction"
+                caption="msg:///actions.Select"
+                icon="LOOKUP_OK"
+                primary="true"
+                shortcut="${COMMIT_SHORTCUT}"/>
+        <action id="lookupCancelAction"
+                caption="msg:///actions.Cancel"
+                icon="LOOKUP_CANCEL"/>
+    </actions>
+    <dialogMode height="600"
+                width="800"/>
+    <layout expand="procurementSuppliersTable" spacing="true">
+        <filter id="filter"
+                dataLoader="procurementSuppliersDl">
+            <properties include=".*"/>
+        </filter>
+        <table id="procurementSuppliersTable"
+               width="100%"
+               dataContainer="procurementSuppliersDc">
+            <actions>
+                <action id="create" type="create"/>
+                <action id="edit" type="edit"/>
+                <action id="remove" type="remove"/>
+            </actions>
+            <columns>
+                <column id="tenant"/>
+                <column id="elementNumber"/>
+                <column id="weightingPercentage"/>
+                <column id="weightedPercentageConverted"/>
+                <column id="calculation"/>
+                <column id="exampleCalculation"/>
+                <column id="exampleWeightedScore"/>
+                <column id="actualComplianceTargetPercentage"/>
+                <column id="actualWeightedScore"/>
+                <column id="documentProof"/>
+                <column id="elementDescription"/>
+                <column id="measure"/>
+                <column id="complianceTargetPercentage"/>
+            </columns>
+            <simplePagination/>
+            <buttonsPanel id="buttonsPanel"
+                          alwaysVisible="true">
+                <button id="createBtn" action="procurementSuppliersTable.create"/>
+                <button id="editBtn" action="procurementSuppliersTable.edit"/>
+                <button id="removeBtn" action="procurementSuppliersTable.remove"/>
+            </buttonsPanel>
+        </table>
+        <hbox id="lookupActions" spacing="true" visible="false">
+            <button action="lookupSelectAction"/>
+            <button action="lookupCancelAction"/>
+        </hbox>
+    </layout>
+</window>
