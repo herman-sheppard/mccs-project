@@ -1,0 +1,5238 @@
+[
+   {
+      "mine_code":"15126",
+      "mine_name":"AC STRAUSS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LITTLE ROCK TRADING 6 CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"WILDGOOSELODGE 136 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15301",
+      "mine_name":"AC STRAUSS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AC STRAUSS",
+      "tel":"(053) 963 2900",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MIMOSA 61 HO RE OF 22",
+      "postal":"PO BOX 309 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14545",
+      "mine_name":"AFPLATS (PTY) LTD-LEEUWKOP MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"IMPALA PLATINUM HOLDINGS LTD",
+      "tel":"(014) 569 3802",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"LEEUWKOP 402 JQ",
+      "postal":"PO BOX 5683 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14315",
+      "mine_name":"AFRICAN DIAMOND RESOURCES MINING &EXPLORATION",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN DIAMOND RESOURCES MINING &EXPLORATION",
+      "tel":"(053) 050 0306",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KAMEELKUIL 88 HO PTN 7, KROMPAN 85 HO PTNS 10 &11, VAALPOORT 84 HO PTN 6",
+      "postal":"PO BOX 131 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"10015",
+      "mine_name":"AFRISAM (SA) (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, LIME, SHALE FOR CEMENT"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(018) 633 6000",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"DUDFIELD 35 IP",
+      "postal":"PO BOX 600 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"14538",
+      "mine_name":"AMADWALA TRADING 399 CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DRY HARTS DIAMONDS CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"NOOITGEDACHT 144 HO, ZOETFONTEIN 168 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15051",
+      "mine_name":"AMBER CASCADES TRADING 3 CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMBER CASCADES TRADING 3 CC",
+      "tel":"(053) 963 1108",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KAMEELKUIL 88 HO",
+      "postal":"PO BOX 93 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15232",
+      "mine_name":"AN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ARNO VAN ZYL",
+      "tel":"824 404 431",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROOIBULT",
+      "postal":"PO BOX 186 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15118",
+      "mine_name":"ANDRE WARD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANDRE WARD",
+      "tel":"083 228 9909",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"ZANDFONTEIN 35 JP",
+      "postal":"PO BOX 1002 ZEERUST 2865"
+   },
+   {
+      "mine_code":"14701",
+      "mine_name":"ANGLO PLATINUM UNION CONCENTRATORS",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 786 1170",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"",
+      "postal":"PO BOX 8208 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14303",
+      "mine_name":"AP STRYDOM",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AP STRYDOM",
+      "tel":"(018) 765 1094",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"RIETVALLEI 130 IQ",
+      "postal":"PO BOX 31 RYSMIERBULT 2496"
+   },
+   {
+      "mine_code":"15415",
+      "mine_name":"ASSEN IRON ORE",
+      "commodity":[
+         "IRON ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MANNGWE MINING (PTY) LTD",
+      "tel":"(012) 643 0313",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"SWARTHOEK 10 JQ, BUFFELSPOORT 149 JQ, DORINGKLOOF 141 JQ, ASSEN 140 JQ, ASSEN 161 JQ",
+      "postal":"POSTNET SUITE 268 PRIVATE BAG X 06 WATERKLOOF 0146"
+   },
+   {
+      "mine_code":"10258",
+      "mine_name":"ATLAS CLAY (PTY) LTD",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"DIE AJ FAMIELIE TRUST",
+      "tel":"(018) 294 4604",
+      "district":"POTCHEFSTROOM",
+      "province":"NORTH-WEST",
+      "farm":"HAASKRAAL 460 IQ 54 OF 25",
+      "postal":"PO BOX 1449 POTCHEFSTROOM 2520"
+   },
+   {
+      "mine_code":"15441",
+      "mine_name":"ATMOVOX (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ATMOVOX (PTY) LTD",
+      "tel":"763 206 713",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ROSMINCOL 442 JP",
+      "postal":"PO BOX 633 KOSTER 0348"
+   },
+   {
+      "mine_code":"15120",
+      "mine_name":"AURICO GOLD RECLAMATION (PTY) LTD",
+      "commodity":[
+         "GOLD"
+      ],
+      "type":"SURFACE",
+      "owner":"AURICO GOLD RECLAMATION (PTY) LTD",
+      "tel":"(018) 468 4098",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"NOOITGEDACHT 3 &7 REM",
+      "postal":"PO BOX 1764 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"15458",
+      "mine_name":"B &E INTERNATIONAL - LONDON",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPERATING",
+      "owner":"LIZIBUZZ (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LONDON 112 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"10907",
+      "mine_name":"B &G SLATE MINING T/A BOKWENA SLATE",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"B &G SLATE MINING",
+      "tel":"842 527 011",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"BROEKMANSFONTEIN 294 JP",
+      "postal":"PO BOX 190 GROOT MARICO 2850"
+   },
+   {
+      "mine_code":"13199",
+      "mine_name":"BAFOKENG RASIMONE PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ROYAL BAFOKENG RESOURCES (67%) &RUSTENBURG PLATINUM MINES (33%)",
+      "tel":"(014) 573 1497",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHKOPPIE 104 JQ 1 2 &REM",
+      "postal":"PRIVATE BAG X82085 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14875",
+      "mine_name":"BAKUBUNG MINERALS (PTY) LTD",
+      "commodity":[
+         "PGM"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"WESIZWE PLATINUM LTD",
+      "tel":"(011) 994 4600",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"FRISCHGEWAAGD 96 JQ",
+      "postal":"PRIVATE BAG X16 NORTHLANDS 2116"
+   },
+   {
+      "mine_code":"10401",
+      "mine_name":"BA-MOGOPA GRANITE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"GA-RANKUWA",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT 410 JQ, LEEUKOP 402 JQ, LOSPERFONTEIN 405 JQ, WOLWEKRAAL 408 JQ, WONDERKOP 400 JQ, PEARL 401 JQ, BERSEBA 397 JQ, BOSPOORT 399 JQ, KAREEPOORT 407 JQ",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"14823",
+      "mine_name":"BAREND BOUWER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PJC PRETORIUS EN SEUN BOERDERY (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"WELGEDAAN 292 HO, VUURFONTEIN 117 HO, SANDRINGHAN 118 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"12158",
+      "mine_name":"BARPLATS MINES LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EASTERN PLATINUM LTD",
+      "tel":"(012) 381 1800",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BOKFONTEIN 448 JQ, DE KROON 442 JQ, DE KROON 444 JQ, ELANDSFONTEIN 440 JQ, HARTEBEESTFONTEIN 446 JQ, KROKODILDRIFT 446 JQ, ROODEKOPJES OR SWARTKOPPIES 427 JQ, ROODEKOPPIES 417 JQ, ZANDFONTEIN 447 JQ",
+      "postal":"PO BOX 513 BRITS 0250"
+   },
+   {
+      "mine_code":"15210",
+      "mine_name":"BASSFOUR 2782",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SAREL POTGIETER",
+      "tel":"083 540 2589",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZOUTPAN 301 HO, WITGATBOOM 317 HO",
+      "postal":"PO BOX 627 CHRISTIANA 2680"
+   },
+   {
+      "mine_code":"14604",
+      "mine_name":"BATHOPELE MINE",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE PLATINUM",
+      "tel":"(014) 598 3638",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WATERVAL 307 JG",
+      "postal":"PO BOX 1 BLESKOP 0292"
+   },
+   {
+      "mine_code":"14269",
+      "mine_name":"BATTON MINING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PARADISE CREEK INVESTMENT (PTY) LTD",
+      "tel":"(018) 264 4705",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ROODEPAN 180 IP 7 &RE",
+      "postal":"PO BOX 711 VENTERSDORP 2710"
+   },
+   {
+      "mine_code":"14738",
+      "mine_name":"BAY CITY TRADING 249 CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAY CITY TRADING 249 CC",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"SYFERGAT 204 HO VARIOUS, WELGEVONDEN 203 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"10218",
+      "mine_name":"BENADEPLAAS LIMESTONE MINE",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"MATSOPA MINERALS",
+      "tel":"(011) 878 0343",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"BENADEPLAAS 93 JO E F &G, BENADEPLAAS 98 JQ 5 6 &RE 7",
+      "postal":"PO BOX 14052 WADEVILLE 1422"
+   },
+   {
+      "mine_code":"15444",
+      "mine_name":"BENDER DELWERYE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GM BENDER",
+      "tel":"(018) 596 1804",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KATDOORNKRAAL 249 HO VARIOUS",
+      "postal":"PO BOX 301 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15443",
+      "mine_name":"BLIGNAUT DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"EPS BLIGNAUT",
+      "tel":"732 696 713",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"WOLMARANSSTAD TOWN AND TOWNLANDS 184 HO 2",
+      "postal":"PO BOX 477 OTTOSDAL 2610"
+   },
+   {
+      "mine_code":"14971",
+      "mine_name":"BLINK KLIP MINING (PTY) LTD - ZEVENFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ALEXANDER LOMBARD",
+      "tel":"(018) 596 2488",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZEVENFONTEIN 240 HO 11",
+      "postal":"PO BOX 41 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15423",
+      "mine_name":"BLINKKLIP MINING (PTY) LTD - TWEEBOSCH",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ALEXANDER LOMBARD",
+      "tel":"(018) 596 2488",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"TWEEBOSCH 318 IO 9",
+      "postal":"PO BOX 41 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14399",
+      "mine_name":"BLINKWATER SANDWERKE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJC BUITENDAG",
+      "tel":"082 928 8457",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WOODSTOCK 397 JP 19",
+      "postal":"PO BOX 109 SWARTRUGGENS 2835"
+   },
+   {
+      "mine_code":"13626",
+      "mine_name":"BLUE GUM DIAMONDS (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROCKWELL DIAMONDS NORTH WEST (PTY) LTD",
+      "tel":"083 601 1658",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTLAAGTE 146 IP, NOOITGEDACHT 131 IP 8, ZWARTRAND 145 IP 1 2 3 &RE",
+      "postal":"PO BOX 20576 NOORDBRUG 2522"
+   },
+   {
+      "mine_code":"15411",
+      "mine_name":"BOELA HAASBROEK",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLOMIX 109 CC",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNHOEK 165 HO VARIUS",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13962",
+      "mine_name":"BOLTUMELO DIAMONDS (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SA GEMSTONE (PTY) LTD",
+      "tel":"082 994 4444",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KRUGERSDAL 9 IQ",
+      "postal":"PO BOX 2288 PARKLANDS 2121"
+   },
+   {
+      "mine_code":"14965",
+      "mine_name":"BONACORD GRANITE QUARRY (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HOEKFONTEIN 432 5Q",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"13943",
+      "mine_name":"BOSELE DIAMOND CONCESSIONAIRS CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BOSELE DIAMOND CONCESSIONAIRS CC",
+      "tel":"722 215 693",
+      "district":"MMABATHO",
+      "province":"NORTH-WEST",
+      "farm":"MOLOPO MARIBA 308 JO",
+      "postal":"2263 MZILIKAZI ST MOHLAKENG 1759"
+   },
+   {
+      "mine_code":"14885",
+      "mine_name":"BOSHOEK",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 597 8047",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSHOEK 301",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14220",
+      "mine_name":"BOTHA &DU TOIT BOERDERY (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONOP DIAMOND MINING",
+      "tel":"(018) 468 5355",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KATDOORNKRAAL 249 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"14331",
+      "mine_name":"BRANDHOEK PROTOKOL 673/2009",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JD VAN HEERDEN",
+      "tel":"(018) 293 3875",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BRANDHOEK 78 HP 35 OF 34",
+      "postal":"PO BOX 6754 BAILLIE PARK POTCHEFSTROOM 2526"
+   },
+   {
+      "mine_code":"14069",
+      "mine_name":"BRITTENMYN",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"OOS-TVL KALKVERSKAFFERS (EDMS) BPK",
+      "tel":"(018) 464 7820",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEPAN 298 HQ, KAREEPAN 300 HQ, KAREEPAN 301 HQ",
+      "postal":"PO BOX 31 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"15326",
+      "mine_name":"BRUWER GRANITE CC",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRUWER GRANITE CC",
+      "tel":"083 678 7579",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT B 410 JQ 969, KAREEPOORT 969",
+      "postal":"PO BOX 215 SONOP 0258"
+   },
+   {
+      "mine_code":"14130",
+      "mine_name":"BUFFELSFONTEIN GM",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"VILLAGE MAIN REEF",
+      "tel":"(018) 473 7303",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTFONTEIN 422 IP, GOEDGENOEG 433 IP",
+      "postal":"PRIVATE BAG X800 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"12583",
+      "mine_name":"BUHRMANSDRIF",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"OOS-TVL KALKVERSKAFFERS (EDMS) BPK",
+      "tel":"(018) 464 7820",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"BENADEPLAATS 93 JP, WAGENDRIFT 100 JO",
+      "postal":"PO BOX 31 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"13928",
+      "mine_name":"BURGER EN ROOS DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MANYEDI DIAMOND MINING",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VLAKKRAAL 353 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13942",
+      "mine_name":"BUSTIQUE 0160 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUSTIQUE 0160 (PTY) LTD",
+      "tel":"(018) 011 1212",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"NOOITGEDACHT 131 IP",
+      "postal":"PO BOX 568 VENTERSDORP 2710"
+   },
+   {
+      "mine_code":"13897",
+      "mine_name":"CANDERO MINING &CONSULTANTS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CANDERO MINING &CONSULTANTS CC",
+      "tel":"(011) 884 3805",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"NOOITGEDACHT 434 IP, STRATHMORE 436 IP",
+      "postal":"PO BOX 785565 SANDTON 2146"
+   },
+   {
+      "mine_code":"14608",
+      "mine_name":"CARE AND MAINTENANCE OPERATIONS",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLO PLATINUM RUSTENBURG",
+      "tel":"(014) 598 1106",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"FRANK SHAFTS 1 &2",
+      "postal":"PO BOX 1 BLESKOP 0292"
+   },
+   {
+      "mine_code":"15208",
+      "mine_name":"CDB DELWERY CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CCD BOTHA",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHPLAATS 149 HO",
+      "postal":"PO BOX 6499 FLAMWWOOD 2572"
+   },
+   {
+      "mine_code":"15260",
+      "mine_name":"CH BADENHORST DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CASPER BADENHORST",
+      "tel":"(053) 433 2030",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTLAAGTE 345 HO",
+      "postal":"PO BOX 746 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"14949",
+      "mine_name":"CHARLES BOGALE - KLIPKUIL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHARLES BOGALE",
+      "tel":"732 747 522",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPKUIL 352 JP",
+      "postal":"2318 SITHOLE STREET MOHLAKENE LOCATION RANDFONTEIN 1759"
+   },
+   {
+      "mine_code":"14135",
+      "mine_name":"CHARLES MULLER DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IVORY SUN TRADING 2 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BAUCHANSVILLE 61 IQ",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13172",
+      "mine_name":"CHINA AFRICAN PRECIOUS METALS (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PENG XING SHANGHAI &BEK HOLDINGS (PTY) LTD",
+      "tel":"(018) 473 7900",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"GOEDGENOEG 433 IP, KANANA 426 IP, MODDERFONTEIN 440 IP, NOOITGEDAGHT 434 IP, ORKNEY 437 IP, VAALKOP 439 IP, WITKOP 438 IP",
+      "postal":"PRIVATE BAG X10 ORKNEY 2620"
+   },
+   {
+      "mine_code":"14945",
+      "mine_name":"CHRISJAN DIAMANTE CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHRISJAN DIAMANTE CC",
+      "tel":"(018) 632 2661",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"GOEDVOORUITZICHT 120 IP",
+      "postal":"PO BOX 1287 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"15420",
+      "mine_name":"CHRISMAR DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAYMOND JOHNSTONE",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"GELUK 42 HN RE",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"13904",
+      "mine_name":"CINLO CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CINLO CC",
+      "tel":"(053) 963 1108",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KOPPIE ALLEEN 221 HO",
+      "postal":"PO BOX 93 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15239",
+      "mine_name":"CNC CRUSHERS (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"SURFACE",
+      "owner":"CED CROUS",
+      "tel":"(018) 484 1579",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTFONTEIN SHAFT 4 422 IP",
+      "postal":"PO BOX 1053 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"15241",
+      "mine_name":"CNC CRUSHERS ROADSTONE",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CARL CROUS",
+      "tel":"(018) 484 1577",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTFONTEIN SHAFT 5 422 IP, GOEDGENOEG 433 IP",
+      "postal":"PO BOX 1054 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"15141",
+      "mine_name":"COPPER EAGLE TRADING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"COPPER EAGLE TRADING",
+      "tel":"082 852 9041",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"ZANDVALLEI 301 IO 6",
+      "postal":"PO BOX 5 BIESIESVLEI 2755"
+   },
+   {
+      "mine_code":"15157",
+      "mine_name":"COPPER SLATE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MICHAEL TULLY",
+      "tel":"082 466 2121",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESFONTEIN 450 JP",
+      "postal":"PO BOX 230 SWARTRUGGENS 2835"
+   },
+   {
+      "mine_code":"14361",
+      "mine_name":"CORLINE 117",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JODEO FOUR (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DIAMANDFONTEIN 220 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"14806",
+      "mine_name":"CORLINE 117 CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRUSTEES FO THE FERDINANT PIETERSE TRUST",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"PIENAARSFONTEIN 113 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14984",
+      "mine_name":"CORNELIUS JACQUES SWART",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JACQUES SWART",
+      "tel":"082 413 9316",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VAALBANK 355 HO 12",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"11432",
+      "mine_name":"COROBRIK - BADENHORST QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"POTCHEFSTROOM",
+      "province":"NORTH-WEST",
+      "farm":"RHENOSTERFONTEIN 559 IQ PTN OF REM",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"13287",
+      "mine_name":"COROBRIK - GOUDKOP QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"FARM 424 IP REM OF 1",
+      "postal":"C/O COROBRIK (PTY) LTD PO BOX 201367 DURBAN NORTH 4016"
+   },
+   {
+      "mine_code":"12270",
+      "mine_name":"COROBRIK - KOPANO QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESFONTEIN 422 IP 422 IP 2 OF 1",
+      "postal":"C/O COROBRIK (PTY) LTD PO BOX 201367 DURBAN NORTH 4016"
+   },
+   {
+      "mine_code":"13289",
+      "mine_name":"COROBRIK - MYBURGH QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESFONTEIN 422 IP 63 OF 13",
+      "postal":"C/O COROBRIK (PTY) LTD PO BOX 201367 DURBAN NORTH 4016"
+   },
+   {
+      "mine_code":"13280",
+      "mine_name":"COROBRIK - VILJOEN QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESFONTEIN 422 IP REM OF 26",
+      "postal":"C/O COROBRIK (PTY) LTD PO BOX 201367 DURBAN NORTH 4016"
+   },
+   {
+      "mine_code":"14506",
+      "mine_name":"COUNTER POINT TRADING 403 (PTY) LTD - LEEUWBOSCH",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"COUNTER POINT TRADING 403 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LEEUWBOSCH 236 HO RE OF 1",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13158",
+      "mine_name":"CRYSTAL BLACK GRANITE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"NYALA GRANITE MINING (PTY) LTD",
+      "tel":"(012) 252 3120",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT 410 JQ, 410 JQ VARIOUS",
+      "postal":"PO BOX 3298 BRITS 0250"
+   },
+   {
+      "mine_code":"15439",
+      "mine_name":"CS UYS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAALHARTS &VREDE BOERDERY CC",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"CATHARINA 44 HN",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15306",
+      "mine_name":"DAISY DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARIUS NEL",
+      "tel":"795 274 197",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"RIETKUIL 309 IP, DOORNFONTEIN 313 IP",
+      "postal":"PO BOX 306 HARTBEESFONTEIN 2600"
+   },
+   {
+      "mine_code":"14281",
+      "mine_name":"DAL UYS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DAL UYS",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"RIETKUIL 155 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"14554",
+      "mine_name":"DAL UYS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DAL UYS",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROOIBULT 182 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"15172",
+      "mine_name":"DAL UYS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DAL UYS",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"HOLLOWAYS RUST 199 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"15292",
+      "mine_name":"DANIE BOTES DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MERICODE (PTY) LTD",
+      "tel":"071 051 3885",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VLAKFONTEIN 37 HP 3",
+      "postal":"PO BOX 458 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14443",
+      "mine_name":"DANKIE OUPA DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DANKIE OUPA DELWERY CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHPLAATS 149 HO, VOGELSTRUISKUIL 400 HO, WELVERDIENT 151 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15429",
+      "mine_name":"DANOHER KLIPFONTEIN QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TAU PELE CONSTRUCTION (PTY) LTD",
+      "tel":"824 508 957",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KLIPFONTEIN 311 IP RE",
+      "postal":"25 BLOEMENDAL BLOEMFONTEIN 9301"
+   },
+   {
+      "mine_code":"13984",
+      "mine_name":"DESITELF 18 T/A GZ MINING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BICCY ARNOLDI",
+      "tel":"(011) 792 1006",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"CATHARINA 44 HN",
+      "postal":"PO BOX 618 FOUNTAINBLEAU 2032"
+   },
+   {
+      "mine_code":"15397",
+      "mine_name":"DIGBY PLAIN MINERAL RESOURCES (PTY) LTD",
+      "commodity":[
+         "FERROUS METALS ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MI CHIBOO FARMING II (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"DIGBY PLAIN 63 IQ",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15305",
+      "mine_name":"DIKALONE QUARRY",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAGOPA GRANITE (PTY) LTD",
+      "tel":"(012) 252 0120",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"LEEUWKOP 402 JQ",
+      "postal":"PO BOX 1 BETHANIE 0270"
+   },
+   {
+      "mine_code":"14658",
+      "mine_name":"DIUTLWILENG LAZARUS MOKOENA",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DIUTLWILENG LAZARUS MOKOENA",
+      "tel":"731 692 868",
+      "district":"MMABATHO",
+      "province":"NORTH-WEST",
+      "farm":"MOLOPO RATSHIDI FARM 302 JO",
+      "postal":"PO BOX 754 LONELY PARK MAFIKENG 8670"
+   },
+   {
+      "mine_code":"15374",
+      "mine_name":"DJG DE BEER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PB LAAS",
+      "tel":"836 268 885",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTLAAGTE 345 HO",
+      "postal":"PO BOX 193 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"14632",
+      "mine_name":"DJJ VAN ZYL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DJJ VAN ZYL",
+      "tel":"836 323 387",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTLAAGTE 345 HO RE, KAALPAN 337 HO 7",
+      "postal":"PO BOX 410 GARSFONTEIN 0042"
+   },
+   {
+      "mine_code":"13816",
+      "mine_name":"DLA INVESTMENT SA (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CELETTE SA (PTY) LTD",
+      "tel":"(012) 256 4506",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 410 JQ VARIOUS",
+      "postal":"PO BOX 1742 BRITS 0250"
+   },
+   {
+      "mine_code":"14627",
+      "mine_name":"DOORNHOEK DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DOORNHOEK 777 GLAUDINA (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DOORNHOEK 165 HO RE OF 42",
+      "postal":"PO BOX 1081 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13871",
+      "mine_name":"DS SNYDERS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DS SNYDERS",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"OLIEVENFONTEIN 114 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15199",
+      "mine_name":"DU PREEZ DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DU PREEZ GERHARD",
+      "tel":"832 359 383",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"PALMIETFONTEIN",
+      "postal":"PO BOX 914 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14528",
+      "mine_name":"DUMELA DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DUMELA DIAMONDS",
+      "tel":"(053) 963 1108",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"BLESBOK 143 HO",
+      "postal":"PO BOX 93 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15362",
+      "mine_name":"DZN DIAMANTE (EDMS) BPK",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HP VAN HEERDEN",
+      "tel":"825 702 602",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"STERKFONTEIN 155 IP 10 &14, SCHOONGEZICHT 102 HO 2 &5",
+      "postal":"13TH AVENUE 27 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"14142",
+      "mine_name":"EDMAC MINING &CONSTRUCTION",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"EDMAC MINING &CONSTRUCTION (PTY) LTD",
+      "tel":"083 652 4606",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ZOUTPAN 212 HO",
+      "postal":"PO BOX 767 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14427",
+      "mine_name":"ELAND PLATINUM MINE (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENCORE",
+      "tel":"(014) 590 2422",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 440 JQ",
+      "postal":"PRIVATE BAG X82288 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"13114",
+      "mine_name":"ELANDSFONTEIN",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KUDU GRANITE - BRITS DIVISION",
+      "tel":"(012) 252 7798",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 440 JQ 52 OF 15",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"15355",
+      "mine_name":"ELEAZAR GOLD MINE",
+      "commodity":[
+         "GOLD"
+      ],
+      "type":"OPENCAST",
+      "owner":"PCD",
+      "tel":"(013) 243 1075",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ELEAZAR 377 IP 1 2 &7",
+      "postal":"692 TSOLO STREET KHUMA STILLFONTEIN 2550"
+   },
+   {
+      "mine_code":"15432",
+      "mine_name":"ELIZABETH MP 25/2017",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DODIAM DIAMANTE CC",
+      "tel":"(018) 293 3875",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELIZABETH 357 JP PTN OF RE",
+      "postal":"PO BOX 6754 BAILLIEPARK 2526"
+   },
+   {
+      "mine_code":"14902",
+      "mine_name":"ELIZABETH PROTOKOL 352/2006",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IJ ROODT",
+      "tel":"(018) 293 3875",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELIZABETH 357 JP RE",
+      "postal":"PO BOX 6754 BAILIE PARK POTCHEFSTROOM 2526"
+   },
+   {
+      "mine_code":"14871",
+      "mine_name":"EMANUEL MULDER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"EMANUEL MULDER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MAHEMPANNEN 217 HO, GRASPAN 218 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14393",
+      "mine_name":"ERNSCOR GRANITE MINING INVESTMENTS CC",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ERNSCOR GRANITE MINING INVESTMENTS CC",
+      "tel":"(012) 252 0693",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 410 JQ",
+      "postal":"PO BOX 1541 BRITS 0250"
+   },
+   {
+      "mine_code":"14185",
+      "mine_name":"ETRUSCAN - HARTBEESLAAGTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ETRUSCAN DIAMONDS (PTY) LTD",
+      "tel":"(018) 264 4627",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTBEESLAAGTE 146 IP, THE FARM EXCL DEPROCLAIMED AREA",
+      "postal":"PO BOX 46 VENTERSDORP 2710"
+   },
+   {
+      "mine_code":"10650",
+      "mine_name":"EVRAZ VAMETCO ALLOYS (PTY) LTD",
+      "commodity":[
+         "VANADIUM ALLOYS, VANADIUM CHEMICALS"
+      ],
+      "type":"SURFACE",
+      "owner":"STRATEGIC MINERALS CORP",
+      "tel":"(012) 318 3202",
+      "district":"GA-RANKUWA",
+      "province":"NORTH-WEST",
+      "farm":"KROKODILKRAAL 426 JQ, UITVALGROND 431 JQ",
+      "postal":"PO BOX 595 BRITS 0250"
+   },
+   {
+      "mine_code":"11938",
+      "mine_name":"EXPLO CLAY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BERT 'S BRICKS (PTY) LTD",
+      "tel":"(018) 292 1615",
+      "district":"POTCHEFSTROOM",
+      "province":"NORTH-WEST",
+      "farm":"HARPINGTON PLOT 100, TOWN &TOWNLANDS 435 IQ 472",
+      "postal":"PO BOX 588 POTCHEFSTROOM 2520"
+   },
+   {
+      "mine_code":"13967",
+      "mine_name":"EXTRA DIMENSIONS 1158 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE VALLEY GRANITE",
+      "tel":"(012) 256 5361",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT 410 JQ 1143",
+      "postal":"PO BOX 2230 BRITS 0250"
+   },
+   {
+      "mine_code":"15412",
+      "mine_name":"F &J DELWERYE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"F &J DELWERYE",
+      "tel":"827 705 834",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"UITKYK 184 IP 19",
+      "postal":"PO BOX 4 RYSMIERBULT 2496"
+   },
+   {
+      "mine_code":"15413",
+      "mine_name":"FA GERBER - BARKHUIZEN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FA GERBER",
+      "tel":"083 285 2470",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"WELTEVREDEN 268 HO, PANFONTEIN 270 HO",
+      "postal":"PO BOX 64 AMALIA 2786"
+   },
+   {
+      "mine_code":"14123",
+      "mine_name":"FC PRETORIUS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FC PRETORIUS",
+      "tel":"(018) 297 3921",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"RUSTKRAAL 129 HP 39",
+      "postal":"PO BOX 689 POTCHEFSTROOM 2520"
+   },
+   {
+      "mine_code":"14737",
+      "mine_name":"FERDINAND HARTZENBERG",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FERDINAND HARTZENBERG",
+      "tel":"(053) 963 1081",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"HOUTHAALBOOMEN 31 IP",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14549",
+      "mine_name":"FOURPRET DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JAN HARMS BURGER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"VLEESCHKRAAL 145 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15347",
+      "mine_name":"FRANCOIS PETRUS KRAFT - ELANDSFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FP KRAFT",
+      "tel":"822 555 664",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 34 IP 19 &20",
+      "postal":"PO BOX 333 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"13898",
+      "mine_name":"FRANCOIS PETRUS KRAFT - ROOIPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRANCOIS PETRUS KRAFT",
+      "tel":"822 555 664",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ROOIPAN 18 IP",
+      "postal":"PO BOX 333 LICHGTENBURG 2740"
+   },
+   {
+      "mine_code":"14061",
+      "mine_name":"FRANS MEYER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRANS JACOB MEYER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LUSTFONTEIN 346 IP",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"11708",
+      "mine_name":"G &W BASE - DWAALBOOM ATTAPULGITE MI",
+      "commodity":[
+         "ATTAPULGITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZIMCO GROUP",
+      "tel":"(011) 878 0343",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"DWAALBOOM, ZUURVERDIEND 167 KP",
+      "postal":"PO BOX 14052 WADEVILLE 1422"
+   },
+   {
+      "mine_code":"15436",
+      "mine_name":"GANABO TRANSPORT &SERVICES",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KZ GANABO",
+      "tel":"835 996 720",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"VECHTVALLEI 122 HO 3",
+      "postal":"PO BOX 2127 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15379",
+      "mine_name":"GCG CRUSHERS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GCG CRUSHERS CC",
+      "tel":"(053) 963 1081",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 34 IP",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14162",
+      "mine_name":"GCT TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SH KEYSER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BLOEMHEUVEL 327 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14736",
+      "mine_name":"GENERAL NICE DEVELOPMENT SA (PTY) LTD",
+      "commodity":[
+         "MANGANESE ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"DISTANT STAR TRADING 544 CC",
+      "tel":"(053) 963 1081",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"BUCHANSVALE 61 IQ",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14133",
+      "mine_name":"GERT VENTER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GERT A VENTER",
+      "tel":"824 132 289",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KLIPFONTEIN 344 HO",
+      "postal":"PO BOX 540 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"15174",
+      "mine_name":"GG VAN NIEKERK DELVERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GG VAN NIEKERK DELVERY",
+      "tel":"845 109 716",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VLAKFONTEIN 37 HP",
+      "postal":"PO BOX 618 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15408",
+      "mine_name":"GG VAN NIEKERK DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JC MOOLMAN",
+      "tel":"829 263 752",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BLAAUWBOSCHKUIL 229 HO 8 &13",
+      "postal":"PO BOX 107 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15416",
+      "mine_name":"GG VAN NIEKERK DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JC MOOLMAN",
+      "tel":"829 263 752",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNBULT 224 HO 3 &4",
+      "postal":"PO BOX 107 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15389",
+      "mine_name":"GJ BESTER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MULDER MINING INVESTMENTS",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"GROOTLAAGTE 190 HO 1 &11",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15207",
+      "mine_name":"GLOMIX 109",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"W BOTHA",
+      "tel":"071 689 2845",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"ZANDFONTEIN 90 HO",
+      "postal":"PO BOX 902 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"15200",
+      "mine_name":"GOLDEN DIAMOND FARMS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WS OOSTHUIZEN",
+      "tel":"(018) 596 1562",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ZOUTPAN 212 HO",
+      "postal":"PO BOX 767 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14278",
+      "mine_name":"GOODYS MINING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MODISAOTSILE GOODWIL TLATSANA",
+      "tel":"723 777 923",
+      "district":"MMABATHO",
+      "province":"NORTH-WEST",
+      "farm":"FARM 302 JO",
+      "postal":"PO BOX 222 MAFIKENG 2745"
+   },
+   {
+      "mine_code":"13817",
+      "mine_name":"GOUDSPEG ONTWIKKELAARS",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GOUDSPEG ONTWIKKELAARS",
+      "tel":"(012) 256 5361",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT B 410 JQ 1144, PTNS 124 125 143 146 609 &972",
+      "postal":"PO BOX 2230 BRITS 0250"
+   },
+   {
+      "mine_code":"13971",
+      "mine_name":"GRAND PALACE TRADING 126 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAND PALACE TRADING 126 (PTY) LTD",
+      "tel":"082 804 5246",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT B 410 JQ 1219",
+      "postal":"PO BOX 894 BRITS 0250"
+   },
+   {
+      "mine_code":"15257",
+      "mine_name":"GRASPAN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NAMAKWA HOLDINGS",
+      "tel":"(053) 963 1108",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LONDON 112 HO",
+      "postal":"38 THERESA STREET SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13946",
+      "mine_name":"GREAT CORMORANT INVESTMENTS 141 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GREAT CORMORANT INVESTMENTS 141 (PTY) LTD",
+      "tel":"(011) 285 0132",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 410 JQ 1142",
+      "postal":"PO BOX 78465 SANTON 2146"
+   },
+   {
+      "mine_code":"15280",
+      "mine_name":"HARTEZER &STEYN BELEGGINGS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HARTEZER &STEYN BELEGGINGS / BEKKER DELWERY CONTRACTOR",
+      "tel":"082 895 3516",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTPLAAT",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"14932",
+      "mine_name":"HEAVY FEATHER TRADING 22 CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HEAVY FEATHER TRADING 22 CC",
+      "tel":"083 390 2853",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DRIEFONTEIN 34 5 &6",
+      "postal":"PO BOX 371 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"10270",
+      "mine_name":"HELAM MINING (PTY) LTD",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PETRA DIAMONDS",
+      "tel":"(014) 544 6100",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"NOOITGEDACHT 381 JP",
+      "postal":"PO BOX 2 SWARTRUGGENS 2835"
+   },
+   {
+      "mine_code":"12701",
+      "mine_name":"HERNIC FERROCHOME (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"HERNIC FERROCHROME (PTY) LTD",
+      "tel":"(012) 381 1100",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSKRAAL 469 JQ, DE KROON 444 JQ 103, WATERVAL 306 JQ, BOKFONTEIN 448 JQ, MAROELABULT",
+      "postal":"PO BOX 4534 BRITS 0250"
+   },
+   {
+      "mine_code":"13055",
+      "mine_name":"HERNIC FERROCHROME WORKS",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"HERNIC FERROCHROME (PTY) LTD",
+      "tel":"(012) 381 1100",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"DE KROON 444 JQ 103",
+      "postal":"PO BOX 4534 BRITS 0250"
+   },
+   {
+      "mine_code":"14411",
+      "mine_name":"HG DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NKULU MINING CONTRACTOR",
+      "tel":"082 895 3516",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSPAN 357 IO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"13585",
+      "mine_name":"HG ROHLANDT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HG ROHLANDT",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"AVONDSTER 142 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15255",
+      "mine_name":"HIGHLY BLUE TRADING (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOSES BUTI MOLOI",
+      "tel":"878 150 180",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEES 427 JQ VARIOUS, ROODEKOPJES OR ZWARTKOPJES 427 JQ VARIOUS",
+      "postal":"PO BOX 12473 TRAMSHED 0126"
+   },
+   {
+      "mine_code":"13945",
+      "mine_name":"HIROGEN MINE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"S MICHEAL AND GM SMITH",
+      "tel":"832 251 719",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"LA REYS STRYD 53 IO 2 3 &4",
+      "postal":"PO BOX 783661 SANDTON 2146"
+   },
+   {
+      "mine_code":"13263",
+      "mine_name":"HORIZON CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 597 8047",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"RUIGHOEK 169 JP, VOGELSTRUISNEK 173 JP 169",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"15299",
+      "mine_name":"HPJ VILJOEN DELWERY - SITE 3",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HPJ VILJOEN",
+      "tel":"716 752 692",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KAMEELKUIL 88 HO REM OF 3",
+      "postal":"PO BOX 893 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"15000",
+      "mine_name":"HRI VAN DER MERWE - KLIPBANKFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HRI VAN DER MERWE",
+      "tel":"836 503 715",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPBANKFONTEIN 26 IP",
+      "postal":"PO BOX 3384 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"14366",
+      "mine_name":"IDADA TRADING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"OERSONKRAAL MINING CO (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"OERSONSKRAAL 250 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"12110",
+      "mine_name":"IDWALA WITPOORT QUARRY",
+      "commodity":[
+         "PYROPHYLLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IDWALA INDUSTRIAL MINERALS",
+      "tel":"(011) 914 2600",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WITPOORT 281 IP",
+      "postal":"PO BOX 6056 DUNSWART 1508"
+   },
+   {
+      "mine_code":"15017",
+      "mine_name":"IMPALA PLATINUM CHROME (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMPALA PLATINUM CHROME (PTY) LTD",
+      "tel":"(014) 569 6770",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BEERFONTEIN PHOKENG",
+      "postal":"PO BOX 5683 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"12434",
+      "mine_name":"IMPALA PLATINUM LTD",
+      "commodity":[
+         "PGM, GOLD, SILVER, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, AMMONIUM SULPHATE, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"IMPALA PLATINUM HOLDINGS LTD",
+      "tel":"(014) 569 6720",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"DOORNSPRUIT 106 JQ, VAALKOP 275 JQ, WILDEBEESFONTEIN 274 JQ",
+      "postal":"PO BOX 5863 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"11615",
+      "mine_name":"INTERNATIONAL FERRO METALS (SA) - MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"INTERNATIONAL FERRO METALS LTD",
+      "tel":"(014) 574 6500",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BUFFELSFONTEIN 465 JQ 11 &12",
+      "postal":"PO BOX 2223 MOOINOOI 0325"
+   },
+   {
+      "mine_code":"14419",
+      "mine_name":"INTERNATIONAL FERRO METALS (SA) - WORKS",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"INTERNATIONAL FERRO METALS LTD",
+      "tel":"(014) 574 6300",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BUFFELSFONTEIN 465 JQ 11",
+      "postal":"PRIVATE BAG 2223 MOOINOOI 0325"
+   },
+   {
+      "mine_code":"15237",
+      "mine_name":"J &K STEYN TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PIETER ROUX &HENNIE JACOBS",
+      "tel":"845 893 783",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VLAKFONTEIN 37 HP",
+      "postal":"PO BOX 937 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14338",
+      "mine_name":"J SMIT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"J SMIT",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MOOIFONTEIN 140 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"14367",
+      "mine_name":"J VAN WYK",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VISKA DELWERY CC",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEPAN 336 HO 1 3 4 5 7O, RENE 335 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15401",
+      "mine_name":"JACKPOT DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CALOCUBE (PTY) LTD",
+      "tel":"729 110 823",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KLIPFONTEIN 344 HO 1",
+      "postal":"PO BOX 29567 DANHOF BLOEMFONTEIN 9310"
+   },
+   {
+      "mine_code":"13964",
+      "mine_name":"JACO GREYLING DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MULTILAYER TRADING 282 CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KROMPAN 85 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14982",
+      "mine_name":"JACOBUS ERNST POTGIETER",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JACOBUS ERNST POTGIETER",
+      "tel":"(012) 262 0129",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ROODEKOPJES 417 JQ PTNS",
+      "postal":"PO BOX 1618 BRITS 0250"
+   },
+   {
+      "mine_code":"14357",
+      "mine_name":"JB RHEEDER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JB RHEEDER",
+      "tel":"(018) 597 4336",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"RUSTKRAAL 129 HP 3 PTN OF 4",
+      "postal":"PO BOX 118 MAKWASSIE 2650"
+   },
+   {
+      "mine_code":"14745",
+      "mine_name":"JC K üHN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JC K ÜHN",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"OERSONSKRAAL 250 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15335",
+      "mine_name":"JC LUBBE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JC LUBBE",
+      "tel":"834 980 170",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"RUSTKRAAL 138 HP",
+      "postal":"PO BOX 12 MAKWASSIE 2650"
+   },
+   {
+      "mine_code":"13587",
+      "mine_name":"JG UYS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DAL UYS",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROOIBULT 152 HO, RIETKUIL 155 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"12698",
+      "mine_name":"JG UYS - ROODEPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DAL UYS",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROODEPAN 163 HO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"15288",
+      "mine_name":"JJ OOSTHUIZEN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOSEF J OOSTHUIZEN",
+      "tel":"837 355 244",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROODEPAN 163 HO",
+      "postal":"PO BOX 6046 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15178",
+      "mine_name":"JJG KIRSTEN - GS SCHUTTE DOORNBULT BOERDERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJG KIRSTEN",
+      "tel":"826 785 756",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNBULT 224 HO",
+      "postal":"PO BOX 172 MAKWASSIE 2650"
+   },
+   {
+      "mine_code":"14210",
+      "mine_name":"JM VAN DER MERWE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JM VAN DER MERWE",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DE HOOP 1098 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14821",
+      "mine_name":"JM VAN DER MERWE - DRIEHOEK",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JM VAN DER MERWE",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DE HOOP 198 HO, PTN DRIEHOEK",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14352",
+      "mine_name":"JODEO FOUR - PIENAARSFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JODEO FOUR (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"PIENAARSFONTEIN 113 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14354",
+      "mine_name":"JOEY FOURIE DELWERY (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOEY FOURIE DELWERY (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"HOUTVOLLOP 111 HO 2",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14353",
+      "mine_name":"JOHN CALLENDER EASBY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOHN CALLENDER EASBY",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"SMITHSKRAAL 1519 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"14464",
+      "mine_name":"JP KOEKEMOER - BIESIESLAAGTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PEET KOEKEMOER",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BIESIESLAAGTE 397 IO REM",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"14465",
+      "mine_name":"JP KOEKEMOER - WELVERDIEND",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JP KOEKEMOER - WELVERDIEND",
+      "tel":"(018) 468 4015",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"WELVERDIEND 151 HO REM",
+      "postal":"PO BOX 249 WOLMARANDSSTAD 2526"
+   },
+   {
+      "mine_code":"15137",
+      "mine_name":"JVW DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IGNATIUS FRANCOIS MARE",
+      "tel":"825 249 157",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"RONDEPAN 317 IO 4, ZANDVALEI 301 IO",
+      "postal":"PO BOX 636 SANNIESHOF 2650"
+   },
+   {
+      "mine_code":"13592",
+      "mine_name":"K POTGIETER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"K POTGIETER",
+      "tel":"",
+      "district":"MMABATHO",
+      "province":"NORTH-WEST",
+      "farm":"MOLOPO RATSHIDI 302 JO",
+      "postal":"PO BOX 7065 MMABATHO 2735"
+   },
+   {
+      "mine_code":"13065",
+      "mine_name":"KALAHARI GOLD RIDGE MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"OPENCAST",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 332 1101",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"FERNDALE 286 IO 11, GOLD RIDGE 295 IO, GOLDRIDGE 407 IO, NOTTINGHAM 299 IO, SPANOVER 284 IO 1 &4",
+      "postal":"PO BOX 101 MAREETSANE 2715"
+   },
+   {
+      "mine_code":"13031",
+      "mine_name":"KALAKA MINING (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"KALAKA MINING (PTY) LTD",
+      "tel":"(011) 615 7684",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"KRAALHOEK 399 KQ",
+      "postal":"POSTNET SUITE 350 PRIVATE BAG X30500 HOUGHTON 2041"
+   },
+   {
+      "mine_code":"14186",
+      "mine_name":"KELEDI JOINT VENTURE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BEESTKRAAL 290 1 2 3 &10",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"12452",
+      "mine_name":"KELGRAN AFRICA (PTY) LTD - BAFOKENG",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHPOORT 284, KLIPGAT 281, TWEEDEPOORT 283 JQ",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"12430",
+      "mine_name":"KELGRAN AFRICA (PTY) LTD - RUSTENBURG",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BEESTEKRAAL 290 JQ 4 5 6 &7, BOSCHPOORT 284 JQ 6, NOOITGEDACHT 289",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"14525",
+      "mine_name":"KHANYETSA CONSORTUIM",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CENTRAL HIGH TRADING 58",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"MOOIFONTEIN 140 HO 2 &14",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14606",
+      "mine_name":"KHUSELEKA MINE",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SODIUM SULPHATE, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE STILLWATER",
+      "tel":"(014) 598 3291",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHFONTEIN 268 JQ, RUSTENBURG TOWN &TOWNLANDS 272 JQ, PAARDEKRAAL 279 JQ",
+      "postal":"PO BOX 1 BLESKOP 0292"
+   },
+   {
+      "mine_code":"15304",
+      "mine_name":"KLEINBEGIN DELWERY CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AJ JONKER",
+      "tel":"082 572 1525",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZEVENFONTEIN 240 HO 8 OF 1 RE",
+      "postal":"PO BOX 9 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"13824",
+      "mine_name":"KLERKSDORP SUPERSAND EN STENE",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KLERKSDORP SUPERSAND EN STENE",
+      "tel":"(018) 464 4178",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ROOIKUIL 362 IP SUB 24",
+      "postal":"PO BOX 1550 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"14442",
+      "mine_name":"KLOSSIESPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"J &S ZERWICK TRUST",
+      "tel":"(053) 441 3740",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KLOSSIEPAN 279 HO",
+      "postal":"PO BOX 4 CHRISTIANA 2680"
+   },
+   {
+      "mine_code":"14593",
+      "mine_name":"KROKODILKRAAL SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KROKODILKRAAL TRANSPORT &SAND",
+      "tel":"(014) 785 0704",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KROKODILKRAAL 545 KQ 3",
+      "postal":"PO BOX 7 KOEDOESKOP 0361"
+   },
+   {
+      "mine_code":"13204",
+      "mine_name":"KROONDAL MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SIBANYE PLATINUM",
+      "tel":"(014) 536 4118",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KROONDAL 304 JQ",
+      "postal":"PO BOX 624 KROONDAL 0350"
+   },
+   {
+      "mine_code":"10192",
+      "mine_name":"KUSASALETHU",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 411 2000",
+      "district":"POTCHEFSTROOM",
+      "province":"NORTH-WEST",
+      "farm":"BUFFELSDOORN 143 IQ, ELANDSFONTEIN 114 IQ, ELANDSFONTEIN 115 IQ, ELANDSRAND 135 IQ",
+      "postal":"PO BOX 2 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"13910",
+      "mine_name":"LAFARGE - TSWANA LIME LTD",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(018) 633 3032",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"DRIEFONTEIN 46 IO, POLFONTEIN 47 IO, RIETSCHRAAL 58 IO, SPRINGBOKPAN 58 JR, SPRINGBOKPAN 61 IO",
+      "postal":"PO BOX 188 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"10052",
+      "mine_name":"LAFARGE SOUTH AFRICA - LICHTENBURG",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(018) 633 3032",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"LICHTENBURG TOWN &TOWNLANDS 22 IP, LOVEDALE 277 JU",
+      "postal":"PO BOX 188 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"10853",
+      "mine_name":"LANXESS CHROME MINING (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"LANXESS CHROME MINING (PTY) LTD",
+      "tel":"(011) 457 4012",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"RIETFONTEIN 338 JQ",
+      "postal":"PO BOX 1161 EDENVALE 1610"
+   },
+   {
+      "mine_code":"15296",
+      "mine_name":"LEFIKA HARTEBEESPOORT MINING",
+      "commodity":[
+         "DIMENSION STONE GRANITE,"
+      ],
+      "type":"OPENCAST",
+      "owner":"NEW VENTURE MINING INVESTMENT HOLDIINGS (PTY) LTD",
+      "tel":"076 5768892",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT B 410 JQ 1127",
+      "postal":"PO BOX 8973 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14392",
+      "mine_name":"LENONG MINING INVESTMENTS (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LENONG MINING INVESTMENTS (PTY) LTD",
+      "tel":"(012) 252 0693",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 400 JQ",
+      "postal":"PO BOX 1541 BRITS 0250"
+   },
+   {
+      "mine_code":"15198",
+      "mine_name":"LEOPARD LILLY TRADING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HS BADENHORST",
+      "tel":"083 274 8541",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"SWARTLAAGTE",
+      "postal":"PO BOX 713 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"11408",
+      "mine_name":"LESAKA CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JH MARX",
+      "tel":"(014) 593 4322",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"PAARDEKRAAL 279 JQ, TOWNLANDS",
+      "postal":"POSTNET SUITE 4078 PRIVATE BAG X82323 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"15360",
+      "mine_name":"LEVUSHKA (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PAPAVANGELO TRADING 26 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"CAWOODS HOPE 324 HO, GOEDEHOOP 331 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"10759",
+      "mine_name":"LIEBENBERG LEIGROEWE",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LIEBENBERG LEIGROEWE",
+      "tel":"(011) 955 2098",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"RIETFONTEIN 453 JP, ROSMINCOL 442 JP",
+      "postal":"PO BOX 97 KOSTER 0348"
+   },
+   {
+      "mine_code":"15214",
+      "mine_name":"LM MOLOI ENGINEERING CC",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LM MOLOI ENGINEERING CC",
+      "tel":"(012) 252 0499",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ROODEKOPJES 427 JQ VARIOUS",
+      "postal":"PO BOX 3069 BRITS 0250"
+   },
+   {
+      "mine_code":"13007",
+      "mine_name":"LONG MEADOW BRICK CO",
+      "commodity":[
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"LONG MEADOW BRICK CO (PTY) LTD",
+      "tel":"(012) 376 2839",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"RIETFONTEIN 485 JQ 485 JQ 160, 176",
+      "postal":"PO BOX 301 IFAFI 0260"
+   },
+   {
+      "mine_code":"14115",
+      "mine_name":"LONMIN PLATINUM - MARIKANA MINING",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"LONMIN PLATINUM",
+      "tel":"(014) 571 2000",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHFONTEIN 458 JQ, ELANDSDRIFT 467 JQ, ELANDSKRAAL 469 JQ, KAFFERSKRAAL 342 JQ, KAREEPOORT 407 JQ, MIDDELKRAAL 466 JQ, MODDERSPRUIT 461 JQ",
+      "postal":"PRIVATE BAG 508 MARIKANA 0284"
+   },
+   {
+      "mine_code":"14116",
+      "mine_name":"LONMIN PLATINUM - SHARED BUSINESS SERVICES",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"LONMIN PLATINUM",
+      "tel":"(014) 571 2000",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHFONTEIN 458 JQ, ELANDSDRIFT 467 JQ, ELANDSKRAAL 469 JQ, KAFFERSKRAAL 342 JQ, MIDDELKRAAL 446 JQ, MODDERSPRUIT 461 JQ, KAREEPOORT 407 JQ",
+      "postal":"PRIVATE BAG 508 MARIKANA 0284"
+   },
+   {
+      "mine_code":"12328",
+      "mine_name":"LONMIN PLATINUM PROCESS DIVISION",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"LONMIN PLATINUM",
+      "tel":"(014) 571 2000",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"MIDDELKRAAL 466 JQ, BOSCHFONTEIN 458 JQ, ELANDSDRIFT 467 JQ, KAFFERSKRAAL 342 JQ, KAREEPOORT 407 JQ, ELANDSKRAAL 469 JQ, MODDERSPRUIT 461 JQ",
+      "postal":"PRIVATE BAG 508 MARIKANA 0284"
+   },
+   {
+      "mine_code":"13408",
+      "mine_name":"LOVEDALE",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"OOS-TVL KALKVERSKAFFERS (EDMS) BPK",
+      "tel":"(018) 464 7820",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 34 38",
+      "postal":"PO BOX 31 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"13868",
+      "mine_name":"M NEL BOERDERY",
+      "commodity":[
+         "DIAMONDS ANY"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARIUS NEL",
+      "tel":"(018) 431 0560",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"MOOIFONTEIN 140 HO",
+      "postal":"PO BOX 06 HARTEBEESFONTEIN 2600"
+   },
+   {
+      "mine_code":"15236",
+      "mine_name":"MAFEKING CEMENT (PTY) LTD",
+      "commodity":[
+         "LIMESTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ARM CEMENT LTD",
+      "tel":"(011) 450 2591",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"MOOIMEISJESFONTEIN 118 JO VARIOUS, VERGENOEG 45 IO PTN, WELVERDIEND 45 IO, DE HOOP 60 IO VARIOUS, SCHOONGEZICHT 42 IO VARIOUS, MOOILAAGTE 41 IO PTN",
+      "postal":"PO BOX 3116 BEDFORDVIEW 2008"
+   },
+   {
+      "mine_code":"14947",
+      "mine_name":"MAFIKENG CLAY ( FORMERLY MOLOPO BRICKS)",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOLOPO BRICKS",
+      "tel":"(018) 292 1615",
+      "district":"MMABATHO",
+      "province":"NORTH-WEST",
+      "farm":"RATSHIDI 302 JO",
+      "postal":"PO BOX 588 POTCHEFSTROOM 2531"
+   },
+   {
+      "mine_code":"14098",
+      "mine_name":"MAJENG MINING (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT B 410 JQ 1123",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"14381",
+      "mine_name":"MALAN BOERDERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOHAN MALAN",
+      "tel":"083 417 6741",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VOGELSTRUISKUIL 400 IO VARIOUS",
+      "postal":"PO BOX 322 WOLMARANSSTAD 2680"
+   },
+   {
+      "mine_code":"11764",
+      "mine_name":"MARGARET WATER COMPANY NPC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARGARET WATER COMPANY NPC",
+      "tel":"(018) 484 4202",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"STILFONTEIN 408 IP F",
+      "postal":"PO BOX 1 STILLFONTEIN 2550"
+   },
+   {
+      "mine_code":"10387",
+      "mine_name":"MARICO CHROME CORP (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"VERREF - VERENIGING REFRACTORIES (PTY) LTD",
+      "tel":"(018) 350 9906",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"ALLEWYNSPOORT 29 JP, DRIEKOP 14 JP, GOUDINI 30 JP 2 &3, STRYDFONTEIN 125 JP A",
+      "postal":"PO BOX 117 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"14481",
+      "mine_name":"MARICO SLATE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARICO SLATE (PTY) LTD",
+      "tel":"071 361 7732",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"BROEKMANSFONTEIN 294 JP 8 &18, KLIPBANKFONTEIN 8",
+      "postal":"PO BOX 347 KOSTER 0348"
+   },
+   {
+      "mine_code":"11235",
+      "mine_name":"MARICO-MYN",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"OOS-TVL KALKVERSKAFFERS (EDMS) BPK",
+      "tel":"(018) 464 7820",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"RHENOSTERFONTEIN 304 JP",
+      "postal":"PO BOX 31 KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"13459",
+      "mine_name":"MARIKANA - BRITS",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTPOORT 410 JQ 410 JQ 1176, 1183",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"13545",
+      "mine_name":"MARIKANA PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"SIBANYE PLATINUM",
+      "tel":"(014) 536 4118",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"SPRUITFONTEIN ROAD N4 HIGHWAY MARIKANA",
+      "postal":"PO BOX 795 MARIKANA 0284"
+   },
+   {
+      "mine_code":"12759",
+      "mine_name":"MARLIN GRANITE RUSTENBURG (PTY) LTD - KUDU GRANITE RUSTENBURG DIVISION",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KUDU GRANITE - RUSTENBUG DIVISION",
+      "tel":"(012) 252 7798",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"VLAKFONTEIN 276 JQ PTN, FARM 283 JQ, BERSEBA 397 IQ, BOSCHPOORT 284 JQ, MARIKANA VARIOUS, MINACO 8 &12, NELLS 18, NOOITGEDACHT 287 JQ, ELANDSHEUVEL, SCHAAPKRAAL 292 JQ, SPRINGBOK 3, TWEEDEFONTEIN VARIOUS, WONDERKOP 400 JQ 1 &2, FARM 282 JQ",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"14289",
+      "mine_name":"MARTHINUS HOLTZHOUSEN ROOS",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARTHINUS HOLTZHOUSEN ROOS",
+      "tel":"(018) 642 1246",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"DOORNRIVIER 99 JP, HEUNINGBOOM 99 JP",
+      "postal":"PO BOX 1554 ZEERUST 2865"
+   },
+   {
+      "mine_code":"14591",
+      "mine_name":"MARX DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BJ KANES",
+      "tel":"079 365 0869",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"SYFERFONTEIN 2 HP 17, PALMIETFONTEIN 312 HP 2 3 6 9",
+      "postal":"PO BOX 206 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15211",
+      "mine_name":"MASAKE MINING",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MASAKE MINING",
+      "tel":"082 669 4159",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT 419 JQ 1003 C, ROODEKOPJES 417 JQ 833 &175",
+      "postal":"PO BOX 5075 PLATINUM MALL BRITS 0250"
+   },
+   {
+      "mine_code":"14379",
+      "mine_name":"MAT ROUX &SONS DIAMOND MINING (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, DIAMONDS ALLUVIAL, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAT ROUX AND SONS DIAMOND MINING (PTY) LTD",
+      "tel":"(018) 632 9398",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"UITGEVONDEN 355 JP 9",
+      "postal":"PO BOX 3280 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"14703",
+      "mine_name":"MATAYO DIAMOND MINE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MATAYO TRADING 7 (PTY) LTD",
+      "tel":"(053) 953 0108",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"GRASPAN 773",
+      "postal":"PO BOX 13509 SINOVILLE 0129"
+   },
+   {
+      "mine_code":"13641",
+      "mine_name":"MATUTU CLAY MINING (PTY) LTD",
+      "commodity":[
+         "ATTAPULGITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MATUTU ABSORBENTS (PTY) LTD",
+      "tel":"(011) 478 0923",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"PUTSFONTEIN",
+      "postal":"PO BOX 4965 CRESTA 2118"
+   },
+   {
+      "mine_code":"14979",
+      "mine_name":"MAXIMA SILICA (PTY) LTD",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAXIMA HOLDINGS",
+      "tel":"087 941 2589",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BULTFONTEIN 259 JQ 3 OF 1, PTN BOSHOEK 1",
+      "postal":"PO BOX 245 BOSHOEK NORTH WEST 0301"
+   },
+   {
+      "mine_code":"14277",
+      "mine_name":"MC BARNARDT DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MC BARNARDT",
+      "tel":"729 960 368",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"BERNAUW 674 IN 56, CONSTANTIA",
+      "postal":"VOORTREKKER STREET 2 LEEUDORINGSTAD 2640"
+   },
+   {
+      "mine_code":"14199",
+      "mine_name":"MEDE DIAMANTE - KATDOORNKRAAL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DU TOIT &BOTHA BOERDERY",
+      "tel":"082 610 7241",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KATDOORNKRAAL 249 HO",
+      "postal":"PO BOX 636 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14349",
+      "mine_name":"MEONDO TRADING 72 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MEONDO TRADING 72 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"GANSPAN 194 HO 1",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13559",
+      "mine_name":"MERAFE FERROCHROME &MINING (PTY) LTD",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 573 1211",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSHOEK, RUSTENBURG 205 KP",
+      "postal":"PRIVATE BAG X4011 BOSHOEK 0301"
+   },
+   {
+      "mine_code":"10525",
+      "mine_name":"METMIN (PTY) LTD",
+      "commodity":[
+         "MANGANESE ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"OBNOSIS (PTY) LTD",
+      "tel":"(011) 805 4662",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"BRANDVLEI 261 IQ, ELANDSFONTEIN 277 IQ, LUIPAARDSVLEI 243 IQ, RYEDALE, WATERVAL 174 IQ",
+      "postal":"POSBUS 1205 HALFWAY HOUSE MIDRAND 1685"
+   },
+   {
+      "mine_code":"15419",
+      "mine_name":"MIERKATDORST TRUST DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JAN ALBERT BARNARD",
+      "tel":"078 412 6246",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"TWEE BUFFELS GESCHIET 42 IP",
+      "postal":"PO BOX 265 COLINY 2725"
+   },
+   {
+      "mine_code":"13860",
+      "mine_name":"MIRAMAR TRADING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MIRAMAR TRADING 57 CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MAHEMPANNEN 217 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15170",
+      "mine_name":"MODDERKRAAL MP 67/2003",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DODECA DIAMANTE (EDMS) BPK",
+      "tel":"(018) 293 3875",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"MODDERKRAAL 51 HP VARIOUS PT",
+      "postal":"PO BOX 6754 BAILIE PARK POTCHEFSTROOM 2526"
+   },
+   {
+      "mine_code":"15131",
+      "mine_name":"MOETI DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GE MOETI",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNBULT 224 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14509",
+      "mine_name":"MONROE MINING TRADING (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MONROE MINING TRADING (PTY) LTD",
+      "tel":"(053) 963 1108",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LONDON 112 HO VARIOUS",
+      "postal":"PO BOX 93 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"11636",
+      "mine_name":"MOOINOOI STONE CRUSHERS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOOINOOI STONE CRUSHERS CC",
+      "tel":"(014) 533 0790",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"MIDDELKRAAL 466 JQ",
+      "postal":"POSTNET SUITE 900 PRIVATE BAG X82329 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14942",
+      "mine_name":"MORENA SE TJELELE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MSE TJELELE",
+      "tel":"074 712 1265",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPKUIL 352 JP 21",
+      "postal":"PO BOX 2852 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"14138",
+      "mine_name":"MR COOPERATION (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONOP DELWERY",
+      "tel":"(053) 562 0041",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KROMELLENBOOG 320 HO",
+      "postal":"PO BOX 21 DELPORTSHOOP 8377"
+   },
+   {
+      "mine_code":"15002",
+      "mine_name":"MS BASSON DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SAAISAND LANDGOED BK",
+      "tel":"(053) 963 1081",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"ZANDVALEI 301 IO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14805",
+      "mine_name":"MULDER MINING INVESTMENTS (PTY) LTD - PIENAARSFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MULDER MINING INVESTMENTS (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"PIENAARSFONTEIN 113 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14462",
+      "mine_name":"MULRO DIAMONDS (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MULRO DIAMONDS (PTY) LTD",
+      "tel":"(053) 963 2008",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BOTHASHOEK 141 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14388",
+      "mine_name":"MZ HAMID",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"C &C DELWERY",
+      "tel":"(018) 468 5355",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"DOORNKUIL 354 IO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"14430",
+      "mine_name":"N HAMID - GANSPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"N HAMID - GANSPAN",
+      "tel":"(018) 468 5355",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"GANSPAN 351 IO",
+      "postal":"PO BOX 649 FLAMWOOD KLERKSDORP 2572"
+   },
+   {
+      "mine_code":"15266",
+      "mine_name":"NET NOG EENETJIE (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CENTRAL NODE (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DIAMANDTFONTEIN 220 HO 1",
+      "postal":"PO BOX 1081 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15295",
+      "mine_name":"NICOLOR (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"VILLAGE MAIN REEF",
+      "tel":"(018) 473 7303",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESTFONTEIN 422 IP",
+      "postal":"PRIVATE BAG X800 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"14633",
+      "mine_name":"NICUS DELWERY - LONDON",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MONROE MINING (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LONDON 112 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14684",
+      "mine_name":"NIRVANA CRUSHERS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NIVANA CRUSHERS CC",
+      "tel":"(053) 963 2446",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MIMOSA 61 6, NIRVANA 9",
+      "postal":"PO BOX 705 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"12089",
+      "mine_name":"NOORDKAAP STEENWERKE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"NOORDKAAP STEENWERKE BK",
+      "tel":"(053) 983 0136",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"BIESJES BULT 549 3 10 18 &36, CHWAING 548 9 &14, STELLA MUNICIPALITY",
+      "postal":"PO BOX 272 STELLA 8650"
+   },
+   {
+      "mine_code":"14522",
+      "mine_name":"NOORDWES DELWERY BK - DROOGPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GOTHOMA DIGGINGS CC",
+      "tel":"(014) 549 3910",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"DROOGPAN 178 IP REM EXT",
+      "postal":"PO BOX 20576 NOORDBRUG 2522"
+   },
+   {
+      "mine_code":"14342",
+      "mine_name":"NOORDWES DELWERY BK - KLIPGAT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NOORDWES DELWERY BK",
+      "tel":"(053) 963 1081",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"KLIPGAT 18 IS 1 &2",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"14343",
+      "mine_name":"NOORDWES DELWERY BK - VARKENSKRAAL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NOORDWES DELWERY BK",
+      "tel":"(053) 963 1081",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"VARKENSKRAAL 93 IQ 5 &22 REM",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"15317",
+      "mine_name":"NOORDWES DELWERY CC - ZWARTPLAAT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"H BASSON (CONTRACTOR - F &J DELWERYE)",
+      "tel":"082 808 1850",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTPLAAT 170 IP 3 7",
+      "postal":"PO BOX 20576 NOORDBRUG POTCHEFSTROOM 2522"
+   },
+   {
+      "mine_code":"15383",
+      "mine_name":"NOORDWES SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOHN ROOS",
+      "tel":"846 213 674",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"KAFFIR RIVIER 252",
+      "postal":"RAILWAY 3 KLERK INDUSTRIA KLERKSDORP 2571"
+   },
+   {
+      "mine_code":"13859",
+      "mine_name":"OERSONSKRAAL MINING (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"OERSONSKRAAL MINING (PTY) LTD",
+      "tel":"(053) 963 1108",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"OERSONSKRAAL 250 HO",
+      "postal":"PO BOX 93 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"12997",
+      "mine_name":"OMNIA METROLOGY (PTY) LTD",
+      "commodity":[
+         "PHOSPHORIC ACID"
+      ],
+      "type":"SURFACE",
+      "owner":"OMNIA FERTILIZER LTD",
+      "tel":"(011) 709 8888",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"",
+      "postal":"PO BOX 69888 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"11077",
+      "mine_name":"OMV STILFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"OSCAR GOUDRIAAN",
+      "tel":"(018) 484 4388",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESFONTEIN 422 IP, STILFONTEIN 408 IP",
+      "postal":"PO BOX 823 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"13740",
+      "mine_name":"PANFONTEIN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GPJ GROBBELAAR",
+      "tel":"(057) 353 4413",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"MORGENROODT",
+      "postal":"PO BOX 586 WELKOM 9460"
+   },
+   {
+      "mine_code":"13780",
+      "mine_name":"PAPAVANGELO TRADING 26 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONOP DELWERY",
+      "tel":"(053) 562 0041",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"WITGATBOOM 317",
+      "postal":"PO BOX 21 DELPORTSHOOP 8377"
+   },
+   {
+      "mine_code":"15144",
+      "mine_name":"PB LAAS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PB LAAS",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BOSMANSFONTEIN 330 HO 5",
+      "postal":"PO BOX 1081 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14155",
+      "mine_name":"PCB DIAMANTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HILGARDT KAIRUZ",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"GANSPAN 194 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"13866",
+      "mine_name":"PCS DIAMANTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MORNING DEW TRADING 97 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MAHEMPANNEN 217 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"11597",
+      "mine_name":"PERING MINE",
+      "commodity":[
+         "ZINC METAL IC"
+      ],
+      "type":"OPENCAST",
+      "owner":"PERING BASE METALS (PTY) LTD",
+      "tel":"(011) 484 2240",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"PERING 1022",
+      "postal":"POSNET SUITE 253 PRIVATE BAG X30500 HOUGHTON 2041"
+   },
+   {
+      "mine_code":"15418",
+      "mine_name":"PERITEX",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUMMER SEASON TRADING 64",
+      "tel":"(053) 963 2900",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"UITSPANNING 318 HO 4",
+      "postal":"PO BOX 309 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15446",
+      "mine_name":"PERITEX",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOLATUDI MG",
+      "tel":"(053) 963 2900",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"BUITENZORG",
+      "postal":"PO BOX 309 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15354",
+      "mine_name":"PETER DEALE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SH BARKHUIZEN",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"DIEWEDRAAI 100 HO VARIOUS",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14265",
+      "mine_name":"PGL BOERDERY - SCHOONZIGHT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PGL BOERDERY (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"SCHOONZIGHT 237 HO 13",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14583",
+      "mine_name":"PGM RESOURCES HOLDINGS (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"PGM RESOURCES HOLDINGS (PTY) LTD",
+      "tel":"(011) 392 6701",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BEESTEKRAAL 290 JQ 9",
+      "postal":"PO BOX 1255 ISANDO 1600"
+   },
+   {
+      "mine_code":"14113",
+      "mine_name":"PHARATLHATLE SMALL MINING CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PHARATLHATLHE SMALL MINING CC",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"CHRISTIANA TOWN AND TOWNLANDS 325 HO",
+      "postal":"PO BOX 960 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13745",
+      "mine_name":"PHEPENG MINING (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"PHEPENG MINING (PTY) LTD",
+      "tel":"082 882 9168",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 410 JQ 1222",
+      "postal":"PO BOX 106 VORENTOE 0259"
+   },
+   {
+      "mine_code":"14950",
+      "mine_name":"PHOENIX PLATINUM MINING (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD"
+      ],
+      "type":"SURFACE",
+      "owner":"PAN AFRICAN RESOURCES PIC",
+      "tel":"082 800 9273",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"RIETFONTEIN 465 JQ",
+      "postal":"THE FIRS OFFICE 101 FIRST FLOOR CNR CRADOCK &BIERMANN AVE ROSEBANK 2196"
+   },
+   {
+      "mine_code":"15409",
+      "mine_name":"PIENAAR MINES",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CJ PIENAAR",
+      "tel":"762 211 178",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"UITGEVONDEN 355 JP",
+      "postal":"PO BOX 1092 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"15142",
+      "mine_name":"PIETER STEYN TRUST DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PIETER STEYN",
+      "tel":"832 621 841",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"WOLMARANSSTAD TOWN AND TOWNLANDS 184 HO",
+      "postal":"PO BOX 257 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14409",
+      "mine_name":"PILANESBERG PLATINUM MINES (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"SEDIBELO PLATINUM MINES LTD",
+      "tel":"082 871 2387",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"BAKHOUTRANTJE 205 JP, GROENFONTEIN 138 JP, PALMIETFONTEIN 208 JP, ROODERAND 46 JP, RUIGHOEK 169 JP, TUSCHENKOMST 135 JP, VOGELSTRUISRIVER 173 JP, WITKLEIFONTEIN 136 JP, ZANDSPRUIT 168 JP",
+      "postal":"PRIVATE BAX X11 HIGHVELD 0067"
+   },
+   {
+      "mine_code":"15193",
+      "mine_name":"PJ DE BEER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOHAN DE BEER",
+      "tel":"082 676 2587",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNFONTEIN 313 IP",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"14274",
+      "mine_name":"PJC PRETORIUS &SEUN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FREDERICK FRANCOIS DEYSEL",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"VUURFONTEIN 117 HO 1 5 9 10",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14814",
+      "mine_name":"PLATCRO MINERALS",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHEMSTOF (PTY) LTD",
+      "tel":"082 809 8415",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BOKFONTEIN 448 JQ",
+      "postal":"PO BOX 20761 PROTEA PARK 0305"
+   },
+   {
+      "mine_code":"14939",
+      "mine_name":"PLATINUM SCHOOL OF MINES",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLO PLATINUM RUSTENBURG",
+      "tel":"(014) 598 1106",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BRAKSPRUIT 299 JQ, HOEDSPRUIT 298 JQ",
+      "postal":"PO BOX 8208 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"10515",
+      "mine_name":"PPC - SLURRY QUARRY",
+      "commodity":[
+         "LIMESTONE, LIME, SHALE FOR CEMENT"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRETORIA PORTLAND CEMENT CO LTD",
+      "tel":"(018) 644 8100",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"KLIPPLAAT 108 JO, OLIEVENDRAAI 107 JO, RIETVALLEI 102 JO, SLURRY 96 JO",
+      "postal":"PO BOX 7 SLURRY 2895"
+   },
+   {
+      "mine_code":"10512",
+      "mine_name":"PPC CEMENT SA (PTY) LTD - BEESTEKRAAL QUARRY",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"PPC CEMENT SA (PTY) LTD",
+      "tel":"(012) 377 7300",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BORDER 187 JQ, KALKLAAGTE 213 JQ, ROOINEK 190 JQ, VOGELFONTEIN 191 JQ",
+      "postal":"PRIVATE BAG X5044 BRITS 0250"
+   },
+   {
+      "mine_code":"13807",
+      "mine_name":"PRATLEY DIAMOND MINING COMPANY CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GREENCREST MINING",
+      "tel":"(011) 955 2190",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"WELGEVONDEN 167 IP",
+      "postal":"PO BOX 3055 KENMARE 1745"
+   },
+   {
+      "mine_code":"14769",
+      "mine_name":"PRAXOS 604 CC (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRAXOS 604 CC (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"BRUSSELS 736 HN, DRIEPOORT 664 HN, DWAARSRIVIER 741 HN, GROOTKLOOF 737 HN, JACOBS VAL 817 HN, KROMKLOOF 738 HN, LISBON 739 HN, TAKWANEN NATIVE RESERVE 662 HN, VENTERS DWAAK 717 HN, WILLOUGHBY 744 HN",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13083",
+      "mine_name":"PRECIOUS METALS REFINERS",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 567 9424",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPFONTEIN 300 JQ, BLESKOP 4",
+      "postal":"PO BOX 331 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14410",
+      "mine_name":"PS LOMBARD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JALIN BOERDERY (EDMS) BPK",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KAMEELBULT 162 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14317",
+      "mine_name":"RANGE VIEW TRADING 1010 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RANGE VIEW TRADING 1010 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"VECHTVALLEI 122 HO",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"10405",
+      "mine_name":"RED GRANITI SA (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUNDPROPS 192 (PTY) LTD",
+      "tel":"(012) 348 4195",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHPOORT 284 JQ 9, SCHAAPKRAAL",
+      "postal":"PO BOX 245 MENLYN 0063"
+   },
+   {
+      "mine_code":"15206",
+      "mine_name":"REIVILO DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MONROE MINING (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"LONDON 112 HO RE",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15454",
+      "mine_name":"RF DE VILLIERS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RF DE VILLIERS",
+      "tel":"079 401 9912",
+      "district":"DELAREYVILLE",
+      "province":"NORTH-WEST",
+      "farm":"TWEEBOSCH 318 HO",
+      "postal":"PO BOX 67 SUNNYSHOF 2760"
+   },
+   {
+      "mine_code":"12667",
+      "mine_name":"RHOVAN PSV",
+      "commodity":[
+         "VANADIUM ALLOYS, VANADIUM CHEMICALS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE INTERNATIONAL AG",
+      "tel":"(012) 318 0750",
+      "district":"GA-RANKUWA",
+      "province":"NORTH-WEST",
+      "farm":"BARSEBA 397, LOSPERFONTEIN 405, WAAIKRAAL 396",
+      "postal":"PO BOX 3620 BRITS 0250"
+   },
+   {
+      "mine_code":"14773",
+      "mine_name":"RIETPUT DELWERY - KOPPIE ALLEEN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CINLO BK",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"KOPPIE ALLEEN 221 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13982",
+      "mine_name":"RIETPUT DELWERY CC - BIESIESLAAGTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RIETPUT DELWERY CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"BIESIESLAAGTE 53 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13751",
+      "mine_name":"RIETVLY",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 590 2363",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"RIETVLY 271 JQ 93",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14424",
+      "mine_name":"RIVER QUEEN TRADING 194 - GANSPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RIVER QUEEN TRADING 194 CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"GANSPAN 194 HO RE OF 3",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"10153",
+      "mine_name":"ROLFES SILICA",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROLFES SILICA",
+      "tel":"(012) 258 9912",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ZANDFONTEIN 447 JQ 95",
+      "postal":"PO BOX 1451 BRITS 0250"
+   },
+   {
+      "mine_code":"14544",
+      "mine_name":"ROODERAND CHROME MINE - PILANESBERG MINING CO",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"CHROMETCO LTD",
+      "tel":"(012) 667 1919",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"ROODERAND 46 JQ 2 &RE",
+      "postal":"THE GREENS OFFICE PARK SPARREBOSCH BLDG CHARLES DE GAULLE CRESCENT HIGHVELD PARK 2055"
+   },
+   {
+      "mine_code":"15361",
+      "mine_name":"ROOIBULT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GERT CHRISPARUS KNOETZE",
+      "tel":"793 650 869",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"ROOIBULT 152 HO 5",
+      "postal":"PO BOX 206 WOLMARANSTAD 2630"
+   },
+   {
+      "mine_code":"11444",
+      "mine_name":"RPM - WATERVAL SMELTER",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 591 5001",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"FARM 303 JQ, WATERVAL 307 JQ",
+      "postal":"PO BOX 404 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14890",
+      "mine_name":"RPM - WATERVAL SMELTER - ACP",
+      "commodity":[
+         "PGM"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 591 5004",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WATERVAL 303 JQ",
+      "postal":"PO BOX 404 KROONDAL 0350"
+   },
+   {
+      "mine_code":"10548",
+      "mine_name":"RUIGHOEK CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"BATLHAKO MINING LIMITED",
+      "tel":"(014) 513 1010",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"RUIGHOEK 169 JP",
+      "postal":"PO BOX 5 BOSHOEK 0301"
+   },
+   {
+      "mine_code":"11226",
+      "mine_name":"RUSTENBURG BASE METALS REFINERY (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 596 4034",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WATERVAL 303 JQ",
+      "postal":"PO BOX 483 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14643",
+      "mine_name":"RUSTENBURG CONCENTRATORS",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"SIBANYE PLATINUM LTD",
+      "tel":"(014) 598 2261",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"FRANK SHAFTS 1 &2, WATERVAL COMPLEX",
+      "postal":"PO BOX 8208 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"10079",
+      "mine_name":"RUSTENBURG MINERALS DEV CO (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN MINING &TRUST CO LTD",
+      "tel":"(011) 770 6800",
+      "district":"MANKWE",
+      "province":"NORTH-WEST",
+      "farm":"GROENFONTEIN 138 JP, VOGELSTRUISNEK, ZANDSPRUIT",
+      "postal":"PRIVATE BAG X03 NORTHLANDS 2196"
+   },
+   {
+      "mine_code":"12040",
+      "mine_name":"RUSTENBURG SANDWERKE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"APJ ELS",
+      "tel":"(014) 534 0529",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"RHENOSTERFONTEIN 336 JQ",
+      "postal":"PO BOX 671 KROONDAL 0350"
+   },
+   {
+      "mine_code":"12221",
+      "mine_name":"RUSTENBURG SMELTERS",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE",
+      "tel":"(014) 572 0000",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"INDUSTRIAL AREA VANADIUM STR",
+      "postal":"PRIVATE BAG X82325 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14273",
+      "mine_name":"SAAIMAN DIAMOND MINING TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HP SAAIMAN",
+      "tel":"083 254 3756",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"SWARTLAAGTE 749 LS",
+      "postal":"PO BOX 124 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"14150",
+      "mine_name":"SANDRIVIER",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LL KLOPPER",
+      "tel":"(014) 772 1578",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPGAT 348 KQ",
+      "postal":"PO BOX 245 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"15165",
+      "mine_name":"SEPHAKU DEVELOPMENT",
+      "commodity":[
+         "LIMESTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SEPHAKU HOLDINGS LTD",
+      "tel":"(018) 633 4400",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLEIN WESTERFORD 78 IO REM, VERDWAAL 57 IO 2 &REM, STIGLINGSPAN 73 IO",
+      "postal":"PRIVATE BAG 12058 LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"13311",
+      "mine_name":"SHIVA URANIUM LIMITED",
+      "commodity":[
+         "URANIUM, GOLD, SILVER"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SHIVA URANIUM LIMITED",
+      "tel":"(018) 467 9000",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"RIETKUIL 397 IP",
+      "postal":"PO BOX 20 HARTEBEESFONTEIN 2600"
+   },
+   {
+      "mine_code":"14610",
+      "mine_name":"SIBANYE RUSTENBURG PLATINUM MINE - CENTRAL SERVICES",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"SIBANYE PLATINUM",
+      "tel":"(014) 598 5560",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPFONTEIN 300 JQ",
+      "postal":"PO BOX 1 BLESKOP 0300"
+   },
+   {
+      "mine_code":"14470",
+      "mine_name":"SILVER RUBY TRADING 87 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KARDELKOR",
+      "tel":"(011) 674 1300",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"LEEUWBOSCH 44 HP 33, SYFERGAT 56 HP",
+      "postal":"PO BOX 6097 WESTGATE 1734"
+   },
+   {
+      "mine_code":"15132",
+      "mine_name":"SINO ROCK (PTY) LTD",
+      "commodity":[
+         "PYROPHYLLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"JIN SUN",
+      "tel":"828 882 899",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"DRIEKUIL 280 IP 6",
+      "postal":"PO BOX 792 UMHLANGA ROCKS 4320"
+   },
+   {
+      "mine_code":"14607",
+      "mine_name":"SIPHUMELELE 1 MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE PLATINUM RUSTENBURG",
+      "tel":"(014) 598 1606",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BLESKOP SHAFT, BRAKSPRUIT 299 JQ, TURFFONTEIN 302 JQ, SIPHUMELELE CENTRAL",
+      "postal":"PO BOX 1 BLESKOP 0292"
+   },
+   {
+      "mine_code":"15303",
+      "mine_name":"SJ NEL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SJ NEL",
+      "tel":"082 926 5298",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTLAAGTE 345 HO VARIOUS",
+      "postal":"PO BOX 67 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"15240",
+      "mine_name":"SJ NEZAR DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SJ NEZAR",
+      "tel":"083 306 0124",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"DOORNFONTEIN 313 IP",
+      "postal":"PO BOX 243 OTTOSDAL 2610"
+   },
+   {
+      "mine_code":"15256",
+      "mine_name":"SKD DELWERY - AVONDSTER",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SEAL A DEAL 18 CC",
+      "tel":"(053) 963 2900",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"AVONDSTER 142 HO PTNS",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14804",
+      "mine_name":"SKY CHROME MINING (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"INTERNATIONAL FERRO METALS LTD",
+      "tel":"(014) 574 6500",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHFONTEIN 458 JQ, KAFFERSKRAAL 469 JQ, KAREEPOORT 407 JQ, MODDERSPRUIT 461 JQ",
+      "postal":"PRIVATE BAG 2223 MOOINOOI 0325"
+   },
+   {
+      "mine_code":"15426",
+      "mine_name":"SLATELLO MINE CC",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SLATELLO MINE CC",
+      "tel":"(053) 963 1081",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"GROOTFONTEIN 319 JP 2",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14978",
+      "mine_name":"SOPHIA MORAPEDI - GROOTFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KETSHOGILE SOPHIA MORAPEDI",
+      "tel":"073 501 9203",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"GRASFONTEIN 356 JP 4",
+      "postal":"15 PARYS STREET SOUTH HILLS 2197"
+   },
+   {
+      "mine_code":"15176",
+      "mine_name":"SOUTH EAST NODE (PTY) LTD (2)",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUTH EAST NODE (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"OERSONSKRAAL 250 HO VARIOUS",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15375",
+      "mine_name":"SPARKEL MINING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PEET LOMBARD",
+      "tel":"832 893 645",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KAREEBOOM 228",
+      "postal":"22 OTTO STREET WITKOPPIES KLERKSDORP 2570"
+   },
+   {
+      "mine_code":"15417",
+      "mine_name":"SPARKEL MINING",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SPARKEL MINING",
+      "tel":"832 893 645",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEPAN 336 HO",
+      "postal":"OTTO STREET 22 WITKOPPIES 2571"
+   },
+   {
+      "mine_code":"14310",
+      "mine_name":"STELLITE CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ILITHA MINING (PTY) LTD",
+      "tel":"(012) 668 3800",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"STELLITE 255 JQ",
+      "postal":"PO BOX 11368 CENTURION 0046"
+   },
+   {
+      "mine_code":"12803",
+      "mine_name":"STERKFONTEIN CRUSHERS (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STERKFONTEIN CRUSHERS (PTY) LTD",
+      "tel":"(011) 954 3108",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BULTFONTEIN 295 JQ 1",
+      "postal":"PO BOX 363 KRUGERSDORP 1740"
+   },
+   {
+      "mine_code":"15179",
+      "mine_name":"STEYN DELWERY TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"L STEYN",
+      "tel":"082 452 6172",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"LA REY STRYD 53 IQ",
+      "postal":"51 7TH AVENUE LICHTENBURG 2740"
+   },
+   {
+      "mine_code":"14881",
+      "mine_name":"STYLDRIFT",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ROYAL BAFOKENG PLATINUM",
+      "tel":"(014) 153 0010",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"STYLDRIFT 90 JQ",
+      "postal":"PRIVATE BAG X82313 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"11426",
+      "mine_name":"SUNPROP THIRTEEN CC T/A CHIMERA DIAMANTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HARTZER &STEYN CC",
+      "tel":"828 264 710",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTPLAAT 170 IP 1 &2",
+      "postal":"PO BOX 595 ST FRANCIS BAY 6312"
+   },
+   {
+      "mine_code":"15181",
+      "mine_name":"SWANEPOEL DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"C SWANEPOEL",
+      "tel":"083 557 9731",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"WEBB 159 HO",
+      "postal":"PO BOX 319 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15435",
+      "mine_name":"SYFERGAT DELWERY - KAALPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JFN BADERHORST",
+      "tel":"082 273 4136",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAALPAN 337 HO 8",
+      "postal":"PO BOX 352 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15434",
+      "mine_name":"SYFERGAT DELWERY - WELTEVREDEN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JFN BADENHORST",
+      "tel":"082 273 4136",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"WELTEVREDEN 268 HO",
+      "postal":"PO BOX 352 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14985",
+      "mine_name":"SYFERGAT DELWERY CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NIC BADENHORST",
+      "tel":"083 273 4136",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"SYFERGAT 204 HO PTNS",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"15294",
+      "mine_name":"TAU LEKOA GOLD MINING CO (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"VILLAGE MAIN REEF",
+      "tel":"(018) 473 7303",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"GOEDGENOEG 433 IP",
+      "postal":"PRIVATE BAG X800 STILFONTEIN 2550"
+   },
+   {
+      "mine_code":"15287",
+      "mine_name":"TAU PELE CONSTRUCTION (PTY) LTD",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"TAU PELE CONSTRUCTION (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"BRANDWAGT 728",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14125",
+      "mine_name":"TERRA GRANITE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"TERRA GRANITE M SMIT",
+      "tel":"(011) 705 1788",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ROODEKOPJES 417 JQ 904",
+      "postal":"PO BOX 3444 BRITS 0250"
+   },
+   {
+      "mine_code":"15460",
+      "mine_name":"TERRAPAN MASJIENERIE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPERATING",
+      "owner":"TURNOVER TRADING 251 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"STERKFONTEIN 155 IP, PUTFONTEIN 62 IP, OMEGA 478 IP",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15393",
+      "mine_name":"THABO GAELEBALE MINERAL RESOURCES (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GUMTREE INVESTMENTS",
+      "tel":"(014) 592 6677",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"ZANDFONTEIN 923 JQ RE",
+      "postal":"PO BOX 8941 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"14572",
+      "mine_name":"THARISA MINE",
+      "commodity":[
+         "CHROME ORE, GOLD, PGM, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"THARISA MINERALS (PTY) LTD",
+      "tel":"(014) 572 0705",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"SPRUITFONTEIN 341 JQ, KAFFERSKRAAL 342 JQ",
+      "postal":"POSTNET SUITE 473 PRIVATE BAX X51 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"14609",
+      "mine_name":"THEMBELANI MINE (NEW)",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SODIUM SULPHATE, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLO PLATINUM RUSTENBURG",
+      "tel":"(014) 598 3775",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"PAARDEKRAAL 279 JQ",
+      "postal":"PO BOX 1 BLESKOP 0300"
+   },
+   {
+      "mine_code":"14921",
+      "mine_name":"THEMBI JOYCE MACHUMBYE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MASARA-MOGALE TRADING &PROJECTS",
+      "tel":"767 355 936",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KLIPKUIL 352 JP 21",
+      "postal":"33 BLOMBOS STREET BIRCH ACRES EXT 6 KEMPTONPARK 1620"
+   },
+   {
+      "mine_code":"14803",
+      "mine_name":"THREE DIAMONDS TRADING 429 (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"THREE DIAMONDS TRADING 429 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VAALBOSCHFONTEIN 188 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13322",
+      "mine_name":"TRAVRYKA STENE",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"JH STRONKHORST (EDMS) BPK",
+      "tel":"(053) 441 2054",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"CHRISTIANA COMMONAGE PTN 16",
+      "postal":"PO BOX 106 CHRISTIANA 2680"
+   },
+   {
+      "mine_code":"15171",
+      "mine_name":"TREKDRIFT PROTOKOL 301/2006",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IJ ROODT",
+      "tel":"(018) 293 3875",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"TREKDRIFT 360 JP RE",
+      "postal":"PO BOX 6754 BAILIE PARK POTCHEFSTROOM 2526"
+   },
+   {
+      "mine_code":"10069",
+      "mine_name":"TRG TRADING (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRG TRADING (PTY) LTD",
+      "tel":"829 009 477",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"HARTEBEESPOORT B 410 JQ VARIOUS, ROODEKOPJES 417 JQ PTN OF 328",
+      "postal":"PO BOX 1675 FOURWAYS 2055"
+   },
+   {
+      "mine_code":"14974",
+      "mine_name":"TRIPLE S DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GERARD STROEBEL",
+      "tel":"844 031 997",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MIMOSA 61 HO 22",
+      "postal":"PO BOX 520 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14750",
+      "mine_name":"TRUSTEES OF THE HELEEN ZERWICK TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRUSTEES OF THE HELEEN ZERWICK TRUST",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"HONI-SOIT-QUIMAL-Y-PENSE 275 HO 3, KAMEELPAN 276 HO 7",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13956",
+      "mine_name":"TWEE BUFFELS GESCHIET PROTOCOL NO 945/2014",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DODECA DIAMANTE (EDMS) BPK",
+      "tel":"(018) 293 3875",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"TWEE BUFFELS GESCHIET 42 IP PTNS",
+      "postal":"PO BOX 6754 POTCHEFSTROOM 2526"
+   },
+   {
+      "mine_code":"14886",
+      "mine_name":"UG2",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 590 2363",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WATERVAL 304 JQ, ELANDSFONTEIN 440 JQ, VAALKOP 275 JQ",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"10670",
+      "mine_name":"VAAL RIVER OPERATIONS",
+      "commodity":[
+         "GOLD, SILVER, URANIUM"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLOGOLD ASHANTI LTD",
+      "tel":"(018) 700 2104",
+      "district":"KLERKSDORP",
+      "province":"NORTH-WEST",
+      "farm":"CRYSTALKOP(OFS) 69, DIE HOEK(OFS) 114, DOORNKOM(OFS) WEST OOST 447, GOEDGENOEG 433 IP, GROOTVADERS BOSCH(OFS) 470, KANANA 426 IP, MODDERFONTEIN 440 IP, NOOITGEDACHT 434 IP, ORKNEY 437 IP, VAALKOP 439 IP, WITKOP 438 IP, ZUIPING(OFS) 394, DOORNKOM(OFS) WEST 466",
+      "postal":"PO BOX 8044 WESTERN LEVELS 2501"
+   },
+   {
+      "mine_code":"10673",
+      "mine_name":"VAAL RIVER SALT WORKS LTD",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAAL RIVER SALT WORKS LTD",
+      "tel":"(053) 441 3911",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZOUTPAN 301 HO",
+      "postal":"PO BOX 165 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"14695",
+      "mine_name":"VAALBOSCHFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANRAL NORTHERN REGION",
+      "tel":"(021) 976 1110",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VAALBOSCHFONTEIN 205 HO",
+      "postal":"PRIVATE BAG X3 DURBANVILLE 7551"
+   },
+   {
+      "mine_code":"14348",
+      "mine_name":"VAALBRASS FOUNDRY (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONOP DELWERY",
+      "tel":"(053) 562 0041",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEFONTEIN",
+      "postal":"PO BOX 21 DELPORTSHOOP 8377"
+   },
+   {
+      "mine_code":"14796",
+      "mine_name":"VAALRIVIER SANDWERKE - GOEDEHOOP",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JH APPELGRYN",
+      "tel":"076 020 9965",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"GOEDE HOOP 331 HO",
+      "postal":"PO BOX 251 CHRISTIANA 2680"
+   },
+   {
+      "mine_code":"15185",
+      "mine_name":"VAN WYK DELWERY SITE 1",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJ VAN WYK",
+      "tel":"(018) 596 2689",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEPAN 210 HO EXT OF 1",
+      "postal":"PO BOX 552 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15186",
+      "mine_name":"VAN WYK DELWERY SITE 2",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJ VAN WYK",
+      "tel":"(018) 596 2689",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"OLIEVENFONTEIN 114 HO 5 7 8",
+      "postal":"PO BOX 552 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15188",
+      "mine_name":"VAN WYK DELWERY SITE 4",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJ VAN WYK",
+      "tel":"(018) 596 2689",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"KLIPKUIL 65 HO RE OF 9",
+      "postal":"PO BOX 552 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15272",
+      "mine_name":"VAN WYK DELWERY SITE 5",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJ VAN WYK",
+      "tel":"(018) 596 2689",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAREEPOORT 210 HO REM EXT",
+      "postal":"PO BOX 552 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"14229",
+      "mine_name":"VAN ZYL BROERS OERSON - SYFERGAT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAN ZYL BROERS OERSON - SYFERGAT",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"SYFERGAT 237 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13867",
+      "mine_name":"VAN ZYL BROERS OERSONSKRAAL CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAN ZYL BROERS OERSONSKRAAL CC",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"OERSONSKRAAL 207 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15213",
+      "mine_name":"VERSATEX TRADING 500 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"VERSATEX TRADING 500 (PTY) LTD",
+      "tel":"(012) 252 0499",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHPOORT 284 JQ VARIOUS, NOOITGEDACHT 2",
+      "postal":"PO BOX 3069 BRITS 0250"
+   },
+   {
+      "mine_code":"15442",
+      "mine_name":"VOORSLAG DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WAP PUTTER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"HOUTVOLOP 111 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15447",
+      "mine_name":"VOORSLAG DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WAP PUTTER",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"HOUTVOLOP 111 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14597",
+      "mine_name":"VRYBURG CRUSHERS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"8 MILE INVESTMENTS 169 (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"VRYBURG",
+      "province":"NORTH-WEST",
+      "farm":"WELGELEGEN 677 IN",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13907",
+      "mine_name":"VSS MINING AND MINERALS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRUSTEES OF THE JOEY FOURIE TRUST",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MIMOSA 61 HO 5 &27",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15291",
+      "mine_name":"VYFSTER DELWERY BK",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HARTZER &STEYN BELEGGINGS CC",
+      "tel":"082 417 6648",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"ZWARTPLAAT 170 IP",
+      "postal":"2 JILL STREET FLAMWOOD KLERKSDORP 2572"
+   },
+   {
+      "mine_code":"14235",
+      "mine_name":"W &P TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"W &P TRUST",
+      "tel":"(053) 963 1081",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"ZEVENFONTEIN 240 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"13985",
+      "mine_name":"W CARSTENS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"W CARSTENS",
+      "tel":"(018) 596 1974",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VOGELSTRUISKUIL 400 IO 2",
+      "postal":"PO BOX 138 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"12581",
+      "mine_name":"WATERVAL CHROME",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 597 8047",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WATERVAL 306 JQ 27",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14991",
+      "mine_name":"WBJV PROJECT 1 - MASEVE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"MASEVE INVESTMENTS / PGM",
+      "tel":"(011) 782 2186",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"ELANDSFONTEIN 102 JQ 2, FRISCHGEWAAGD 96 JQ PTNS",
+      "postal":"POSTNET SUITE 81 PRIVATE BAG X12 ROOSEVELDT PARK 2193"
+   },
+   {
+      "mine_code":"15350",
+      "mine_name":"WEDGE EXPLORATION",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WEDGE EXPLORATION",
+      "tel":"825 786 245",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"STERKFONTEIN 155 IP VARIOUS, TWEE BUFFELS GESCHIET 42 IP 10 &50, HOUTKOP 153 IP",
+      "postal":"PO BOX 9503 EDLEEN 1625"
+   },
+   {
+      "mine_code":"12891",
+      "mine_name":"WESTERN CHROME MINES",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"KERMAS",
+      "tel":"(014) 574 6000",
+      "district":"BRITS",
+      "province":"NORTH-WEST",
+      "farm":"BUFFELSFONTEIN 465 JQ, ELANDSDRIFT 467 JQ, ELANDSKRAAL 469 JQ, WATERKLOOF 305 JQ",
+      "postal":"PO BOX 245 MOOINOOI 0325"
+   },
+   {
+      "mine_code":"14642",
+      "mine_name":"WESTERN LIMB TAILINGS RETREATMENT PLANT",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 598 3409",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"",
+      "postal":"PO BOX 8208 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"15247",
+      "mine_name":"WESVAAL DELWERY - LUCASKRAAL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GC KNOETZE",
+      "tel":"(053) 963 1081",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"LUCASKRAAL 154 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"15209",
+      "mine_name":"WESVAAL DELWERY TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GC KNOETZE",
+      "tel":"(018) 596 2886",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"UITKYK",
+      "postal":"PO BOX 390 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"15282",
+      "mine_name":"WH MARX",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WH MARX",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BRAKPAN",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"15279",
+      "mine_name":"WILLEM BESTER TRUST",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WILLEM BESTER TRUST / BADEN DELWERY CONTRACTOR",
+      "tel":"082 895 3516",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BOSCHRAND, BLINKKLIP",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"15138",
+      "mine_name":"WILLIE KUHN MINERALE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CPJ KUHN",
+      "tel":"082 856 0489",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"BLAAUWBOSCHKUIL 229 HO",
+      "postal":"POSBUS 943 WOLMARANSSTAD 2630"
+   },
+   {
+      "mine_code":"10731",
+      "mine_name":"WITKOP FLUORSPAR MINE (PTY) LTD",
+      "commodity":[
+         "FLUORSPAR, LIMESTONE, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SALLIES LTD",
+      "tel":"074 170 4908",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"WINTERSHOEK 303 JP, WITKOP 302 JP",
+      "postal":"PRIVATE BAG X1315 ZEERUST 2865"
+   },
+   {
+      "mine_code":"14552",
+      "mine_name":"WITPOORT BOTHA FAMILIE TRUST",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"RIAAN BOTHA",
+      "tel":"(018) 264 3493",
+      "district":"VENTERSDORP",
+      "province":"NORTH-WEST",
+      "farm":"WITPOORT 231 IP",
+      "postal":"PO BOX 106 VENTERSDORP 2710"
+   },
+   {
+      "mine_code":"14826",
+      "mine_name":"WJ GROBBELAAR",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WJ GROBBELAAR",
+      "tel":"(018) 468 5355",
+      "district":"WOLMARANSSTAD",
+      "province":"NORTH-WEST",
+      "farm":"VOGELSTRUISKUIL 400 IO",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"15197",
+      "mine_name":"WJ WESSELS - KAALPAN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WJ WESSELS",
+      "tel":"082 416 0275",
+      "district":"CHRISTIANA",
+      "province":"NORTH-WEST",
+      "farm":"KAALPAN 337 HO",
+      "postal":"PO BOX 2122 WILROPARK 1731"
+   },
+   {
+      "mine_code":"15196",
+      "mine_name":"WONDERKOP BENEFICIATION",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 597 8047",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WONDERKOP MARIKANA ROAD",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"13216",
+      "mine_name":"WONDERKOP SMELTERS",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE",
+      "tel":"(014) 572 0000",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"",
+      "postal":"PRIVATE BAG X82325 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"10736",
+      "mine_name":"WONDERSTONE LTD",
+      "commodity":[
+         "PYROPHYLLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ASSORE LTD",
+      "tel":"(018) 571 0076",
+      "district":"LICHTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"GESTOPTEFONTEIN 349 IO",
+      "postal":"PO BOX 10 OTTOSDAL 2610"
+   },
+   {
+      "mine_code":"12720",
+      "mine_name":"WOODSTOCK SANDWERKE (EDMS) BPK",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WOODSTOCK SANDWERKE (EDMS) BPK",
+      "tel":"(014) 538 0311",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"WOODSTOCK 397 JP 39",
+      "postal":"PO BOX 177 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"10748",
+      "mine_name":"XSTRATA - KROONDAL MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE MERAFE VENTURE",
+      "tel":"(014) 597 8047",
+      "district":"RUSTENBURG",
+      "province":"NORTH-WEST",
+      "farm":"KROONDAL 304 JQ, RUIGHOEK 169 JP, VOGELSTRUISNEK 173 JP, WATERVAL 306 JQ",
+      "postal":"PO BOX 310 KROONDAL 0350"
+   },
+   {
+      "mine_code":"14808",
+      "mine_name":"ZANDFONTEIN DELWERY",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"OCEANSIDE TRADING 139 CC",
+      "tel":"(053) 963 1081",
+      "district":"SCHWEIZER - RENEKE",
+      "province":"NORTH-WEST",
+      "farm":"MIMOSA 61 HO",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"10740",
+      "mine_name":"ZEERUST CHROME MINES",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ASSORE",
+      "tel":"(011) 770 6819",
+      "district":"MADIKWE",
+      "province":"NORTH-WEST",
+      "farm":"(KANAAN), TURFBULT 10 JP 2 3 4 5 &8",
+      "postal":"PRIVATE BAG X03 NORTHLANDS 2196"
+   }
+]

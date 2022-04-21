@@ -23,6 +23,13 @@
       </entry>
     </moduleSettings>
   </component>
+  <component name="JmixLiquibaseChangesConfig">
+    <exclude-change idName="geography_columns" tagName="dropView" />
+    <exclude-change idName="geometry_columns" tagName="dropView" />
+    <exclude-change idName="pg_stat_statements" tagName="dropView" />
+    <exclude-change idName="pg_stat_statements_info" tagName="dropView" />
+    <exclude-change idName="spatial_ref_sys" tagName="dropTable" />
+  </component>
   <component name="JmixPluginProjectSettings">
     <option name="savedDbProperties">
       <list>

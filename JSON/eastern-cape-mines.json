@@ -1,0 +1,2623 @@
+[
+   {
+      "mine_code":"12319",
+      "mine_name":"ABERDEEN BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"DE JAGER",
+      "tel":"(049) 846 0561",
+      "district":"ABERDEEN",
+      "province":"EASTERN CAPE",
+      "farm":"ABERDEEN LOT 1615, 1616, 1618 & 1625",
+      "postal":"211 JUNES STREET LOTUSVILLE ABERDEEN 6270"
+   },
+   {
+      "mine_code":"14376",
+      "mine_name":"ADDO MINERALS (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "AGGREGATE",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ADDO MINERALS (PTY) LTD",
+      "tel":"(041) 406 9500",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"GELUKSDAL 590, WELBEDACHTSFONTEIN 300 3",
+      "postal":"PO BOX 2179 NORTH END 6056"
+   },
+   {
+      "mine_code":"12244",
+      "mine_name":"AFRICA QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MACROVEST 104 (PTY) LTD",
+      "tel":"072 672 0463",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"FLORIDA 321",
+      "postal":"PO BOX 476 JEFFREYSBAAI 6330"
+   },
+   {
+      "mine_code":"15033",
+      "mine_name":"AFRIMAT - COOKHOUSE EASTER CAPE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LTD",
+      "tel":"(023) 342 6026",
+      "district":"BEDFORD",
+      "province":"EASTERN CAPE",
+      "farm":"KLIP FONTEIN 150 2",
+      "postal":"PO BOX 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"13690",
+      "mine_name":"AIREDALE BRICKWORKS",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"AIREDALE BRICKWORKS",
+      "tel":"(041) 461 9510",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"WELBEDACHTSFONTEIN (BRANDWAG) 300 6",
+      "postal":"PO BOX 27376 GREENACRES 6055"
+   },
+   {
+      "mine_code":"14137",
+      "mine_name":"AL PLANT HIRE - FARM 520",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AL PLANT HIRE TRUST",
+      "tel":"(043) 734 3003",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"SYRINGA 520",
+      "postal":"PO BOX 548 KWELERA 5259"
+   },
+   {
+      "mine_code":"14828",
+      "mine_name":"AL PLANT HIRE TRUST - FARM 1338",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AL PLANT HIRE TRUST",
+      "tel":"(043) 734 3003",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"TOWERHILL FARM 1338",
+      "postal":"PO BOX 548 KWELERA 5259"
+   },
+   {
+      "mine_code":"10006",
+      "mine_name":"ALIWAL DOLERITE QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(051) 633 3346",
+      "district":"ALIWAL NORTH",
+      "province":"EASTERN CAPE",
+      "farm":"ALIWAL NORTH TOWNLANDS ERF 1, ERF 2928",
+      "postal":"PO BOX 314 ALIWAL NORTH 9750"
+   },
+   {
+      "mine_code":"14682",
+      "mine_name":"ALTON QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES",
+      "tel":"(043) 683 1426",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 269 1",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"13748",
+      "mine_name":"ALUINKRANTZ",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IP MULLER",
+      "tel":"(046) 653 0782",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"ALUINKRANTZ EAST 195 4",
+      "postal":"POSBUS 18 ZUNEY 6187"
+   },
+   {
+      "mine_code":"15278",
+      "mine_name":"AMC MTHATHA",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAND WAVE QUARRIES (PTY) LTD",
+      "tel":"(043) 722 6185",
+      "district":"LIBODE",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 39",
+      "postal":"4 BELGRAVE ROAD BELGRAVIA EAST LONDON 5247"
+   },
+   {
+      "mine_code":"15368",
+      "mine_name":"ANDRÉ SENEKAL",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANDRÉ SENEKAL",
+      "tel":"(039) 315 0870",
+      "district":"MALUTI",
+      "province":"EASTERN CAPE",
+      "farm":"HERONMERE 17026 ES",
+      "postal":"PO BOX 1217 KOKSTAD 4700"
+   },
+   {
+      "mine_code":"15322",
+      "mine_name":"B & E INTERNATIONAL (PTY) LTD - RIETFONTEIN",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUBEX GROUP LIMITED",
+      "tel":"(011) 966 4300",
+      "district":"SOMERSET EAST",
+      "province":"EASTERN CAPE",
+      "farm":"RIETFONTEIN A 159",
+      "postal":"PO BOX 26730 EAST RAND 1462"
+   },
+   {
+      "mine_code":"14914",
+      "mine_name":"BAZ-WAR TRADING CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAZ-WAR TRADING CC",
+      "tel":"(043) 740 5053",
+      "district":"BEDFORD",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 286 DIV",
+      "postal":"BAZ-WAR TRADING CC BEACON BAY 5205"
+   },
+   {
+      "mine_code":"13227",
+      "mine_name":"BEACONSFIELD FARM",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAHAMSTOWN BRICK (PTY) LTD",
+      "tel":"(046) 636 1173",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"BRAKKEFONTEIN 243",
+      "postal":"PO BOX 7068 GRAHAMSTOWN NORHT 6148"
+   },
+   {
+      "mine_code":"15220",
+      "mine_name":"BEDFORD QUARRY EASTERN CAPE",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LTD",
+      "tel":"(023) 342 6026",
+      "district":"BEDFORD",
+      "province":"EASTERN CAPE",
+      "farm":"LEEUWFONTEIN 221",
+      "postal":"PO BOX 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"15459",
+      "mine_name":"BIGWILL ENTERPRIZE 10 (PTY) LTD",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPERATING",
+      "owner":"BIGWILL ENTERPRIZE 10 (PTY) LTD",
+      "tel":"(041) 406 7900",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"RIETKUIL 396 3 7 & 8",
+      "postal":"PO BOX 2179 NORTH END 6056"
+   },
+   {
+      "mine_code":"15378",
+      "mine_name":"BLUE CRANE MINERALS INDWE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE CRANE",
+      "tel":"(045) 952 1556",
+      "district":"INDWE",
+      "province":"EASTERN CAPE",
+      "farm":"COLDSTREAM 970",
+      "postal":"PO BOX 133 INDWE 5445"
+   },
+   {
+      "mine_code":"14834",
+      "mine_name":"BLUE ROCK QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE ROCK QUARRIES (PTY) LTD",
+      "tel":"(021) 976 1110",
+      "district":"LIBODE",
+      "province":"EASTERN CAPE",
+      "farm":"FARM NYANDENI 54",
+      "postal":"PRIVATE BAG X3 DURBANVILLE 7551"
+   },
+   {
+      "mine_code":"14934",
+      "mine_name":"BRENDASTON FARM CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRENDASTON FARM CC",
+      "tel":"(046) 622 2962",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"LIFFORD 31 1 & 3",
+      "postal":"PO BOX 7033 GRAHAMSTOWN NORTH 6148"
+   },
+   {
+      "mine_code":"13845",
+      "mine_name":"BUFFALO CARTAGE AND PLANT HIRE CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUFFALO CARTAGE AND PLANT HIRE CC",
+      "tel":"(043) 736 9686",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"HONEYDALE 1046 2",
+      "postal":"PO BOX 8093 NAHOON 5210"
+   },
+   {
+      "mine_code":"14896",
+      "mine_name":"BULURA SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMATOLA QUARRY PRODUCTS CC",
+      "tel":"(043) 831 1198",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 695 695 1",
+      "postal":"PO BOX 153 KOMGA 4950"
+   },
+   {
+      "mine_code":"13671",
+      "mine_name":"CHATTEN AGRI - PARADYSSTRAND",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONOP AGRI (EDMS) BPK T/A CHATTEN AGRI",
+      "tel":"(041) 000 1570",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"SEEKOEI RIVER 693 REM",
+      "postal":"POSBUS 220 PATENSIE 6335"
+   },
+   {
+      "mine_code":"10233",
+      "mine_name":"CIVIL & GENERAL",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CIVIL & GENERAL",
+      "tel":"(045) 857 8800",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"WELTEVREDEN NORTH 175 44",
+      "postal":"PO BOX 286 QUEENSTOWN 5320"
+   },
+   {
+      "mine_code":"15381",
+      "mine_name":"CIVIL & GENERAL CONTRACTORS CC - MAIDENHEAD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CIVIL & GENERAL CONTRACTORS CC",
+      "tel":"(045) 857 8800",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"MAIDENHEAD 169 7",
+      "postal":"PO BOX 286 QUEENSTOWN 5320"
+   },
+   {
+      "mine_code":"14460",
+      "mine_name":"CLC TUTT",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CLC TUTT",
+      "tel":"(043) 745 2129",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 602 RE OF 10",
+      "postal":"PO BOX 3091 CAMBRIDGE EAST LONDON 5205"
+   },
+   {
+      "mine_code":"10570",
+      "mine_name":"COEGA SALT WORKS",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"SURFACE",
+      "owner":"NATIONAL SALT LIMITED",
+      "tel":"(041) 403 6700",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"COEGA 303, COEGA RIVER MOUTH 343 SUB 11, COEGA RIVER MOUTH 566, MERVILLE 308, SCHELMHOEK 311, SWARTEKOPPEN 302 VARIOUS",
+      "postal":"PO BOX 7137 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"14450",
+      "mine_name":"COMMANDO VALLEY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IP MÜLLER",
+      "tel":"(046) 654 0189",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"COMMANDO VALLEY 273",
+      "postal":"PO BOX 418 ALEXANDRIA 6187"
+   },
+   {
+      "mine_code":"14830",
+      "mine_name":"CONCOR HOLDINGS - GROOTFONTEIN",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CONCOR HOLDINGS",
+      "tel":"(041) 365 5320",
+      "district":"SOMERSET EAST",
+      "province":"EASTERN CAPE",
+      "farm":"GROOTFONTEIN 315, WILGELEGEN PTN 1",
+      "postal":"PO BOX 7674 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"14811",
+      "mine_name":"CORPCLO 1982 CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CORPCLO 1982 CC",
+      "tel":"(045) 839 5850",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"LONGVALE 514",
+      "postal":"PO BOX 2096 KOMANI 5322"
+   },
+   {
+      "mine_code":"13249",
+      "mine_name":"CRADOCK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUBEX PTY LTD",
+      "tel":"(048) 881 1223",
+      "district":"CRADOCK",
+      "province":"EASTERN CAPE",
+      "farm":"EARTH 2571 REM, EARTH 41 PTN",
+      "postal":"PO BOX 288 CRADOCK 5880"
+   },
+   {
+      "mine_code":"13570",
+      "mine_name":"DE HOOP QUARRY BK",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AM HARBRON",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUISRIVIER 337 REM OF 35",
+      "postal":"PO BOX 617 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"13324",
+      "mine_name":"DENVER QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT AGGREGATES (OP) (PTY) LTD",
+      "tel":"(041) 398 9300",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"KUYGA 8",
+      "postal":"PO BOX 34162 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"14951",
+      "mine_name":"DOORNLAAGTE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MTHOMBO QUARRIES CC",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"DOORNLAAGTE 1, KRUISRIVIER 337 8",
+      "postal":"PO BOX 617 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"15394",
+      "mine_name":"DREAM TRU TRADERS",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DREAM TRU TRADERS",
+      "tel":"845 566 819",
+      "district":"BUTTERWORTH",
+      "province":"EASTERN CAPE",
+      "farm":"FARM BUTTERWORTH 33",
+      "postal":"PO BOX 366 BUTTERWORTH 4960"
+   },
+   {
+      "mine_code":"13242",
+      "mine_name":"DRUMMO",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SJ LUSTGARTEN",
+      "tel":"(043) 745 2002",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 1089, FARM 1251",
+      "postal":"PO BOX 459 KIDDS BEACH 5264"
+   },
+   {
+      "mine_code":"12242",
+      "mine_name":"DW STEENMAKERY",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"DW STEENMAKERY",
+      "tel":"(041) 461 1546",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"WELBEDACHTFONTEIN PTN 16",
+      "postal":"PO BOX 6 COEGA 6100"
+   },
+   {
+      "mine_code":"13188",
+      "mine_name":"EAST LONDON BRICKS CC",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAST LONDON BRICKS CC",
+      "tel":"(043) 732 1322",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"BUFFALO CITY LOCAL MUNICIPALITY, GONUBIE BROADS 764 15",
+      "postal":"PO BOX 18 GONUBIE 5256"
+   },
+   {
+      "mine_code":"14938",
+      "mine_name":"EASTERN CAPE QUARRIES CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL",
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MR M NOGODUKA",
+      "tel":"(047) 491 3138",
+      "district":"NQAMAKWE",
+      "province":"EASTERN CAPE",
+      "farm":"ZOLA ADMINISTRATIVE AREA",
+      "postal":"38 BLYTHE STREET BUTTERWORTH 4960"
+   },
+   {
+      "mine_code":"14574",
+      "mine_name":"ELANGENI BUILD IT - GARDEN LOT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PLATINUM HARDWARE (PTY) LTD",
+      "tel":"(047) 489 1417",
+      "district":"UMTATA",
+      "province":"EASTERN CAPE",
+      "farm":"GARDEN LOT ERF 432 433 & 434, MTENTU",
+      "postal":"PO BOX 15517 BEACON BAY EAST LONDON 5205"
+   },
+   {
+      "mine_code":"14540",
+      "mine_name":"ELITHENI COAL (PTY) LTD",
+      "commodity":[
+         "COAL ANTHRACITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SNR PLC",
+      "tel":"(041) 368 9650",
+      "district":"LADY FRERE",
+      "province":"EASTERN CAPE",
+      "farm":"MACUBENI GUBA HOEK AREA LOT 3",
+      "postal":"PO BOX 211177 THE FIG TREE 6033"
+   },
+   {
+      "mine_code":"13224",
+      "mine_name":"EP BRICK",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"EP BRICK CC",
+      "tel":"(041) 466 2727",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"WELLS ESTATE ERF 1 & 20",
+      "postal":"PO BOX 76 SWARTKOPS 6210"
+   },
+   {
+      "mine_code":"15340",
+      "mine_name":"EXCODOR 178 CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JACKIE RALPH JOSEPH",
+      "tel":"832 589 870",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 888 PTN",
+      "postal":"PO BOX 94 STORMSRIVIER 6307"
+   },
+   {
+      "mine_code":"13187",
+      "mine_name":"FB VAN ZYL & SEUN",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"FB VAN ZYL & SEUN",
+      "tel":"(049) 892 5716",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"TOWN LANDS 1814",
+      "postal":"PO BOX 367 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"15251",
+      "mine_name":"FORT BEAUFORT SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES",
+      "tel":"(043) 683 1426",
+      "district":"FORT BEAUFORT",
+      "province":"EASTERN CAPE",
+      "farm":"LIFFORD 31 2",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"12820",
+      "mine_name":"FOURIE'S VERVOER SANDGROEF",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FOURIE'S VERVOER",
+      "tel":"(049) 891 0118",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 220 2 OF PTN 1, LINQUE, WATERLOO 219",
+      "postal":"PO BOX 127 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"14832",
+      "mine_name":"FRONTIER CRUSHING",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRONTIER CRUSHING",
+      "tel":"(042) 231 1302",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"MEYERS KRAAL 163",
+      "postal":"PO BOX 19 ALICEDALE 6135"
+   },
+   {
+      "mine_code":"14833",
+      "mine_name":"FRONTIER QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRONTIER QUARRY",
+      "tel":"(042) 231 1302",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"ERF 1006 REM",
+      "postal":"PO BOX 19 ALICEDALE 6135"
+   },
+   {
+      "mine_code":"10627",
+      "mine_name":"G & W BASE - STROWAN KAOLIN QUARRY",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZIMCO GROUP",
+      "tel":"(011) 878 0343",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"STROWAN 5120",
+      "postal":"PO BOX 14052 WADEVILLE 1422"
+   },
+   {
+      "mine_code":"13749",
+      "mine_name":"GEELHOUTBOOM",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IP MULLER",
+      "tel":"(046) 654 0189",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"GEELHOUTBOOM",
+      "postal":"POSBUS 418 ALEXANDRIA 6187"
+   },
+   {
+      "mine_code":"13653",
+      "mine_name":"GLEN CRAIG QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMATOLA INDUSTRIES CC",
+      "tel":"(046) 637 9911",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"TEMPE (GLEN GRAIG) 240 9",
+      "postal":"PO BOX 2032 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"15136",
+      "mine_name":"GLENDORE SAND - ROVER QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENDORE SAND AND STONE (PTY) LTD",
+      "tel":"(041) 366 1917",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"SCHOENMAKERSKOP REM ERF118",
+      "postal":"PO BOX 5780 WALMER 6065"
+   },
+   {
+      "mine_code":"11294",
+      "mine_name":"GLENHOEK MINE",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAST CAPE QUARRIES (PTY) LTD",
+      "tel":"(046) 622 5298",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"PAYNES KRAAL 362",
+      "postal":"PO BOX 2021 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"14691",
+      "mine_name":"GONUBIE MINE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VADUBA INVESTMENTS CC",
+      "tel":"(043) 732 1464",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 800 1 & 3",
+      "postal":"PO BOX 78 GONUBIE 5256"
+   },
+   {
+      "mine_code":"14877",
+      "mine_name":"GOODHOPE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"EL VAN AS",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUISRIVIER 337 22",
+      "postal":"PO BOX 6268 MOSELVILLE 6232"
+   },
+   {
+      "mine_code":"12056",
+      "mine_name":"GOODHOPE GRUIS GROEF",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"A VAN NIEKERK - SCRIBANTE CONSTRUCTION",
+      "tel":"(041) 484 7211",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUISRIVIER 337 22",
+      "postal":"PO BOX 2179 NORTH END PORT ELIZABET 6056"
+   },
+   {
+      "mine_code":"15323",
+      "mine_name":"GREEN AGRI TRUST",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GREEN AGRI TRUST",
+      "tel":"826 081 991",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"VAN ROOYENSHOEK 846 PTN",
+      "postal":"PO BOX 21 ST FRANCIS BAY 6312"
+   },
+   {
+      "mine_code":"14771",
+      "mine_name":"GUMTREA",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PDW VOIGT - SCRIBANTE CONSTRUCTION",
+      "tel":"(041) 484 7211",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"GUMTREA, KRUISRIVIER 337 1 & 8",
+      "postal":"PO BOX 2179 NORTH END PORT ELIZABETH 6056"
+   },
+   {
+      "mine_code":"14680",
+      "mine_name":"HAPPY REST SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMATOLA QUARRY PRODUCTS CC",
+      "tel":"(043) 831 1198",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"HAPPY REST 696 1",
+      "postal":"PO BOX 153 KOMGA 4950"
+   },
+   {
+      "mine_code":"13019",
+      "mine_name":"HB GRUNDLINGH",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HB GRUNDLINGH",
+      "tel":"(041) 379 1754",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"CHELSEA DAWNS PTN 32",
+      "postal":"PO BOX 15070 EMERALD HILL 6011"
+   },
+   {
+      "mine_code":"14835",
+      "mine_name":"HERSCHEL SANDSTONE MINE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HERSCHEL SANDSTONE MINE",
+      "tel":"732 985 531",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"TUGELA",
+      "postal":"PO BOX 54 HERSCHEL 9762"
+   },
+   {
+      "mine_code":"15330",
+      "mine_name":"IKWEZI QUARRIES CC - LIBODE QUARRY",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE ROCK QUARRIES (PTY) LTD",
+      "tel":"(021) 976 1110",
+      "district":"LIBODE",
+      "province":"EASTERN CAPE",
+      "farm":"STATELAND MDLAOKOMO WARD 80",
+      "postal":"PRIVATE BAG X3 DURBANVILLE 7550"
+   },
+   {
+      "mine_code":"15046",
+      "mine_name":"INKWENKWEZI GAME RESERVE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAHAM PETERR STANTON",
+      "tel":"(043) 734 3234",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 533",
+      "postal":"PO BOX 236 KWELERA 5259"
+   },
+   {
+      "mine_code":"13775",
+      "mine_name":"INZULU (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL",
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMANZINI EASTATE LIMITED-SUNSHINE COAST",
+      "tel":"(041) 366 1917",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"PAPENKUILSVLEI 299, RIEHEUWEL 296",
+      "postal":"PO BOX 5780 WALMER 6065"
+   },
+   {
+      "mine_code":"12571",
+      "mine_name":"IRHAFU SAND",
+      "commodity":[
+         "SAND NATURAL",
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IRHAFU TRANSPORT BK",
+      "tel":"(049) 891 0118",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"LOUW KAMP ERF 1814 REM",
+      "postal":"PO BOX 127 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"15242",
+      "mine_name":"IRHAFU TRANSPORT BK - ZEEKOEI GAT",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IRHAFU TRANSPORT BK",
+      "tel":"(049) 891 0118",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"ZEEKOEI GAT 87",
+      "postal":"PO BOX 127 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"14829",
+      "mine_name":"JP MBETE AND SONS",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JP MBETE AND SONS",
+      "tel":"083 741 5009",
+      "district":"BUTTERWORTH",
+      "province":"EASTERN CAPE",
+      "farm":"FARM",
+      "postal":"PO BOX 138 ENGCOBO 5050"
+   },
+   {
+      "mine_code":"13777",
+      "mine_name":"JSR SCHWARZ MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JSR SCHWARZ MINE",
+      "tel":"083 394 1334",
+      "district":"STUTTERHEIM",
+      "province":"EASTERN CAPE",
+      "farm":"ERF 442",
+      "postal":"PO BOX 45 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"14809",
+      "mine_name":"JUNCTION 14 QUARRY MINE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"INGOLOVANE INVESTMENT CONSORT (PTY) LTD",
+      "tel":"(043) 740 3579",
+      "district":"BUTTERWORTH",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 38 1, NHLAMBE RESIDENCY",
+      "postal":"PO BOX 1005 EAST LONDON 5256"
+   },
+   {
+      "mine_code":"13685",
+      "mine_name":"KARIEGA QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"POTGIETER QUARRIES",
+      "tel":"(041) 406 9500",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"BATHURST, MERVILLE 303 39 OF 6",
+      "postal":"PO BOX 2179 NORTH END 6056"
+   },
+   {
+      "mine_code":"13682",
+      "mine_name":"KATRIVIER STENE",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KATRIVIER STENE",
+      "tel":"(046) 645 1474",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"MUNICIPAL COMMONAGE RIVERSIDE ENTERPRISE",
+      "postal":"PO BOX 279 FORT BEAFORT 5720"
+   },
+   {
+      "mine_code":"13132",
+      "mine_name":"KEI BRICK & TILE",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KEI BRICK & TILE",
+      "tel":"(040) 655 7415",
+      "district":"KING WILLIAM’S TOWN",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 1960",
+      "postal":"PO BOX 2990 KING WILLIAM'S TOWN 5600"
+   },
+   {
+      "mine_code":"14573",
+      "mine_name":"KEMP SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KEMP",
+      "tel":"(041) 992 5361",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUIS RIVIER 337",
+      "postal":"PO BOX 241 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"14836",
+      "mine_name":"KING WILLIAMS TOWN ROCK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES",
+      "tel":"(043) 683 1426",
+      "district":"KING WILLIAM’S TOWN",
+      "province":"EASTERN CAPE",
+      "farm":"ERF 359",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"13759",
+      "mine_name":"KINGSTON SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AC KING",
+      "tel":"(046) 622 8635",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"KINGSTON 539",
+      "postal":"PO BOX 2245 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"14615",
+      "mine_name":"KINI BAY CONS (PTY) LTD T/A SEAVIEW S",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KINI BAY CONS (PTY) LTD T/A SEAVIEW S",
+      "tel":"(041) 378 2426",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"SEAVIEW WEST 28 19",
+      "postal":"PO BOX 15417 EMERALD HILL PORT ELIZABETH 6011"
+   },
+   {
+      "mine_code":"15376",
+      "mine_name":"KKS SAND & STONE T/A MOVE-IT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KKS SAND & STONE T/A MOVE-IT",
+      "tel":"(039) 727 3586",
+      "district":"MALUTI",
+      "province":"EASTERN CAPE",
+      "farm":"WANSTEAD 18090",
+      "postal":"PO BOX 1751 KOKSTAD 4700"
+   },
+   {
+      "mine_code":"13757",
+      "mine_name":"KLEIHOOGTE MINE",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAST CAPE QUARRIES (PTY) LTD",
+      "tel":"(046) 622 5298",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"PAYNES KRAAL 362",
+      "postal":"PO BOX 2021 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"14741",
+      "mine_name":"KLU KLU HARD ROCK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES",
+      "tel":"(043) 683 1426",
+      "district":"FORT BEAUFORT",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 141, FARM 412",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"13689",
+      "mine_name":"KOUGA BRICKS CC",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KOUGA BRICKS",
+      "tel":"(042) 291 0660",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"KLEYN VLEY 688",
+      "postal":"PO BOX 693 HUMANSDORP 6300"
+   },
+   {
+      "mine_code":"13665",
+      "mine_name":"KRANTZHOEK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"POTGIETER QUARRIES",
+      "tel":"(046) 653 0260",
+      "district":"ALEXANDRIA",
+      "province":"EASTERN CAPE",
+      "farm":"ALUINKRANTZ ALEXANDRIA PTN 10, KRANTZHOEK 197 2",
+      "postal":"PO BOX 111 ALEXANDRIA 6185"
+   },
+   {
+      "mine_code":"11440",
+      "mine_name":"LAFARGE - BLUE ROCK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(043) 726 9214",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 1281 EL DIV",
+      "postal":"PO BOX 3077 CAMBRIDGE 5206"
+   },
+   {
+      "mine_code":"13662",
+      "mine_name":"LAFARGE - COEGAKOP EAST",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(041) 395 7700",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"COEGAKOP",
+      "postal":"PO BOX 7170 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"10522",
+      "mine_name":"LAFARGE - KING WILLIAM'S TOWN QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(043) 726 9214",
+      "district":"KING WILLIAM’S TOWN",
+      "province":"EASTERN CAPE",
+      "farm":"KING WILLIAM'S TOWN COMMONAG ERF 359",
+      "postal":"PO BOX 3077 CAMBRIDGE 5206"
+   },
+   {
+      "mine_code":"10424",
+      "mine_name":"LAFARGE - MOREGROVE QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(041) 395 7700",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"MOREGROVE MANOR HEIGHTS, PARSONSVLEI",
+      "postal":"PO BOX 7170 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"13628",
+      "mine_name":"LAKESIDE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DENVER QUARRIES",
+      "tel":"(041) 379 2296",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"KRAGGAKAMMA PTN 105 & 109",
+      "postal":"PO BOX 50812 COLLEEN GLEN 6018"
+   },
+   {
+      "mine_code":"14920",
+      "mine_name":"LAMAN (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAMAN (PTY) LTD",
+      "tel":"(047) 505 4700",
+      "district":"TSOLO",
+      "province":"EASTERN CAPE",
+      "farm":"TLO 214, GOTYIBENI",
+      "postal":"PO BOX 52798 MTATA 5099"
+   },
+   {
+      "mine_code":"14876",
+      "mine_name":"LANCE HARBRON - DE HOOP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LANCE HARBRON",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUISRIVIER 337 35",
+      "postal":"PO BOX 617 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"13660",
+      "mine_name":"LAVENDER HILL SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAVENDER HILL SAND",
+      "tel":"(042) 294 0705",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 809 23",
+      "postal":"PO BOX 74 ST FRANCIS BAY 3612"
+   },
+   {
+      "mine_code":"15399",
+      "mine_name":"LIMUVUNE T/A CANNOSIA",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CANOSIA TRADING 62",
+      "tel":"082 328 9245",
+      "district":"UMTATA",
+      "province":"EASTERN CAPE",
+      "farm":"FARM - EMADWALENI QUARRY 313",
+      "postal":"PO BOX 1464 MTHATHA 5100"
+   },
+   {
+      "mine_code":"12366",
+      "mine_name":"LLOYD'S BRICKWORKS",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"LLOYD'S BRICKWORKS TRUST",
+      "tel":"(041) 461 1408",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"WELBEDACHTFONTEIN 300",
+      "postal":"PO BOX 23 SWARTKOPS 6209"
+   },
+   {
+      "mine_code":"13667",
+      "mine_name":"LOERIE SAND AND KLIP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAN EYK",
+      "tel":"(042) 287 0741",
+      "district":"HANKEY",
+      "province":"EASTERN CAPE",
+      "farm":"GEELHOUDBOOM PTN 1",
+      "postal":"PO BOX 15 LOERIE 6370"
+   },
+   {
+      "mine_code":"14860",
+      "mine_name":"LOLO & LOLO",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LOLO & LOLO DEV SERVICES CC",
+      "tel":"835 079 349",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"KING WILLIAMS TOWN ERF 359",
+      "postal":"2 ROSS CRESENT GONOBIE 5257"
+   },
+   {
+      "mine_code":"14861",
+      "mine_name":"LOLO & LOLO - ERF",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LOLO & LOLO DEV SERVICES CC",
+      "tel":"835 079 349",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"2 ROSS CRESENT GONOBIE 5257"
+   },
+   {
+      "mine_code":"15400",
+      "mine_name":"LUDEKE QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DEPT OF ROAD AND PUBLIC WORKS",
+      "tel":"(043) 748 6417",
+      "district":"BIZANA",
+      "province":"EASTERN CAPE",
+      "farm":"FARM IN BIZANA 59",
+      "postal":"PO BOX 2507 BEACON BAY EAST LONDON 5205"
+   },
+   {
+      "mine_code":"14810",
+      "mine_name":"MARGENE TRANSPORT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARGENE TRANSPORT CC",
+      "tel":"(042) 287 0643",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"STRANDFONTEIN 442 20",
+      "postal":"PO BOX 7 MELON 6365"
+   },
+   {
+      "mine_code":"15341",
+      "mine_name":"MATAT STONES & MINING PROJECTS",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MATAT STONES & MINING PROJECTS",
+      "tel":"083 229 6210",
+      "district":"MALUTI",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 1",
+      "postal":"PO BOX 1229 MATATIELE 4730"
+   },
+   {
+      "mine_code":"12075",
+      "mine_name":"MAYFIELD MINE",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAYFIELD CLAYS (PTY) LTD",
+      "tel":"(046) 622 5298",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"MAYFIELD",
+      "postal":"PO BOX 2021 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"15156",
+      "mine_name":"MAZIZI MINING AND AGRICULTURE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAZIZI MINING AND AGRICULTURE",
+      "tel":"727 837 320",
+      "district":"MT AYLIFF",
+      "province":"EASTERN CAPE",
+      "farm":"SIBI 4 MATATIELE",
+      "postal":"PO BOX 1723 MATATIELE 4730"
+   },
+   {
+      "mine_code":"14595",
+      "mine_name":"MBASHEE SAND",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SILVER RUBY TRADING 15 (PTY) LTD",
+      "tel":"(043) 740 6053",
+      "district":"UMTATA",
+      "province":"EASTERN CAPE",
+      "farm":"MAZAMISA 31, UNSURVEYED STATE LAND COLOSA, LUNDONDOLO WARD 8 LOT VARIOUS",
+      "postal":"PO BOX 15517 BEACON BAY EAST LONDON 5205"
+   },
+   {
+      "mine_code":"12333",
+      "mine_name":"MENTORSKRAAL FAM TRUST",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MENTORSKRAAL FAM TRUST",
+      "tel":"(042) 293 2740",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"KABELJAUWSRIVIER 339 2",
+      "postal":"PO BOX 108 JEFFREYSBAAI 6330"
+   },
+   {
+      "mine_code":"14798",
+      "mine_name":"METRO QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"METRO QUARRIES (PTY) LTD",
+      "tel":"(041) 372 2232",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"PARSONSVLEI ERF 1, KRAGGA KAMMA 23 105",
+      "postal":"PO BOX 364 HUNTERS RETREAT PORT ELIZABETH 6017"
+   },
+   {
+      "mine_code":"14192",
+      "mine_name":"MIDDELSTR SLAGTERY T/A CANDEBOO BRICK",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"HA DU TOIT",
+      "tel":"(049) 893 0465",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"KLIPDRIFT 426 REM",
+      "postal":"PO BOX 197 GRAAF-REINET 6280"
+   },
+   {
+      "mine_code":"15243",
+      "mine_name":"MIDDELTON GROEF (MIDDELVALE) - VAN AARDSKRAAL",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IRHAFU TRANSPORT BP",
+      "tel":"(049) 891 0118",
+      "district":"SOMERSET EAST",
+      "province":"EASTERN CAPE",
+      "farm":"VAN AARDSKRAAL 163",
+      "postal":"PO BOX 127 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"14663",
+      "mine_name":"MILO GRANITE MINE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MILO GRANITE (PTY) LTD",
+      "tel":"(043) 726 1595",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"CASTLETON 53",
+      "postal":"10 LINARIA PLACE VINCENT HEIGHTS EAST LONDON 5205"
+   },
+   {
+      "mine_code":"14918",
+      "mine_name":"MK SAND",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"MK SAND",
+      "tel":"827 706 386",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"DIE WOUD 500 1",
+      "postal":"PO BOX 496 JEFFREYS BAY 6330"
+   },
+   {
+      "mine_code":"14936",
+      "mine_name":"MK SAND - TD VAN NIEKERK",
+      "commodity":[
+         "SAND NATURAL",
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"TD VAN NIEKERK",
+      "tel":"083 384 1694",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"STRANDFONTEIN 442 20",
+      "postal":"PO BOX 496 JEFFREYS BAY 6330"
+   },
+   {
+      "mine_code":"13865",
+      "mine_name":"MOOIFONTEIN GROEF",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOOIFONTEIN KLOPPER BOERDERY CC",
+      "tel":"082 789 2727",
+      "district":"BATHURST",
+      "province":"EASTERN CAPE",
+      "farm":"MOOIFONTEIN 269",
+      "postal":"PO BOX 2482 PORT ALFRED 6170"
+   },
+   {
+      "mine_code":"11842",
+      "mine_name":"MUNICIPAL DOLERITE QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUFFALO CITY MUNICIPALITY",
+      "tel":"(040) 654 0305",
+      "district":"KING WILLIAM’S TOWN",
+      "province":"EASTERN CAPE",
+      "farm":"PTN OF ERF 359",
+      "postal":"PO BOX 134 EAST LONDON 5200"
+   },
+   {
+      "mine_code":"13750",
+      "mine_name":"MVUBU QUARRIES CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MVUBU QUARRIES CC",
+      "tel":"(043) 748 6417",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"PORT ST JOHNS ERF 702",
+      "postal":"PO BOX 2507 BEACON BAY 5205"
+   },
+   {
+      "mine_code":"14895",
+      "mine_name":"NEWCOMBE VALLEY SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMATOLA QUARRY PRODUCTS CC",
+      "tel":"(043) 831 1198",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 723 723 2",
+      "postal":"PO BOX 153 KOMGA 4950"
+   },
+   {
+      "mine_code":"13672",
+      "mine_name":"NGQURA BRICKS (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"NGQURA BRICKS (PTY) LTD",
+      "tel":"(041) 466 4510",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"FISH WATER FLATS 33",
+      "postal":"PO BOX 191 SWARTKOPS 6210"
+   },
+   {
+      "mine_code":"14731",
+      "mine_name":"NIEUWEJAARSPRUIT SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NIEUWEJAARSPRUIT SAND",
+      "tel":"(051) 633 3312",
+      "district":"ALIWAL NORTH",
+      "province":"EASTERN CAPE",
+      "farm":"JUNCTION 14, NIEUWEJAARSPRUIT 57, ROUXVILLE ROAD 1089 2",
+      "postal":"PO BOX 406 ALIWAL NORTH 9750"
+   },
+   {
+      "mine_code":"14136",
+      "mine_name":"OESTERBAAI - EASTERN CAPE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LIMITED",
+      "tel":"(023) 342 6026",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"KLEINRIVIER 713 PTN 2",
+      "postal":"PO BOX 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"13707",
+      "mine_name":"OPREISFONTEIN FOURIE'S VERVOER SANDGR",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"FOURIE'S VERVOER",
+      "tel":"(049) 891 0118",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"OPREISFONTEIN 258",
+      "postal":"PO BOX 127 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"13769",
+      "mine_name":"OWL EYE TRADING - T/A MZINTLAVA QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MS TENJIWE AGNES MZOBOTSHI",
+      "tel":"(039) 251 0595",
+      "district":"LUSIKISIKI",
+      "province":"EASTERN CAPE",
+      "farm":"MZINTLAVA RESERVE FARM 9",
+      "postal":"PO BOX 1178 LUSIKISIKI 4820"
+   },
+   {
+      "mine_code":"13674",
+      "mine_name":"PENTZ BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"PENTZ BRICKS",
+      "tel":"(041) 461 1045",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"WELBEDACH PTN (MORESTER COEGA) 10",
+      "postal":"PO BOX 5 SWARTKOP 6209"
+   },
+   {
+      "mine_code":"13250",
+      "mine_name":"PONDOLAND QUARRIES CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PONDOLAND QUARRIES CC",
+      "tel":"(031) 717 9770",
+      "district":"LUSIKISIKI",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"PO BOX 1238 PINETOWN 3600"
+   },
+   {
+      "mine_code":"13673",
+      "mine_name":"POTGIETER KLIPWERKE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"POTGIETER KLIPWERKE",
+      "tel":"(042) 273 2008",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"DIEPKLOOF",
+      "postal":"PO BOX 251 JOUBERTINA 6410"
+   },
+   {
+      "mine_code":"15094",
+      "mine_name":"POWER RUSH",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"POWER RUSH",
+      "tel":"781 651 870",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 1404",
+      "postal":"MELODY FARM EAST LONDON 5200"
+   },
+   {
+      "mine_code":"13407",
+      "mine_name":"PPC - GRASSRIDGE QUARRY",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRETORIA PORTLAND CEMENT CO LTD",
+      "tel":"(041) 486 2272",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"GRASSRIDGE 224 & 228",
+      "postal":"PRIVATE BAG X2016 NORTH END 6056"
+   },
+   {
+      "mine_code":"12674",
+      "mine_name":"PPC - MOUNT STEWART",
+      "commodity":[
+         "GYPSUM"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRETORIA PORTLAND CEMENT CO LTD",
+      "tel":"(041) 486 2272",
+      "district":"JANSENVILLE",
+      "province":"EASTERN CAPE",
+      "farm":"BLUEGUMVALE 256",
+      "postal":"PO BOX 2016 NORTH END 6056"
+   },
+   {
+      "mine_code":"12238",
+      "mine_name":"PRIMA QUARRIES LTD 1987",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRIMA QUARRIES LTD 1987",
+      "tel":"(041) 406 7900",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"RIETKUIL 396 7",
+      "postal":"PO BOX 2179 NORTH END 6056"
+   },
+   {
+      "mine_code":"12069",
+      "mine_name":"PSA SANDGROEF",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PUBLIC SERVANTS ASSOC OF SA",
+      "tel":"(043) 732 1022",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 803",
+      "postal":"PO BOX 16 GONUBIE 5256"
+   },
+   {
+      "mine_code":"11756",
+      "mine_name":"QUEENSTOWN QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"QUEENSTOWN QUARRY (PTY) LTD",
+      "tel":"(045) 857 0092",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"DOORNHOEK, LESSEYTON DISTRICT",
+      "postal":"PO BOX 2577 KOMANI 5322"
+   },
+   {
+      "mine_code":"15430",
+      "mine_name":"QUNU QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANRAL / RUMDEL CONSTRUCTION (CAPE)",
+      "tel":"(043) 748 6417",
+      "district":"IDUTYWA",
+      "province":"EASTERN CAPE",
+      "farm":"MBASHE AREA",
+      "postal":"PO BOX 2507 BEACON BAY 5205"
+   },
+   {
+      "mine_code":"15047",
+      "mine_name":"RAUMIX - RIETVLEI UMZIMKHULU",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX AGGREGATES (PTY) LTD",
+      "tel":"(011) 966 4361",
+      "district":"UMZIMKULU",
+      "province":"EASTERN CAPE",
+      "farm":"RIETVLEI ERF 173",
+      "postal":"PO BOX 26730 EAST RAND 1462"
+   },
+   {
+      "mine_code":"14283",
+      "mine_name":"RONDEBOSCH SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CM VAN DEN HEEVER",
+      "tel":"(042) 291 0037",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"RONDEBOSCH, ZWARTEBOSCH 347 9",
+      "postal":"PO BOX 463 HUMANSDORP 6300"
+   },
+   {
+      "mine_code":"13724",
+      "mine_name":"ROODEKRANTZ 203",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"ROODEKRANTZ 203",
+      "tel":"082 925 8436",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"ROODEKRANTZ 203 RESTANT",
+      "postal":"POSBUS 436 KWELERA 5320"
+   },
+   {
+      "mine_code":"13140",
+      "mine_name":"ROOIGROND QUARRY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAAFF-REINET MUNICIPALITY",
+      "tel":"(049) 892 2121",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"DORPSMEENT",
+      "postal":"PO BOX 71 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"15324",
+      "mine_name":"RUMDEL CONSTRUCTION CAPE (PTY) LTD",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"RUMDEL CONSTRUCTION CAPE (PTY) LTD",
+      "tel":"(043) 748 6417",
+      "district":"BIZANA",
+      "province":"EASTERN CAPE",
+      "farm":"IMIZIZI TRIBAL A/A, MBIZANA MUNICIPAL DISTRICT",
+      "postal":"PO BOX 2507 BEACON BAY 5205"
+   },
+   {
+      "mine_code":"13643",
+      "mine_name":"S NIEMAND T/A STANS QUARRY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STANLEY NIEMAND",
+      "tel":"(041) 378 1109",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"SEAVIEW WEST PLOT 24",
+      "postal":"PO BOX 50741 COLLEEN GLEN 6018"
+   },
+   {
+      "mine_code":"14692",
+      "mine_name":"SA LIME EC (PTY) LTD MOUNT STEWARD",
+      "commodity":[
+         "GYPSUM"
+      ],
+      "type":"OPENCAST",
+      "owner":"SA LIME EASTERN CAPE (PTY) LTD",
+      "tel":"(011) 721 3156",
+      "district":"STEYTLERVILLE",
+      "province":"EASTERN CAPE",
+      "farm":"EAST OF GOUS KRAAL 257 1",
+      "postal":"PO BOX 1436 FONTAINBLEAU 2032"
+   },
+   {
+      "mine_code":"13645",
+      "mine_name":"SANDMAN QUARRIES",
+      "commodity":[
+         "SAND NATURAL",
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"PH AND HJ POTGIETER",
+      "tel":"(041) 933 2792",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"WAAGENSDRIFT 567",
+      "postal":"PO BOX 313 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"15342",
+      "mine_name":"SANRAL R61 CRADOCK TO GRAAFF REINET",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANRAL - SUPACRUSH",
+      "tel":"(041) 398 3200",
+      "district":"CRADOCK",
+      "province":"EASTERN CAPE",
+      "farm":"KLEINPLAAS R61 HARD ROCK QUARRY",
+      "postal":"PO BOX 27230 GREENACRES PORT ELIZABETH 6057"
+   },
+   {
+      "mine_code":"15382",
+      "mine_name":"SCRIBANTE CONCRETE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SCRIBANTE CONCRETE",
+      "tel":"(041) 406 9500",
+      "district":"MOLTENO",
+      "province":"EASTERN CAPE",
+      "farm":"GREAT SEA COW GAT 1",
+      "postal":"PO BOX 2179 NORTH END PORT ELIZABETH 6056"
+   },
+   {
+      "mine_code":"15366",
+      "mine_name":"SHAWPARK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANRAL",
+      "tel":"079 490 8337",
+      "district":"BATHURST",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 446",
+      "postal":"351/2 SIXTH ROAD BREDELL 1623"
+   },
+   {
+      "mine_code":"15122",
+      "mine_name":"SIDNEY JAMES LAWRENCE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SIDNEY JAMES LAWRENCE",
+      "tel":"074 496 9993",
+      "district":"PORT ST JOHNS",
+      "province":"EASTERN CAPE",
+      "farm":"ERF 735",
+      "postal":"PO BOX 899 MTHATHA 5099"
+   },
+   {
+      "mine_code":"14594",
+      "mine_name":"SILVER RUBY TRADING",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WARREN RAATH",
+      "tel":"(043) 740 6053",
+      "district":"IDUTYWA",
+      "province":"EASTERN CAPE",
+      "farm":"COLOSA STATE LAND",
+      "postal":"PO BOX 15517 BEACON BAY EAST LONDON 5205"
+   },
+   {
+      "mine_code":"15238",
+      "mine_name":"SILVER RUBY TRADING",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SILVER RUBY TRADING 15 (PTY) LTD",
+      "tel":"(043) 740 6053",
+      "district":"ENGCOBO",
+      "province":"EASTERN CAPE",
+      "farm":"ZADUNGENI AREA 27",
+      "postal":"PO BOX 15517 BEACON BAY EAST LONDON 5205"
+   },
+   {
+      "mine_code":"13848",
+      "mine_name":"SONOP QUARRY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"SUNSHINE COAST QUARRIES",
+      "tel":"(041) 366 1165",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"COEGAS RIVER MOUTH PTN 2 SONOP",
+      "postal":"PO BOX 5780 WALMER 6065"
+   },
+   {
+      "mine_code":"15135",
+      "mine_name":"SPARKLGLOW DEALS 104 CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SPARKLGLOW DEALS 104 CC",
+      "tel":"(039) 727 1055",
+      "district":"LUSIKISIKI",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 52 DIV",
+      "postal":"PO BOX 711 LUSIKISIKI 4820"
+   },
+   {
+      "mine_code":"14898",
+      "mine_name":"SPRINGFONTEIN",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MTHOMBO QUARRIES CC",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"SPRINGFIELD 339 REM, KRUISRIVIER, SPRINGFONTEIN",
+      "postal":"PO BOX 617 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"15427",
+      "mine_name":"ST BARNABUS HARDROCK QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANRAL",
+      "tel":"(021) 976 1110",
+      "district":"UMTATA",
+      "province":"EASTERN CAPE",
+      "farm":"ST BARNABAS ADJACENT TO MXHOSA VILLAGE",
+      "postal":"PRIVATE BAG X 03 RACECOURSE ROAD DURBANVILLE 7550"
+   },
+   {
+      "mine_code":"12563",
+      "mine_name":"ST LUKES QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"INDEPENDANT CRUSHERS CC",
+      "tel":"(043) 745 1014",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 303 4",
+      "postal":"PO BOX 1765 EAST LONDON 5200"
+   },
+   {
+      "mine_code":"12663",
+      "mine_name":"STONE RIDGE QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SCARLETT DAWN TRADING 252 (PTY) LTD",
+      "tel":"(043) 732 1464",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"PORTION 299",
+      "postal":"PO BOX 303 GONUBIE 5256"
+   },
+   {
+      "mine_code":"13146",
+      "mine_name":"STUTT BRICK CO",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT BRICK MANUFACTURING (PTY) LTD",
+      "tel":"(040) 630 3453",
+      "district":"KING WILLIAM’S TOWN",
+      "province":"EASTERN CAPE",
+      "farm":"BALASSI 629 /1",
+      "postal":"PO BOX 545 KING WILLIAM'S TOWN 5600"
+   },
+   {
+      "mine_code":"13830",
+      "mine_name":"STUTT CARTAGE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT CARTAGE",
+      "tel":"(043) 683 1426",
+      "district":"STUTTERHEIM",
+      "province":"EASTERN CAPE",
+      "farm":"HORSESHOE 230",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"13651",
+      "mine_name":"STUTT QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES CC",
+      "tel":"(043) 683 1848",
+      "district":"STUTTERHEIM",
+      "province":"EASTERN CAPE",
+      "farm":"DUNREE ERF 2233, DUNREE ERF 80 PTN",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"14781",
+      "mine_name":"STUTT QUARRIES - LIFFORD SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUTT QUARRIES",
+      "tel":"(043) 683 1426",
+      "district":"FORT BEAUFORT",
+      "province":"EASTERN CAPE",
+      "farm":"LIFFORD FARM 31",
+      "postal":"PO BOX 197 STUTTERHEIM 4930"
+   },
+   {
+      "mine_code":"13675",
+      "mine_name":"SUNDAYS RIVER SALTWORKS",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"SURFACE",
+      "owner":"NATIONAL SALT LIMITED",
+      "tel":"(041) 403 6700",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"MELVILLE PTN 2 3 & 4, SCHELMHOEK PTN 1 & 2",
+      "postal":"PO BOX 7137 NEWTON PARK 6055"
+   },
+   {
+      "mine_code":"14897",
+      "mine_name":"SUPACRUSH (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SCRIBANTE CONSTRUCTION",
+      "tel":"(041) 406 7900",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"WITBANK 737",
+      "postal":"PO BOX 2179 NORTH END 6056"
+   },
+   {
+      "mine_code":"15226",
+      "mine_name":"SUPERSPOT 2 CC",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LEO TRUST",
+      "tel":"(043) 745 1445",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"LAVENDER 61 PTN OF 3, FARM 648 3",
+      "postal":"PO BOX 1765 EAST LONDON 5200"
+   },
+   {
+      "mine_code":"10742",
+      "mine_name":"SWARTKOPS RIVER SALT WORKS - FARMS & OFFSHORE",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"NATIONAL SALT LTD",
+      "tel":"(014) 403 6700",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"COEGA RIVER MOUTH OFFSHORE, FARM 33, FARM 434, FARM 566, FARM 569",
+      "postal":"PO BOX 7137 NEWTON PARK PORT ELIZABETH 6055"
+   },
+   {
+      "mine_code":"10630",
+      "mine_name":"SWARTKOPS SEESOUT MISSION SOUTPAN",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"SURFACE",
+      "owner":"SWARTKOPS SEESOUT (EDMS) BPK",
+      "tel":"(041) 463 1100",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"BETHELSDORP, VEEPLAAS",
+      "postal":"PRIVATE BAG X1 SWARTKOPS 6209"
+   },
+   {
+      "mine_code":"12953",
+      "mine_name":"SYFERGAT",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AM HARBRON",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"LOWER SPRINGFIELD PTN 16, KUILSRIVIER 337 PTN",
+      "postal":"PO BOX 617 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"14221",
+      "mine_name":"TEVIOT SALT WORKS",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"EUNIS BELEGGINGS (EDMS) BPK",
+      "tel":"(048) 885 9005",
+      "district":"HOFMEYR",
+      "province":"EASTERN CAPE",
+      "farm":"QUAGGAS LAAGTE 57 3 & 4, ZOUTPAN 56",
+      "postal":"PO BOX 98 HOFMEYR 5930"
+   },
+   {
+      "mine_code":"13611",
+      "mine_name":"THANDWENI SAND MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRANCOIS VOSLOO FAMILY TRUST",
+      "tel":"(046) 624 3335",
+      "district":"BATHURST",
+      "province":"EASTERN CAPE",
+      "farm":"PORT ALFRED PARK 389 1",
+      "postal":"PO BOX 233 PORT ALFRED 6170"
+   },
+   {
+      "mine_code":"14739",
+      "mine_name":"THE GORAH 398",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KENTON-ON-SEA AGRIBUS & MULTI-PURPOSE CO",
+      "tel":"(046) 654 0286",
+      "district":"BATHURST",
+      "province":"EASTERN CAPE",
+      "farm":"NORTH GORAH 425, THE GORAH 398 1 & 9",
+      "postal":"PO BOX 426 KENTON-ON-SEA 6191"
+   },
+   {
+      "mine_code":"15195",
+      "mine_name":"THYSPUNT",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LTD / COMMUNITY QUARRIES (PTY) LTD",
+      "tel":"(023) 342 6026",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"WELGELEGEN 735 REM",
+      "postal":"PO BOX 505 WORCESTER 6850"
+   },
+   {
+      "mine_code":"15258",
+      "mine_name":"TIGER SPRING",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VIVIAN HORANCE DELL",
+      "tel":"082 447 7491",
+      "district":"BATHURST",
+      "province":"EASTERN CAPE",
+      "farm":"TIGER SPRING 194 DIV",
+      "postal":"PO BOX 59 BATHHURST 6166"
+   },
+   {
+      "mine_code":"14196",
+      "mine_name":"TL BOWLES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TL BOWLES",
+      "tel":"(046) 622 8539",
+      "district":"ALBANY",
+      "province":"EASTERN CAPE",
+      "farm":"MOSSLANDS 470",
+      "postal":"PO BOX 191 GRAHAMSTOWN 6140"
+   },
+   {
+      "mine_code":"14480",
+      "mine_name":"TOWERHILL QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMATOLA QUARRY PRODUCTS CC",
+      "tel":"(043) 831 1198",
+      "district":"KOMGA",
+      "province":"EASTERN CAPE",
+      "farm":"TOWERHILL 1338 1",
+      "postal":"PO BOX 153 KOMGA 4950"
+   },
+   {
+      "mine_code":"13331",
+      "mine_name":"TRANSKEI QUARRIES - BUTTERWORTH",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUNSHINE ENTERPRISES T/A",
+      "tel":"(047) 491 3383",
+      "district":"BUTTERWORTH",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"PO BOX 886 UMTATA 5100"
+   },
+   {
+      "mine_code":"13210",
+      "mine_name":"TRANSKEI QUARRIES - UMTATA",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUNSHINE ENTERPRISES T/A",
+      "tel":"(047) 534 1701",
+      "district":"LIBODE",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"PO BOX 886 UMTATA 5100"
+   },
+   {
+      "mine_code":"13718",
+      "mine_name":"TREGARON QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"IP MULLER",
+      "tel":"(046) 654 0189",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"TREGARAN",
+      "postal":"PO BOX 418 ALEXANDRIA 6187"
+   },
+   {
+      "mine_code":"15215",
+      "mine_name":"TRIAMIC CONSTRUCTION (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GREAT KAROO PROSPECTING (PTY) LTD",
+      "tel":"(021) 976 1110",
+      "district":"NGQUELENI",
+      "province":"EASTERN CAPE",
+      "farm":"MASAMINI 63 REM",
+      "postal":"PRIVATE BAG X3 DURBANVILLE 7551"
+   },
+   {
+      "mine_code":"13722",
+      "mine_name":"UGIE MAC QUARRY CC",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"UGIE MAC QUARRY CC",
+      "tel":"(045) 933 1273",
+      "district":"MACLEAR",
+      "province":"EASTERN CAPE",
+      "farm":"ROSENDALE 379",
+      "postal":"PO BOX 44 UGIE 5470"
+   },
+   {
+      "mine_code":"15111",
+      "mine_name":"UMSO CONSTRUCTION QUARRY",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMSO CONSTRUCTION (PTY) LTD",
+      "tel":"(043) 748 4747",
+      "district":"MT AYLIFF",
+      "province":"EASTERN CAPE",
+      "farm":"MOWAGA 54 WO",
+      "postal":"PO BOX 2394 BEACON BAY 5205"
+   },
+   {
+      "mine_code":"11697",
+      "mine_name":"VADUBA INVESTMENTS CC - FARM 800",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VADUBA INVESTMETNS CC",
+      "tel":"(043) 732 1464",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"RIEGERTON 800 1",
+      "postal":"PO BOX 78 GONUBIE 5256"
+   },
+   {
+      "mine_code":"10240",
+      "mine_name":"VERWEERDE DOLERIET GRUISGROEF",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAAFF-REINET MUNICIPALITY",
+      "tel":"(049) 892 2121",
+      "district":"GRAAFF-REINET",
+      "province":"EASTERN CAPE",
+      "farm":"REMAINDER OF ERF 1814, TOWNLANDS",
+      "postal":"PO BOX 71 GRAAFF-REINET 6280"
+   },
+   {
+      "mine_code":"13987",
+      "mine_name":"VLAKTEPLAAS CRUSHERS",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAY TOWER PROPERTIES 188 CC",
+      "tel":"(042) 293 2102",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 854, KOUGA 831",
+      "postal":"PO BOX 138 JEFFREYS BAY 6330"
+   },
+   {
+      "mine_code":"13683",
+      "mine_name":"VOLCANO BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING",
+         "SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"VOLCANO BRICKS",
+      "tel":"(045) 838 1109",
+      "district":"QUEENSTOWN",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"PO BOX 960 QUEENSTOWN 5320"
+   },
+   {
+      "mine_code":"14992",
+      "mine_name":"VOORTBOU STENE (EDMS) BPK",
+      "commodity":[
+         "SHALE BRICKMAKING",
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"VOORTBOU STENE (EDMS) BPK",
+      "tel":"(042) 295 1251",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"ESTATE KLEIN ZEEKOE RIVIER 335",
+      "postal":"PO BOX 201 HUMANSDORP 6300"
+   },
+   {
+      "mine_code":"14878",
+      "mine_name":"VREDE",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JE KOEN",
+      "tel":"(041) 992 1319",
+      "district":"UITENHAGE",
+      "province":"EASTERN CAPE",
+      "farm":"KRUISRIVIER 337 225",
+      "postal":"PO BOX 6268 UITENHAGE 6230"
+   },
+   {
+      "mine_code":"14579",
+      "mine_name":"WAHLOO SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ST FRANCIS BRICK & PLANTHIRE",
+      "tel":"(042) 294 0435",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"FARM 809 13",
+      "postal":"PO BOX 467 ST FRANCIS BAY 6312"
+   },
+   {
+      "mine_code":"13676",
+      "mine_name":"XUME DISTRICT",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GROUP FIVE ROADS AND EARTHWORKS",
+      "tel":"(047) 494 0044",
+      "district":"PORT ELIZABETH",
+      "province":"EASTERN CAPE",
+      "farm":"",
+      "postal":"PO BOX 12395 AMALINDA 5252"
+   },
+   {
+      "mine_code":"14521",
+      "mine_name":"YIREH SHALOM QUARRIES",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ALAN JACK CROMHOUT",
+      "tel":"724 144 037",
+      "district":"EAST LONDON",
+      "province":"EASTERN CAPE",
+      "farm":"SPRINGFONTEIN 853 1 &",
+      "postal":"PO BOX 12245 AMALINDA 5252"
+   },
+   {
+      "mine_code":"14722",
+      "mine_name":"ZWARTEBOSCH QUARRY (PTY) LTD",
+      "commodity":[
+         "AGGREGATE",
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZWARTEBOSCH QUARRY (PTY) LTD",
+      "tel":"(042) 295 2620",
+      "district":"HUMANSDORP",
+      "province":"EASTERN CAPE",
+      "farm":"ZWARTEBOSCH 347",
+      "postal":"PO BOX 280 HUMANSDORP 6300"
+   }
+]

@@ -1,0 +1,2634 @@
+[
+   {
+      "mine_code":"12376",
+      "mine_name":"AFRICAN BRICK - KRUGERSDORP",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN BRICK (PTY) LTD",
+      "tel":"087 805 6717",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"LUIPAARDSVLEI 426 IQ",
+      "postal":"PO BOX 99 RANT-EN-DAL 1751"
+   },
+   {
+      "mine_code":"13712",
+      "mine_name":"AFRICAN BRICK - SYFERFONTEIN",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN BRICK - LENASIA",
+      "tel":"(011) 857 1318",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"SYFERFONTEIN",
+      "postal":"PO BOX 99 RANT EN DAL 1751"
+   },
+   {
+      "mine_code":"15025",
+      "mine_name":"AFRIMAT - SPITSKOP",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT AGGREGATES (OP) (PTY) LTD",
+      "tel":"(023) 342 6026",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"15407",
+      "mine_name":"AFRIMAT SILICA (PTY) LTD",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"INFRASORS HOLDINGS (PTY) LTD",
+      "tel":"(012) 664 5649",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BRANDBACH 471 55",
+      "postal":"PO BOX 14014 LYTTELTON 0141"
+   },
+   {
+      "mine_code":"10191",
+      "mine_name":"AFRISAM - EIKENHOF",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 210 9304",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"EIKENHOF 323 IQ",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"10202",
+      "mine_name":"AFRISAM - FERRO",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"SURFACE",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 670 1077",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DERDEPOORT 326 JR 326 JR",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"10307",
+      "mine_name":"AFRISAM - JUKSKEI",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 257 0904",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"WATERVAL 5 IR",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"10469",
+      "mine_name":"AFRISAM - OLIFANTSFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 670 5997",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"STERKFONTEIN 401 JR",
+      "postal":"PO BOX 6367 WELTEVREDEN PARK 1715"
+   },
+   {
+      "mine_code":"12113",
+      "mine_name":"AFRISAM - ROODEKRANS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 662 1950",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"RIETFONTEIN 189 IQ, ROODEKRANS 183 QI",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"11361",
+      "mine_name":"AFRISAM - ROOIKRAAL",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 749 5500",
+      "district":"BRAKPAN",
+      "province":"GAUTENG",
+      "farm":"ROOIKRAAL 156 IR 4 & 5",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"10590",
+      "mine_name":"AFRISAM EAST RAND",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 365 9908",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"DAGGAFONTEIN 125 IR 92, GROOTFONTEIN 165 IR 30",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"15263",
+      "mine_name":"AFRISAM EAST RAND DUMPS - DAGGAFONTEIN 1",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 365 9908",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"GROOTFONTEIN 165 IR 30",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"10386",
+      "mine_name":"ALFA SANDWORKS (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUILDMAX",
+      "tel":"861 223 334",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"PUNTLYF 520 JR 7 & 8",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"13203",
+      "mine_name":"ANKER COAL SALES AND EXPORT (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"",
+      "owner":"ANKER COAL SALES AND EXPORT (PTY) LTD",
+      "tel":"(013) 282 6226",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 4929 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13380",
+      "mine_name":"APOLLO BRICK GAUTENG",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MANTALA",
+      "tel":"(011) 848 2000",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"ELANDSFONTEIN 412 JR 63 64 &131",
+      "postal":"PO BOX 6061 BIRCHLEIGH 1621"
+   },
+   {
+      "mine_code":"13726",
+      "mine_name":"ATOLL METAL RECOVERY (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ATOLL METAL RECOVERY (PTY) LTD",
+      "tel":"086 088 8886",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"MODDERFONTEIN 76 IR 43",
+      "postal":"PO BOX 17261 BENONI WEST 1503"
+   },
+   {
+      "mine_code":"10603",
+      "mine_name":"B & E SILICA - SPITSKOP MINE",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"B & E SILICA (PTY) LTD",
+      "tel":"(013) 680 1181",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"SPITZKOP 533 JR",
+      "postal":"PO BOX 157 DELMAS 2210"
+   },
+   {
+      "mine_code":"14189",
+      "mine_name":"BAMBANANI BRICKWORKS",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAMBANANI BRICKWORKS",
+      "tel":"(013) 986 7172",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"VLAKLAAGTE 221 JR",
+      "postal":"PO BOX 24 EMPUMALANGA 0458"
+   },
+   {
+      "mine_code":"13475",
+      "mine_name":"BASUIN SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DANIEL PIENAAR",
+      "tel":"(012) 376 2398",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"UITZICHT 314 JR 145",
+      "postal":"PO BOX 49559 HERCULES 0030"
+   },
+   {
+      "mine_code":"12065",
+      "mine_name":"BENONI GOLD MINE (PTY) LTD",
+      "commodity":[
+         "GOLD, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GROUP FIVE",
+      "tel":"086 124 6786",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"NEW KLEINFONTEIN 67 IR PTN",
+      "postal":"PO BOX 12672 BENONI 1514"
+   },
+   {
+      "mine_code":"13968",
+      "mine_name":"BLAAUWBANK MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PROTEA MINES (PTY) LTD",
+      "tel":"074 577 4142",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"ZUICKERBOSCHFONTEIN 151 IQ",
+      "postal":"PO BOX 1850 KEMPTON PARK 1620"
+   },
+   {
+      "mine_code":"10054",
+      "mine_name":"BLYVOORUITZICHT GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARVARD - LIQUIDATORS",
+      "tel":"083 280 7944",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"BLYVOORUITZICHT 116 IQ",
+      "postal":"PO BOX 7001 BLYVOORUITSIG 2504"
+   },
+   {
+      "mine_code":"11552",
+      "mine_name":"BOEKENHOUT SAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BOEKENHOUT SAND",
+      "tel":"082 824 6229",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTSKLOOF 284 JR",
+      "postal":"PO BOX 75148 LYNNWOODRIDGE 0040"
+   },
+   {
+      "mine_code":"11347",
+      "mine_name":"BRANDBACH SAND CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRANDBACH SAND CC",
+      "tel":"(012) 736 1324",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"BRANDBACH 471 JR",
+      "postal":"POSBUS 704 CULLINAN 1000"
+   },
+   {
+      "mine_code":"13914",
+      "mine_name":"BRIKOR - PLANT 3",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRIKOR LTD",
+      "tel":"(011) 814 6043",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"VARKENSFONTEIN 169 IR 70",
+      "postal":"PO BOX 884 NIGEL 1490"
+   },
+   {
+      "mine_code":"13580",
+      "mine_name":"BRIKOR PLANT 1 - CLAY QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRIKOR LTD",
+      "tel":"(011) 739 9000",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"DRAAIKRAAL 166 IR 7",
+      "postal":"PO BOX 884 NIGEL 1490"
+   },
+   {
+      "mine_code":"11683",
+      "mine_name":"BRONX MINING & INVESTMENT (PTY) LTD",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"B & E SILICA (PTY) LTD",
+      "tel":"(013) 932 1394",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"MARLOO 522 JR 3, OUDE ZWAANS KRAAL 542 JR 3, VLAKFONTEIN 523 JR 2 4 5 & 7",
+      "postal":"PO BOX 1413 BRONKHORSTPRUIT 1020"
+   },
+   {
+      "mine_code":"12454",
+      "mine_name":"BUNDU SAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUNDU SAND (PTY) LTD",
+      "tel":"082 551 1188",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"RIETVALLEI 314 314, UITZICHT PTN 18, UITZICHT PTN 95",
+      "postal":"PO BOX 1685 IFAFI 0260"
+   },
+   {
+      "mine_code":"14263",
+      "mine_name":"CAPSTONE 576 (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CAPSTONE 576 (PTY) LTD",
+      "tel":"(016) 425-7273",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"VISCHGAT 467 IR 10",
+      "postal":"PO BOX 49 ROTHDENE 1964"
+   },
+   {
+      "mine_code":"14698",
+      "mine_name":"CERAMIC INDUSTRIES - BOEKENHOUTKLOOF",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"CERAMIC INDUSTRIES LTD",
+      "tel":"(016) 930 3600",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTKLOOF 315 JR VARIOUS",
+      "postal":"PO BOX 2247 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"10389",
+      "mine_name":"CERAMIC INDUSTRIES - LEEUWKUIL QUARRY",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"CERAMIC INDUSTRIES LTD",
+      "tel":"(016) 930 3600",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"LEEUWKUIL 496 IQ 122 144 98",
+      "postal":"PO BOX 2247 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"13855",
+      "mine_name":"CERAMIC INDUSTRIES - STEELPARK",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"CERAMIC INDUSTRIES LTD",
+      "tel":"(016) 930 3600",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"STEEL PARK, VANDERRBIJLPARK 550 IQ 5 REM 6",
+      "postal":"PO BOX 2247 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"14700",
+      "mine_name":"CERAMIC INDUSTRIES - VLAKFONTEIN",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"CERAMIC INDUSTRIES LTD",
+      "tel":"(016) 930 3600",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"VLAKFONTEIN 546 IQ PTNS 29 & 35",
+      "postal":"PO BOX 2247 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"15030",
+      "mine_name":"CHANDLER COAL",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"SURFACE",
+      "owner":"WESCOAL HOLDINGS LTD",
+      "tel":"(011) 954 2721",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 1020 PAARDEKRAAL 1752"
+   },
+   {
+      "mine_code":"11561",
+      "mine_name":"CLUSTER SAND",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CLUSTER HOLDINGS CC",
+      "tel":"082 794 2471",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"DE PAN 51 IQ",
+      "postal":"PO BOX 6107 OBERHOLZER 2502"
+   },
+   {
+      "mine_code":"11908",
+      "mine_name":"CLYDE BRICKFIELDS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"CLYDE BRICKFIELDS (PTY) LTD",
+      "tel":"(011) 965 1351",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"ZESFONTEIN 27 IR",
+      "postal":"PO BOX 7018 PETIT 1512"
+   },
+   {
+      "mine_code":"13069",
+      "mine_name":"COAL PROCUREMENT SA (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"",
+      "owner":"COAL PROCUREMENT SA (PTY) LTD",
+      "tel":"(011) 788 0960",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 958 PARKLANDS 2121"
+   },
+   {
+      "mine_code":"11148",
+      "mine_name":"CONSOLIDATED MODDERFONTEIN MINES LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"AURORA EMPOWERMENT SYSTEM (PTY) LTD",
+      "tel":"(011) 365 9539",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"MODDERFONTEIN 74, RIETFONTEIN",
+      "postal":"PO BOX 10722 STRUBENVALE 1570"
+   },
+   {
+      "mine_code":"11257",
+      "mine_name":"COROBRIK - BOEKENHOUTKLOOF",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 316 1234",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTKLOOF 315 JR 1 REM EXT",
+      "postal":"PO BOX 1051 OLIFANTSONTEIN 1665"
+   },
+   {
+      "mine_code":"12261",
+      "mine_name":"COROBRIK - DRIEFONTEIN",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"DRIEFONTEIN 335 IQ 22 23 & 27",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"13282",
+      "mine_name":"COROBRIK - FORTRESS II QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"RIETFONTEIN 276 IR",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"12778",
+      "mine_name":"COROBRIK - HENLEY QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 857 1313",
+      "district":"ROODEPOORT",
+      "province":"GAUTENG",
+      "farm":"ROODEPOORT 302 IQ 302 IQ VARIOUS",
+      "postal":"PO BOX 3294 LENASIA 1820"
+   },
+   {
+      "mine_code":"15123",
+      "mine_name":"COROBRIK - LAWLEY 3",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 857 1313",
+      "district":"ROODEPOORT",
+      "province":"GAUTENG",
+      "farm":"SYFERFONTEIN 293 IQ REM EXT",
+      "postal":"PO BOX 3294 LENASIA 1820"
+   },
+   {
+      "mine_code":"12052",
+      "mine_name":"COROBRIK - LAWLEY EXTENTION 1",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 857-1313",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"ROODEPOORT 302 IQ VARIOUS, SYFERFONTEIN 293 IQ",
+      "postal":"PO BOX 3294 LENASIA 1820"
+   },
+   {
+      "mine_code":"12958",
+      "mine_name":"COROBRIK - LAWLEY II",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 857 1313",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"ROODEPOORT 302 IQ VARIOUS, SYFERFONTEIN 293 IQ 1 & 2",
+      "postal":"PO BOX 3294 LENASIA 1820"
+   },
+   {
+      "mine_code":"13281",
+      "mine_name":"COROBRIK - MIDRAND QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 316 1234",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"CLAYVILLE EXT 14 ERF 1256 & 1257, REMAINDER OLIFANTSFONTEIN 402 JR",
+      "postal":"PO BOX 1051 OLIFANTSFONTEIN 1665"
+   },
+   {
+      "mine_code":"11879",
+      "mine_name":"COROBRIK - RIETVLEI",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 206 7000",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"WITKOPPIES 393 JR 26 & 27",
+      "postal":"PO BOX 333 IRENE 0062"
+   },
+   {
+      "mine_code":"12771",
+      "mine_name":"COROBRIK - SPRINGS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 363 1560",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"RIETFONTEIN 128 IR 29 80 & 81",
+      "postal":"PO BOX 2595 SPRINGS 1560"
+   },
+   {
+      "mine_code":"12784",
+      "mine_name":"COROBRIK - SPRINGS CLAY QUARRY 1",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 56-4145",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"DAGGAFONTEIN",
+      "postal":"PRIVATE BAG X36 SPRINGS 1560"
+   },
+   {
+      "mine_code":"15223",
+      "mine_name":"COVALENT WATER CO (PTY) LTD",
+      "commodity":[
+         "GOLD"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLOGOLD ASHANTI (PTY) LTD",
+      "tel":"(018) 700 3400",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"BLYVOORUITZICHT 116 15 & 51",
+      "postal":"PO BOX 1074 CARLETONVILLE 2500"
+   },
+   {
+      "mine_code":"13004",
+      "mine_name":"CRUSHCO (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUILDMAX",
+      "tel":"086 122 2345",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"TWEEFONTEIN 19 JR 1, WITPOORT 551 JR 13",
+      "postal":"PO BOX 191 GERMISTON 1400"
+   },
+   {
+      "mine_code":"11530",
+      "mine_name":"CUDONAMIX (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOSEF FRACOIS SWANEPOEL",
+      "tel":"836 114 671",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"VLAKFONTEIN 523 JR VARIOUS",
+      "postal":"PO BOX 72676 LYNNWOOD RIDGE 0040"
+   },
+   {
+      "mine_code":"10509",
+      "mine_name":"CULLINAN DIAMOND MINE",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PETRA DIAMONDS",
+      "tel":"(012) 305 2325",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"BEYNESPOORT 335 JR, ELANDSFONTEIN 480 JR, LOUWSBAKEN 476 JR",
+      "postal":"PRIVATE BAG X1015 CULLINAN 1000"
+   },
+   {
+      "mine_code":"14321",
+      "mine_name":"CYFERFONTEIN PORTION 7",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMERYS SOUTH AFRICA (PTY) LTD",
+      "tel":"(012) 643 5917",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"CYFERFONTEIN 457 KR REM OF 7",
+      "postal":"PO BOX 8118 CENTURION 0046"
+   },
+   {
+      "mine_code":"11342",
+      "mine_name":"DIAMCO MINING (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DIAMCO MINING (PTY) LTD",
+      "tel":"(012) 361 5124",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"KAALFONTEIN 513 JR, RIETFONTEIN 366 JR",
+      "postal":"PO BOX 35818 MENLO PARK 0102"
+   },
+   {
+      "mine_code":"15045",
+      "mine_name":"DISBERGEN PROP INVEST (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STEF DISBERGEN",
+      "tel":"(011) 907 7628",
+      "district":"HEIDELBERG GA",
+      "province":"GAUTENG",
+      "farm":"NOOITGEDACHT 390 IR 6",
+      "postal":"36 LOUIS TRICHARDT STREET ALBERTON NORTH 1449"
+   },
+   {
+      "mine_code":"11281",
+      "mine_name":"DMS POWDERS (PTY) LTD",
+      "commodity":[
+         "SILICON ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"SIYANDA INKWALI RESOURCES (PTY) LTD",
+      "tel":"(016) 360 5206",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"KOOKFONTEIN 545 IQ",
+      "postal":"PO BOX 945 MEYERTON 1960"
+   },
+   {
+      "mine_code":"11063",
+      "mine_name":"DONKERHOEK QUARRIES",
+      "commodity":[
+         "SILICA, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRIKOR LIMITED",
+      "tel":"(012) 802 1393",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"DONKERHOEK 365 84,114,115",
+      "postal":"PO BOX 297 SILVERTON 0127"
+   },
+   {
+      "mine_code":"14948",
+      "mine_name":"DOORNKRAAL BORROWPIT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GML FAMILY TRUST",
+      "tel":"087 751 3998",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"DOORNKRAAL 420 JR 174",
+      "postal":"PO BOX 304 CULLINAN 1000"
+   },
+   {
+      "mine_code":"15244",
+      "mine_name":"DRIFT SUPER SAND (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CONSOLIDATED BUILDING MATERIALS",
+      "tel":"(011) 662 1207",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"ROODEKRANS 183 IQ",
+      "postal":"PO BOX 1318 RUIMSIG 1732"
+   },
+   {
+      "mine_code":"10176",
+      "mine_name":"EAST RAND (PTY) MINES LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ERGO MINES OPERATIONS (PTY) LTD",
+      "tel":"(011) 743 1799",
+      "district":"BOKSBURG",
+      "province":"GAUTENG",
+      "farm":"DRIEFONTEIN 84 IR, DRIEFONTEIN 87 IR, ELANDSFONTEIN 108 IR, ELANDSFONTEIN 90 IR, FINAALSPAN 114 IR, KLIPPOORTJIE 110 IR, KLIPPOORTJIE 112 IR, KLIPPOORTJIE 116 IR, LEEUWPOORT 115 IR, VOGELFONTEIN 84 IR",
+      "postal":"PO BOX 2227 BOKSBURG 1460"
+   },
+   {
+      "mine_code":"10558",
+      "mine_name":"EAST RAND METALS BENEFICIATION (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"WORLDWIDE MINERAL STRATEGISTS (PTY) LTD",
+      "tel":"(011) 996 4920",
+      "district":"BRAKPAN",
+      "province":"GAUTENG",
+      "farm":"WITHOK 131 IR 122 OF 9, WITPOORTJIE 117 IR",
+      "postal":"PO BOX 4920 NORTHLANDS 2116"
+   },
+   {
+      "mine_code":"11185",
+      "mine_name":"EBM PROJECT (PTY) LTD",
+      "commodity":[
+         "ZINC METAL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"EBM PROJECT (PTY) LTD",
+      "tel":"087 135 2849",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"DAGGAFONTEIN 125",
+      "postal":"PO BOX 218 SPRINGS 1560"
+   },
+   {
+      "mine_code":"13184",
+      "mine_name":"ECKRAAL QUARRIES",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ECKRAAL QUARRIES (PTY) LTD",
+      "tel":"(012) 504 2067",
+      "district":"WONDERBOOM",
+      "province":"GAUTENG",
+      "farm":"WILDEBEESTHOEK 309 JR",
+      "postal":"PO BOX 911915 ROSSLYN 0200"
+   },
+   {
+      "mine_code":"14673",
+      "mine_name":"EKANDUSTRIA BRICK & SAND T/A TAAI BRI",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"TAAIFONTEIN MINERALS (PTY) LTD",
+      "tel":"823 764 092",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"TAAIFONTEIN PTN 1 & 2",
+      "postal":"PO BOX 585 IRENE 0062"
+   },
+   {
+      "mine_code":"13014",
+      "mine_name":"ERA BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ERA BRICKS (PTY) LTD",
+      "tel":"(012) 460 2211",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DERDEPOORT 326 JR VARIOUS",
+      "postal":"PO BOX 25001 MONUMENT PARK 0105"
+   },
+   {
+      "mine_code":"13173",
+      "mine_name":"ERGO MINING (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"DRD GOLD LTD",
+      "tel":"(011) 742 1003",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"DOORNFONTEIN 92 IR, DRIEFONTEIN 87 IR REM 1 OF 8, ELANDSFONTEIN 107 IR, KLIPRIVIERSBERG 106 JR, LANGLAAGTE 224 IQ, MOOIFONTEIN 225 IQ, ORMONDE 99 IR, PAARDEKRAAL 226 IQ, TURFFONTEIN 100 IR, TURFFONTEIN 96 IR, VIERFONTEIN 231 IQ, VLAKFONTEIN ERF 183",
+      "postal":"PO BOX 12442 SELCOURT SPRINGS 1567"
+   },
+   {
+      "mine_code":"13336",
+      "mine_name":"ESKOM COAL",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"",
+      "owner":"ESKOM COAL",
+      "tel":"(011) 800 4917",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 1091 JOHANNESBURG 2000"
+   },
+   {
+      "mine_code":"15021",
+      "mine_name":"EXPERT SAND & HARDWARE (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SILICA, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"EXPERT SAND & HARDWARE (PTY) LTD",
+      "tel":"(011) 964 1658",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"BLESBOKFONTEIN 558 IR RE OF 1",
+      "postal":"PO BOX 116 BAPSFONTEIN 1510"
+   },
+   {
+      "mine_code":"14374",
+      "mine_name":"EZULWINI MINING COMPANY",
+      "commodity":[
+         "GOLD, SILVER, URANIUM"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYEGOLD",
+      "tel":"(018) 788 7298",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"WATERPAN 292 IQ",
+      "postal":"PO BOX 82 WESTONARIA 1780"
+   },
+   {
+      "mine_code":"13802",
+      "mine_name":"F A M SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"F A M SAND",
+      "tel":"(011) 708 1402",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DIEPSLOOT 388 JR PLOT 142",
+      "postal":"PO BOX 252 RANDBURG 2125"
+   },
+   {
+      "mine_code":"14613",
+      "mine_name":"FERREIRA ESTATE & INVEST CO - SLOT 8",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"CENTRAL RAND GOLD SA (PTY) LTD",
+      "tel":"873 104 400",
+      "district":"ROODEPOORT",
+      "province":"GAUTENG",
+      "farm":"AERTON 320 IQ, GLEN LEA 228 IQ, HOSPITAAL 230 IQ, RANDGLEN 229 IQ, ROBINSON 82 IR, VIERFONTEIN 321 IQ",
+      "postal":"PO BOX 10856 FLORIDA 1710"
+   },
+   {
+      "mine_code":"13320",
+      "mine_name":"FINE INDUSTRIAL MINERALS",
+      "commodity":[
+         "SILICA, CHROME ORE, FELDSPAR, FIRECLAY"
+      ],
+      "type":"SURFACE",
+      "owner":"FINE INDUSTRIAL MINERALS CC",
+      "tel":"(011) 824 2566",
+      "district":"GERMISTON",
+      "province":"GAUTENG",
+      "farm":"WADEVILLE TOWN COUNCIL",
+      "postal":"PO BOX 86 BOKSBURG 1460"
+   },
+   {
+      "mine_code":"14176",
+      "mine_name":"FORFAR MINING (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"FORFAR MINING (PTY) LTD",
+      "tel":"082 806 5991",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"FIROLAZ 485 JR 11",
+      "postal":"BOX 2597 BRONKHORSTSPRUIT 1020"
+   },
+   {
+      "mine_code":"13255",
+      "mine_name":"FOUR RIVERS TRADING 263 (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BOOYSEN GROUP OF COMPANIES",
+      "tel":"(012) 562 0078",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DE ONDERSTEPOORT 300 JR 100 & 101",
+      "postal":"PO BOX 24 BON ACCORD 0009"
+   },
+   {
+      "mine_code":"14375",
+      "mine_name":"GAUTRAIN TUNNELS PROJECT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"BOMBELA",
+      "tel":"083 646 6557",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"CITY OF JOHANNESBURG",
+      "postal":"PO BOX 1177 KELVIN 2054"
+   },
+   {
+      "mine_code":"14963",
+      "mine_name":"GILLIEMEAD QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROMINING (PTY) LTD",
+      "tel":"(011) 871 8697",
+      "district":"GERMISTON",
+      "province":"GAUTENG",
+      "farm":"STERKFONTEIN 401 JR 4 6 7",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"10230",
+      "mine_name":"GLEN DOUGLAS DOLOMITE (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, LIME, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LTD",
+      "tel":"(016) 366 0321",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"SLANGFONTEIN 372 IR, WITKOPPIE 58 IR",
+      "postal":"PO BOX 3 HENLEY ON KLIP 1962"
+   },
+   {
+      "mine_code":"12993",
+      "mine_name":"GLENCORE SOUTH AFRICA (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS, COAL ANTHRACITE"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE SOUTH AFRICA (PTY) LTD",
+      "tel":"(011) 772 0600",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PRIVATE BAX X1 MELROSE ARCH JOHANNESBURG 2076"
+   },
+   {
+      "mine_code":"11283",
+      "mine_name":"GOLDPLAT RECOVERY (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"GOLDPLAT PLC",
+      "tel":"(011) 749 6300",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"MODDERFONTEIN 76 IR",
+      "postal":"PO BOX 40 BENONI 1500"
+   },
+   {
+      "mine_code":"15116",
+      "mine_name":"GOMES SAND CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"G GOMES - SEBASTIAO",
+      "tel":"(012) 669 9931",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DOORNRANDJE 15",
+      "postal":"PO BOX 31159 KYALAMI 1684"
+   },
+   {
+      "mine_code":"11369",
+      "mine_name":"GRAVELOTTE MINES LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GRAVELOTTE MINES LTD",
+      "tel":"(011) 748 8800",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"CLOVERFIELDS 75 IR, KLIPFONTEIN 70 IR, MODDER EAST 72 IR, MODDERFONTEIN 76 IR PTN 34, MODDERFONTEIN 77 IR, WELGEDACHT 74 IR",
+      "postal":"PO BOX 750 BENONI 1500"
+   },
+   {
+      "mine_code":"10254",
+      "mine_name":"GROOTVLEI PROPRIETARY MINES LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"AURORA EMPOWERMENT SYSTEM (PTY) LTD",
+      "tel":"(011) 365 9539",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"GROOTVLEI 124 IR",
+      "postal":"PO BOX 10722 STRUBENVALE 1570"
+   },
+   {
+      "mine_code":"10393",
+      "mine_name":"HAMMANSKRAAL FIRECLAY QUARRY",
+      "commodity":[
+         "FIRECLAY, FLINTCLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"VEREENIGING REFRACTORIES (PTY) LTD",
+      "tel":"(016) 362 2063",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"KLIPDRIFT 116 JR, KLIPDRIFT 87 JR, VERBRICK 118 JR 6",
+      "postal":"PO BOX 10053 EDLEEN 1619"
+   },
+   {
+      "mine_code":"13761",
+      "mine_name":"HERCULES BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"HERCULES BRICKS",
+      "tel":"(012) 376 2915",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTSKLOOF 315 JR PLOT 12",
+      "postal":"PO BOX 48056 HERCULES 0030"
+   },
+   {
+      "mine_code":"14412",
+      "mine_name":"HO & ME KNIGHT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HO & ME KNIGHT",
+      "tel":"(012) 735 1729",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"DE TWEEDESPRUIT 418 JR 45",
+      "postal":"PO BOX 662 CULLINAN 1000"
+   },
+   {
+      "mine_code":"11023",
+      "mine_name":"IDWALA INDUSTRIAL MINERALS",
+      "commodity":[
+         "SILICA, PYROPHYLLITE"
+      ],
+      "type":"SURFACE",
+      "owner":"IDWALA INDUSTRIAL HOLDINGS (PTY) LTD",
+      "tel":"(031) 579 3355",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 6056 DUNSWART 1508"
+   },
+   {
+      "mine_code":"13755",
+      "mine_name":"IMPALA PLATINUM LTD - REFINERIES",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"IMPALA PLATINUM HOLDINGS LTD",
+      "tel":"(011) 360 3563",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 222 SPRINGS 1560"
+   },
+   {
+      "mine_code":"13443",
+      "mine_name":"INDABA DIGGING INDUSTRY CC",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"INDABA DIGGING INDUSTRY CC",
+      "tel":"083 710 6147",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"GEDULD 123 IR 217",
+      "postal":"202 TRICHARDT ROAD PARKRAND BOKSBURG 1490"
+   },
+   {
+      "mine_code":"12687",
+      "mine_name":"IZINYONI TRADING 142 (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"IZINYONI TRADING 142 (PTY) LTD",
+      "tel":"082 327 0279",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"WITFONTEIN 510 JR 12",
+      "postal":"PO BOX 259 BRONKHORSTSPRUIT 1020"
+   },
+   {
+      "mine_code":"11510",
+      "mine_name":"KANGRA EXPORT DIVISION",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"",
+      "owner":"KANGRA GROUP (PTY) LTD",
+      "tel":"(011) 684 0143",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PRIVATE BAG X1 MELROSE ARCH 2076"
+   },
+   {
+      "mine_code":"14514",
+      "mine_name":"KASHALAY TRADING 106 - KAFFERSKRAAL",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KASHALAY TRADING 106",
+      "tel":"(012) 734 7900",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"KAFFERSKRAAL 475 JR 12",
+      "postal":"PO BOX 1152 CULLINAN 1000"
+   },
+   {
+      "mine_code":"11852",
+      "mine_name":"KILO SAND CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KILO SAND CC",
+      "tel":"083 659 3996",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"KNOPPIESLAAGTE 385 JR",
+      "postal":"PO BOX 89 LAEZONIA 0026"
+   },
+   {
+      "mine_code":"13886",
+      "mine_name":"KLEI MINERALE (EDMS) BPK - BOEKENHOUTKLOOF",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROBBERTSE FAMILIE TRUST",
+      "tel":"(012) 376 9902",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTKLOOF 315 JR 65, ZANDFONTEIN 317 JR 97",
+      "postal":"PO BOX 48357 HERCULES 0030"
+   },
+   {
+      "mine_code":"11889",
+      "mine_name":"KLEI MINERALE (EDMS) BPK - ZANDFONTEI",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROBBERTSE FAMILIE TRUST",
+      "tel":"(012) 376 9902",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"ZANDFONTEIN 317 JR PLOT 97",
+      "postal":"PO BOX 48357 HERCULES 0030"
+   },
+   {
+      "mine_code":"13885",
+      "mine_name":"KLIPFONTEIN SAND (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CANVAS HOLDINGS (PTY) LTD",
+      "tel":"(011) 310 2400",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"MOOIFONTEIN 14 JR 7",
+      "postal":"PO BOX 25147 MONUMENT PARK 0105"
+   },
+   {
+      "mine_code":"10344",
+      "mine_name":"KLOOF GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE GOLD LTD",
+      "tel":"(018) 788 7180",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"BEKKERSDAL 294 IQ, DAVONIA 363 IQ, DOORNKLOOF 348 IQ, DOORNKLOOF 350 IQ, DOORNKLOOF 352 IQ, ELANDSFONTEIN 346 IQ, GEMSBOKFONTEIN 290 IQ, GEMSPOST 288 IQ, LEEUDOORN 351 IQ, LIBANON 283 IQ, LUIPAARDSVLEI 243 IQ, MIDDELVLEI 255 IQ, NELSHOOGTE 286 IQ, PANVLAKTE 291 IQ, RIETFONTEIN 349 IQ, UITVAL 280 IQ, VENTERSPOST 284 IQ, WELTEVREDEN 357 IQ, WILDEBEESTKUIL 360 IQ, WITKLEIGAT 283 IQ",
+      "postal":"PO BOX 190 WESTONARIA 1780"
+   },
+   {
+      "mine_code":"14560",
+      "mine_name":"KROKODIL SAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LABUCON RESOURCES",
+      "tel":"082 824 6229",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"KAMEELFONTEIN 297 JR",
+      "postal":"PO BOX 97656 PRETORIA 0146"
+   },
+   {
+      "mine_code":"11474",
+      "mine_name":"KROSA (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KROSA (PTY) LTD",
+      "tel":"(012) 548 4531",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"KROKODILSPRUIT 290 JR 290 JR, PTNS 9 22 47 48 49 50 54 74 75 & 80",
+      "postal":"PO BOX 17230 PRETORIA NORTH 0116"
+   },
+   {
+      "mine_code":"12691",
+      "mine_name":"LANCASTER GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"AFRIKA GOLD GMBH",
+      "tel":"833 399 283",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"LUIPAARDSVLEI 246 IQ",
+      "postal":"PO BOX 12 KRUGERSDORP 1740"
+   },
+   {
+      "mine_code":"13519",
+      "mine_name":"LEEUFONTEIN STENE BK",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LEEUFONTEIN STENE BK",
+      "tel":"082 944 0401",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"FIROLAZ PLOT 20",
+      "postal":"PO BOX 11527 TIEGERPOORT 0056"
+   },
+   {
+      "mine_code":"14964",
+      "mine_name":"LENGEO",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LENGEO",
+      "tel":"(011) 416 2356",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"VOGELSTRUISFONTEIN 263 IQ 1",
+      "postal":"PO BOX 531 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"12582",
+      "mine_name":"LIDO SANDWERKE BK",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LIDO SANDWERKE BK",
+      "tel":"(011) 751 5620",
+      "district":"VANDERBIJLPARK",
+      "province":"GAUTENG",
+      "farm":"POORTJIE 338 IQ SUB 1",
+      "postal":"PO BOX 32 KIBLER PARK 2053"
+   },
+   {
+      "mine_code":"13778",
+      "mine_name":"LION PARK QUARRIES",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LION PARK QUARRIES",
+      "tel":"086 157 2757",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"NIETGEDACHT 535 JQ 44",
+      "postal":"PO BOX 2767 HONEYDEW 2040"
+   },
+   {
+      "mine_code":"14076",
+      "mine_name":"LOCK SAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PAUL FREDERIK LOCK",
+      "tel":"835 110 344",
+      "district":"WONDERBOOM",
+      "province":"GAUTENG",
+      "farm":"HONINGNESTKRANS 268 JR PTN OF 223",
+      "postal":"PO BOX 12883 ONDERSTEPOORT 0110"
+   },
+   {
+      "mine_code":"10378",
+      "mine_name":"LYTTELTON DOLOMITE MINE",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"INFRASORS HOLDING LTD",
+      "tel":"(012) 664 5649",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DOORNKLOOF 391 JR 18, DROOGEGROND 380 JR 3, WATERKLOOF 378 JR 103 & 55",
+      "postal":"PO BOX 14014 LYTTELTON 0140"
+   },
+   {
+      "mine_code":"14513",
+      "mine_name":"M NEL - HOLFONTEIN",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"M NEL",
+      "tel":"(018) 468 5355",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"HOLFONTEIN 49 IQ",
+      "postal":"PO BOX 6499 FLAMWOOD 2572"
+   },
+   {
+      "mine_code":"11693",
+      "mine_name":"MAMELODI QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAMELODI QUARRIES (PTY) LTD",
+      "tel":"(012) 840 0003",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"FRANSPOORT 332 JR 72 & 79",
+      "postal":"PO BOX 3277 MONTANA PARK 0159"
+   },
+   {
+      "mine_code":"13640",
+      "mine_name":"MARLIN - VERENA",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"WOLVENKOP 227 IS",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"14191",
+      "mine_name":"MIDDELVLEI",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"PAMODZI GOLD WEST RAND (PTY) LTD",
+      "tel":"(011) 365 9539",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"MIDDELVLEI 255 IR",
+      "postal":"PO BOX 10722 STRUBENVALE 1570"
+   },
+   {
+      "mine_code":"14976",
+      "mine_name":"MIDRAND EXTENTION QUARRY PORTION 25",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROMINING (PTY) LTD",
+      "tel":"(011) 316 1234",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"OLIFANTSFONTEIN 402 JR 25 PTN",
+      "postal":"PO BOX 1051 OLIFANTSFONTEIN 1665"
+   },
+   {
+      "mine_code":"13577",
+      "mine_name":"MOGALE GOLD (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"MINTAILS SA (PTY) LTD",
+      "tel":"(011) 660 9638",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"WATERVAL 176 66",
+      "postal":"PO BOX 803 MOGALE CITY 1740"
+   },
+   {
+      "mine_code":"12748",
+      "mine_name":"MR AUST - NOOITGEDACHT SAND",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MR AUST SANDWERKE",
+      "tel":"(012) 808 5426",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"NOOITGEDACHT 333 JR 1",
+      "postal":"PO BOX 15486 LYNN EAST 0039"
+   },
+   {
+      "mine_code":"12865",
+      "mine_name":"MR AUST - RIETVLEI SAND",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MR AUST SANDWERKE",
+      "tel":"(012) 808 5426",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"UITZICHT OR RIETVALLEI 314 JR",
+      "postal":"PO BOX 15486 LYNN EAST 0039"
+   },
+   {
+      "mine_code":"12960",
+      "mine_name":"MULDERSDRIFT",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"W G WEARNE LTD",
+      "tel":"(011) 251 7600",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"ABRAHAM VAN WYK PLOT 189, RIETFONTEIN 189 IQ",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"11145",
+      "mine_name":"MULTISAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MULTISAND (PTY) LTD",
+      "tel":"(012) 504 2002",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"MIDDELWATER 593",
+      "postal":"PO BOX 911-2029 ROSSLYN 0200"
+   },
+   {
+      "mine_code":"12225",
+      "mine_name":"NDEBELE MINING CO",
+      "commodity":[
+         "KAOLIN"
+      ],
+      "type":"OPENCAST",
+      "owner":"NDEBELE MINING CO (PTY) LTD",
+      "tel":"082 885 1103",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"LEEUWFONTEIN 466 JR, LOOPSPRUIT 435 JR, NOOITGEDACHT 436 JR, YZERVARKFONTEIN 467 JR",
+      "postal":"PO BOX 443 CULLINAN 1000"
+   },
+   {
+      "mine_code":"12422",
+      "mine_name":"NEFDT QUARRIES",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NEFDT QUARRIES (PTY) LTD",
+      "tel":"(012) 244 1001",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DE RUST 478 JQ",
+      "postal":"PO BOX 658 STRUBENSVALLEY 1735"
+   },
+   {
+      "mine_code":"14363",
+      "mine_name":"NEW KLEINFONTEIN-MODDER EAST OPERATIO",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GOLD ONE",
+      "tel":"(011) 730 7600",
+      "district":"BENONI",
+      "province":"GAUTENG",
+      "farm":"CLOVERFIELD 75 IR, MODDER EAST 72 IR",
+      "postal":"PO BOX 262 PETERSFIELD 1590"
+   },
+   {
+      "mine_code":"12151",
+      "mine_name":"NEW THORNDALE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 251 7600",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"BRANDVLEI 261 IQ, GROENPLAATS 157 IQ 3",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"12837",
+      "mine_name":"NEWBERRY RECOVERY WORKS CC",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"NEWBERRY RECOVERY WORKS CC",
+      "tel":"(011) 664 8093",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"WITPOORTJIE 245 IQ",
+      "postal":"PO BOX 181 PAARDEKRAAL MOGALE CITY 1752"
+   },
+   {
+      "mine_code":"11913",
+      "mine_name":"NIGEL BRICK & CLAY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"OZZ INDUSTRIAL LTD",
+      "tel":"(011) 814 6556",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"DRAAIKRAAL 166 IR PTN 1",
+      "postal":"PO BOX 690 NIGEL 1490"
+   },
+   {
+      "mine_code":"12937",
+      "mine_name":"NIGEL GOLD MINING CO (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"AURORA EMPOWERMENT SYSTEM (PTY) LTD",
+      "tel":"(011) 365 9539",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"DAGGAFONTEIN 125 IR, DROOGEBULT 170 IR",
+      "postal":"PO BOX 10722 STRUBENVALE SPRINGS 1570"
+   },
+   {
+      "mine_code":"14105",
+      "mine_name":"NIGEL STONE CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ELANDSPOORT FARMING CO (PTY) LTD",
+      "tel":"(016) 431 3196",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"DRAAIKRAAL 166 IR",
+      "postal":"PO BOX 629 HEIDELBERG 1438"
+   },
+   {
+      "mine_code":"13217",
+      "mine_name":"NOVA BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"PP & MC TRUST",
+      "tel":"(012) 480 2120",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"GROOTFONTEIN 394 JR",
+      "postal":"PO BOX 9141165 WINGATE PARK 0153"
+   },
+   {
+      "mine_code":"11101",
+      "mine_name":"NUFCOR",
+      "commodity":[
+         "URANIUM"
+      ],
+      "type":"SURFACE",
+      "owner":"NUCLEAR FUELS CORP OF SA (PTY) LTD",
+      "tel":"(011) 637 8204",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PRIVATE BAG X9 WESTONARIA 1780"
+   },
+   {
+      "mine_code":"13381",
+      "mine_name":"OCON MANUFACTURING (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MURRAY & ROBERTS LTD",
+      "tel":"(016) 428 7300",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"KOOKFONTEIN 545 IQ 39 & 84",
+      "postal":"PO BOX 263657 THREE RIVERS 1935"
+   },
+   {
+      "mine_code":"15388",
+      "mine_name":"ONVERWACHT SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ONVERWACHT SAND",
+      "tel":"733 095 186",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"ONVERWACHT 424 JR 1 & 61",
+      "postal":"PO BOX 289 CULLINAN 1000"
+   },
+   {
+      "mine_code":"13567",
+      "mine_name":"ORSMOND CLAY QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ORSMOND FAMILY TRUST",
+      "tel":"084 528 0843",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"KAMEELDRIFT PLOT 197 & 222",
+      "postal":"PO BOX 50684 RANDJIESFONTEIN 1683"
+   },
+   {
+      "mine_code":"11527",
+      "mine_name":"PALESA COLLIERY - PALESA COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"HCI COAL (PTY) LTD",
+      "tel":"(011) 448 4900",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"LOOPSPRUIT 435 JR 4 TO 8, ROOIPOORT 440 JR 1, DROOGVELD 438 JR RE, ROODEPOORT 439 JR 3 & 5, NOOITGEDACHT 436 JR 22",
+      "postal":"PO BOX 1839 HALFWAY HOUSE 1685"
+   },
+   {
+      "mine_code":"11372",
+      "mine_name":"PHEZULU CLAY INDUSTRIES",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"PHEZULU CLAY INDUSTRIES",
+      "tel":"(012) 667 4294",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"BLESBOKFONTEIN 459 JR",
+      "postal":"PO BOX 585 IRENE 0062"
+   },
+   {
+      "mine_code":"12343",
+      "mine_name":"PJ & G HERTZ - OUDE ZWAANSKRAAL",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PJ & G HERTZ (EDMS) BPK",
+      "tel":"(011) 964 1023",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"OUDE ZWAANSKRAAL 542 JR",
+      "postal":"PO BOX 6333 BIRCHLEIGH 1621"
+   },
+   {
+      "mine_code":"13363",
+      "mine_name":"PJ & G HERTZ - WITPOORT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PJ & G HERTZ (EDMS) BPK",
+      "tel":"(011) 964 1023",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"WITPOORT",
+      "postal":"PO BOX 6333 BIRCHLEIGH 1621"
+   },
+   {
+      "mine_code":"11240",
+      "mine_name":"PPC - LAEZONIA QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PPC CEMENT (PTY) LTD - T/A SAND CATS",
+      "tel":"(012) 669 0925",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DOORNRANDJE 386 JR",
+      "postal":"PO BOX 34414 ERASMIA 0023"
+   },
+   {
+      "mine_code":"10421",
+      "mine_name":"PPC - MOOIPLAAS DOLOMITE (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"PPC AGGREGATE QUARRIES (PTY) LTD",
+      "tel":"(012) 318 3000",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"MOOIPLAAS 355 JR 15, SCHURWEPLAAS 353 JR",
+      "postal":"PO BOX 34414 ERASMIA 0023"
+   },
+   {
+      "mine_code":"13306",
+      "mine_name":"PRETORIA BRICKWORKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRICKMAKERS (PTY) LTD",
+      "tel":"(012) 376 2005",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTKLOOF 315 JR PLOT 18",
+      "postal":"PO BOX 48150 HERCULES 0030"
+   },
+   {
+      "mine_code":"10519",
+      "mine_name":"PRIMROSE GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"AURORA EMPOWERMENT SYSTEM (PTY) LTD",
+      "tel":"(011) 873 5315",
+      "district":"GERMISTON",
+      "province":"GAUTENG",
+      "farm":"DRIEFONTEIN 87 IR, ELANDSFONTEIN 90 IR",
+      "postal":"PO BOX 2208 PRIMROSE 1416"
+   },
+   {
+      "mine_code":"14645",
+      "mine_name":"PURPLE RAIN PROP 421 (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MURRAY & ROBERTS LTD",
+      "tel":"(016) 428 7300",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"KOOKFONTEIN 545 IQ REM 29",
+      "postal":"PO BOX 263657 THREE RIVERS 1935"
+   },
+   {
+      "mine_code":"12588",
+      "mine_name":"QUARRY CATS - LAEZONIA",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"GROUP FIVE (PTY) LTD",
+      "tel":"(012) 669 0760",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DOORNRANDJE 386 JR 14",
+      "postal":"PO BOX 426 LAEZONIA 0026"
+   },
+   {
+      "mine_code":"11098",
+      "mine_name":"RAND REFINERY",
+      "commodity":[
+         "GOLD, SILVER, PGM"
+      ],
+      "type":"SURFACE",
+      "owner":"RAND REFINERY LTD",
+      "tel":"(011) 418 9000",
+      "district":"GERMISTON",
+      "province":"GAUTENG",
+      "farm":"ELANDSFONTEIN - GERMISTON EXT 4",
+      "postal":"PO BOX 565 GERMISTON 1400"
+   },
+   {
+      "mine_code":"14600",
+      "mine_name":"RAND URANIUM (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER, URANIUM"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE GOLD LTD",
+      "tel":"(018) 788 7298",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"GEMSBOKFONTEIN 290 IQ, ZUURBULT 240 IQ",
+      "postal":"PRIVATE BAG X9 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"10528",
+      "mine_name":"RANDFONTEIN OPERATIONS",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 411 2000",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"GEMSBOKFONTEIN 290 IQ, LUIPAARDSVLEI 243 IQ, MIDDELVLEI 245 IQ, PANVLAKTE 290 IQ, RANDFONTEIN 247 IQ, RIETVLEI 241 241 IQ, UITVALFONTEIN 244 IQ, WATERVAL 174 IQ, LUIPAARDSVLEI 246 IQ",
+      "postal":"PO BOX 2 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"14674",
+      "mine_name":"RAYTON QUARRY - COROBRIK",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK",
+      "tel":"(011) 316 1234",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"WITFONTEIN 510 JR 12 OF 3",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"10073",
+      "mine_name":"REFRACTORY MINERALS (PTY) LTD",
+      "commodity":[
+         "FLINTCLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMERYS SOUTH AFRICA PTY LTD",
+      "tel":"(012) 643 5947",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"NOOITGEDACHT 436 JR, ROODEPOORT 439 JR",
+      "postal":"PO BOX 8118 CENTURION 0046"
+   },
+   {
+      "mine_code":"14377",
+      "mine_name":"REGAL BRICK (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"WEST END CLAYBRICK (PTY) LTD",
+      "tel":"(011) 851 1775",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"WATERPAN 292 IQ",
+      "postal":"PO BOX 2723 LENASIA 1820"
+   },
+   {
+      "mine_code":"13171",
+      "mine_name":"RICHTER SANDWERKE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RICHTER SANDWERKE",
+      "tel":"(012) 732 0207",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"KLEINKLIPKOP 287 JR 8",
+      "postal":"PO BOX 818 CULLINAN 1000"
+   },
+   {
+      "mine_code":"14370",
+      "mine_name":"ROSEMA STENE OLIFANTSFONTEIN",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"ERA STENE (PTY) LTD",
+      "tel":"082 805 8662",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"STERKFONTEIN 401 JR 17",
+      "postal":"PO BOX 25001 MONUMENT PARK 0105"
+   },
+   {
+      "mine_code":"11969",
+      "mine_name":"ROSSLYN QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(012) 568 1006",
+      "district":"WONDERBOOM",
+      "province":"GAUTENG",
+      "farm":"KLIPFONTEIN 268 JR PLOT 35",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"11574",
+      "mine_name":"ROSSWAY QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(012) 652 0107",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"OLIEVENHOUTBOSCH 389 JR",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"15049",
+      "mine_name":"SAKHISIZWE QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAKSON TRADING ENTERPRISE CC",
+      "tel":"083 926 5565",
+      "district":"BOKSBURG",
+      "province":"GAUTENG",
+      "farm":"NGQANQUNDU 39 1",
+      "postal":"PO BOX 4779 ATLASVILLE BOKSBURG 1465"
+   },
+   {
+      "mine_code":"12510",
+      "mine_name":"SAMAMCOR MANGANESE - METALLOYS",
+      "commodity":[
+         "MANGANESE ALLOYS, MANGANESE CHEMICALS"
+      ],
+      "type":"SURFACE",
+      "owner":"BHP BILLITON",
+      "tel":"(011) 376 2595",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"KOOKFONTEIN",
+      "postal":"PO BOX 66 MEYERTON 1960"
+   },
+   {
+      "mine_code":"15314",
+      "mine_name":"SAND AT HOREB CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SAND AT HOREB CC",
+      "tel":"(011) 416 1600",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"BRANDVLEI 261 IQ 132 3",
+      "postal":"PO BOX 943 WESTONARIA 1780"
+   },
+   {
+      "mine_code":"13359",
+      "mine_name":"SANDTORIA",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANDTORIA CC",
+      "tel":"(012) 800 1158",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"BOEKENHOUTSKLOOF 284 JR 49 OF 5",
+      "postal":"PO BOX 15105 LYNN EAST 0039"
+   },
+   {
+      "mine_code":"13421",
+      "mine_name":"SCKHIETPOORT BRONKHORSTSPRUIT CLAY QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ELMIR CLAY MINING (PTY) LTD",
+      "tel":"(013) 932 0775",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"HONDSRIVIER 508 JR 128, SCHIETPOORT 507 JR 31 & 56",
+      "postal":"SUITE X1221 PRIVATE BAG X7297 WITBANK 1035"
+   },
+   {
+      "mine_code":"10172",
+      "mine_name":"SIBANYE GOLD LTD - DRIEFONTEIN DIV",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE GOLD LTD",
+      "tel":"(018) 788 7265",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"DRIEFONTEIN 113 IQ, DRIEFONTEIN 355 IQ, KRAALKOP 147 IQ, LEEUWPOORT 356 IQ, OOG VAN ELANDSFONTEIN 114 IQ",
+      "postal":"PRIVATE BAG X2054 CARLETONVILLE 2500"
+   },
+   {
+      "mine_code":"14648",
+      "mine_name":"SKY SANDS A DIV OF GROUP FIVE (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GROUP FIVE (PTY) LTD",
+      "tel":"(016) 440 7900",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"PANFONTEIN 437 IR, VISCHGAT 467 IR",
+      "postal":"PO BOX 4207 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"10711",
+      "mine_name":"SOUTH DEEP GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GOLD FIELDS LTD - J/V GFI JV HOLDINGS",
+      "tel":"(011) 411 1000",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"DOORNPOORT 347 IQ, JACHTFONTEIN 344 IQ, MODDERFONTEIN 345 IQ, WATERPAN 292 IQ",
+      "postal":"PO BOX 776 WESTONARIA 1780"
+   },
+   {
+      "mine_code":"13666",
+      "mine_name":"SPH SAND (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(012) 652 0107",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"OLIEVENHOUTSBOSCH 389 JR PTNS",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"12545",
+      "mine_name":"SSB - NATREF & SYNFUELS",
+      "commodity":[
+         "SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"SASOL SYNTHETIC FUELS (PTY) LTD",
+      "tel":"(011) 790 1122",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 5486 JOHANNESBURG 2000"
+   },
+   {
+      "mine_code":"12912",
+      "mine_name":"STERKFONTEIN BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"STERKFONTEIN BRICKS (PTY) LTD",
+      "tel":"(011) 206 8904",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"STERKFONTEIN 401 JR",
+      "postal":"PO BOX 172 OLIFANTSFONTEIN 1665"
+   },
+   {
+      "mine_code":"12682",
+      "mine_name":"STONE & ALLIED - ELANDSRAND PLANT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"SURFACE",
+      "owner":"NEW GENERATION GROUP",
+      "tel":"(018) 782 2050",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"BUFFELSDOORN 143 IQ, ELANDSRAND PLANT",
+      "postal":"PO BOX 264 CARLETONVILLE 2500"
+   },
+   {
+      "mine_code":"11456",
+      "mine_name":"STRYDOM SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STRYDOM SAND EDMS BPK",
+      "tel":"(014) 576 1133",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"HEKPOORT 504 JR 2, FARM 337",
+      "postal":"PO BOX 204 HEKPOORT 1790"
+   },
+   {
+      "mine_code":"12115",
+      "mine_name":"SUB - NIGEL GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GOLD ONE",
+      "tel":"(011) 730 7600",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"SPAARWATER 171 IR",
+      "postal":"PO BOX 262 DUNNOTTAR 1590"
+   },
+   {
+      "mine_code":"13811",
+      "mine_name":"TAAIFONTEIN MINERAL INDUSTRIES (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL, SILICA, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"TAAIFONTEIN MINERAL INDUSTRIES (PTY) LTD",
+      "tel":"(012) 667 5436",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"TAAIFONTEIN SECTION 1 & 2",
+      "postal":"PO BOX 585 IRENE 0062"
+   },
+   {
+      "mine_code":"10056",
+      "mine_name":"TSHWANE AGGREGATES (PTY) LTD - BON ACCORD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FOUR RIVERS TRADING 263 (PTY) LTD",
+      "tel":"828 951 836",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"DE ONDERSTEPOORT 300 JR 131",
+      "postal":"PO BOX 72972 LYNNWOODRIDGE 0040"
+   },
+   {
+      "mine_code":"13335",
+      "mine_name":"TWEEWATERS FUEL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"",
+      "owner":"SPRINGLAKE HOLDINGS (PTY) LTD",
+      "tel":"(011) 706 1644",
+      "district":"JOHANNESBURG",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 766 RIVONIA 2128"
+   },
+   {
+      "mine_code":"14754",
+      "mine_name":"UNICORN BRICKS CC",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"J LONERGAN",
+      "tel":"081 366 7229",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"KRUITFONTEIN 551 JQ 44 60 & 68",
+      "postal":"PO BOX 699 MAGALIESBURG 1790"
+   },
+   {
+      "mine_code":"10682",
+      "mine_name":"VERGENOEG MINING CO (PTY) LTD",
+      "commodity":[
+         "FLUORSPAR"
+      ],
+      "type":"OPENCAST",
+      "owner":"MINERALES & PRODUCTOS DERIVADOS SA - MINERSA",
+      "tel":"(012) 723 7025",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"KROMDRAAI 209 JR",
+      "postal":"PRIVATE BAG X2 MONTANA PARK 0159"
+   },
+   {
+      "mine_code":"15440",
+      "mine_name":"VERLESHA (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX AGGREGATES (PTY) LTD",
+      "tel":"086 122 3334",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"RIETVLEI 518 JR 3 & 20",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"10390",
+      "mine_name":"VERREF - RIETFONTEIN CLAY QUARRY",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"VERREF MINERALS",
+      "tel":"(016) 450 6213",
+      "district":"SPRINGS",
+      "province":"GAUTENG",
+      "farm":"NANESCOL 582 IQ, RIETFONTEIN 128 IR 80, RIETSPRUIT 583 IQ",
+      "postal":"PO BOX 117 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"13345",
+      "mine_name":"VICTORIA BRICKS GAUTENG (PTY) LTD",
+      "commodity":[
+         "SHALE BRICKMAKING, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"S HUANG",
+      "tel":"(011) 316 4362",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"STERKFONTEIN 401 JR 2",
+      "postal":"PO BOX 1120 OLIFANTSFONTEIN 1665"
+   },
+   {
+      "mine_code":"14927",
+      "mine_name":"VLAKFONTEIN MINE",
+      "commodity":[
+         "COAL BITUMINOUS, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRIKOR / ILANGABI INVESTMENTS 12 LTD",
+      "tel":"(011) 814 6043",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"VLAKFONTEIN 281 IR REM",
+      "postal":"PO BOX 867 NIGEL 1490"
+   },
+   {
+      "mine_code":"14924",
+      "mine_name":"VLAKFONTEIN ROCK DUMP",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRIKOR LIMITED",
+      "tel":"(011) 814 6043",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"VLAKFONTEIN 281 IR 7",
+      "postal":"PO BOX 884 NIGEL 1490"
+   },
+   {
+      "mine_code":"11196",
+      "mine_name":"WALBERERS BRICKWORKS",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"JANHO QUARRIES (PTY) LTD",
+      "tel":"079 511 1215",
+      "district":"KRUGERSDORP",
+      "province":"GAUTENG",
+      "farm":"DRIEFONTEIN 179 IQ",
+      "postal":"PO BOX 520 MULDERSDRIFT 1749"
+   },
+   {
+      "mine_code":"13339",
+      "mine_name":"WASTE PRODUCT UTILISATION (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"SURFACE",
+      "owner":"RAPPA HOLDINGS (PTY) LTD",
+      "tel":"(011) 842 0211",
+      "district":"GERMISTON",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 13084 KNIGHTS GERMISTON 1413"
+   },
+   {
+      "mine_code":"12090",
+      "mine_name":"WEARNE QUARRIES KLOOF",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 459 4500",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"LEEUDOORN 351 IQ, GOLD PLANT KLOOF NO 1",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"12637",
+      "mine_name":"WESBRIX",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"WESBRIX (PTY) LTD",
+      "tel":"(012) 376 9912",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"KAMEELDRIFT 313 JR PLOT 276",
+      "postal":"PO BOX 48056 HERCULES 0030"
+   },
+   {
+      "mine_code":"12074",
+      "mine_name":"WEST END CLAYBRICKS (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SAND NATURAL, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"WEST END CLAYBRICKS (PTY) LTD",
+      "tel":"(011) 851 1775",
+      "district":"WESTONARIA",
+      "province":"GAUTENG",
+      "farm":"WATERPAN 292 IQ 1, ZUURBEKOM 297 IQ 5 & 70",
+      "postal":"PO BOX 2723 LENASIA 1820"
+   },
+   {
+      "mine_code":"10713",
+      "mine_name":"WEST WITS OPERATIONS",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLOGOLD ASHANTI LTD",
+      "tel":"(018) 700 2104",
+      "district":"OBERHOLZER",
+      "province":"GAUTENG",
+      "farm":"BLYVOORUITZICHT 116 IQ, BUFFELSDOORN 143 IQ, DRIEFONTEIN 113 IQ, ELANDSRAND 115 IQ, KRAALKOP 147 IQ, OOG VAN ELANDSFONTEIN 114 IQ",
+      "postal":"PO BOX 8044 WESTERN LEVELS 2501"
+   },
+   {
+      "mine_code":"14434",
+      "mine_name":"WESTSIDE TRADING 534 (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WESTSIDE TRADING 534 (PTY) LTD",
+      "tel":"(011) 815 5200",
+      "district":"NIGEL",
+      "province":"GAUTENG",
+      "farm":"GROOTFONTEIN 165 IR 1, MARIEVALE NATUURRESERVAAT 282, VLAKFONTEIN 281 IR",
+      "postal":"PO BOX 12332 SELCOURT 1567"
+   },
+   {
+      "mine_code":"12471",
+      "mine_name":"WG WEARNE - GROENPLAATS",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 251 7600",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"BRANDVLEI 261 IQ, GROENPLAATS 157 IQ PLOT 3",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"14009",
+      "mine_name":"WG WEARNE - MAKRO SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 412 3000",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"DE PAN 51 IQ, DOORNFONTEIN 50 IQ",
+      "postal":"PO BOX 1422 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"11573",
+      "mine_name":"WG WEARNE - WEST DRIE GM CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"SURFACE",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 459 4500",
+      "district":"RANDFONTEIN",
+      "province":"GAUTENG",
+      "farm":"",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"11979",
+      "mine_name":"WILLOWS QUARRIES (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(012) 652 0107",
+      "district":"PRETORIA",
+      "province":"GAUTENG",
+      "farm":"ZWAVELPOORT 373 JR 47",
+      "postal":"PO BOX 47 THE REEDS 0061"
+   },
+   {
+      "mine_code":"11603",
+      "mine_name":"WITFONTEIN SAND QUARRY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JJ MARITZ & SONS (PTY) LTD",
+      "tel":"(011) 391 7380",
+      "district":"KEMPTON PARK",
+      "province":"GAUTENG",
+      "farm":"WITFONTEIN 15 IR 33",
+      "postal":"PO BOX 6256 BIRCHLEIGH 1621"
+   },
+   {
+      "mine_code":"11729",
+      "mine_name":"WITPOORT SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DR CT VERWEY",
+      "tel":"082 413 4602",
+      "district":"BRONKHORSTSPRUIT",
+      "province":"GAUTENG",
+      "farm":"ONBEKEND 398 JR 10",
+      "postal":"PO BOX 11091 TIEGERPOORT 0056"
+   },
+   {
+      "mine_code":"13396",
+      "mine_name":"YAKANI-BRICKS -T/A BRICKVELD",
+      "commodity":[
+         "SHALE BRICKMAKING, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BRICKVELD (PTY) LTD",
+      "tel":"(082) 575 8450",
+      "district":"VEREENIGING",
+      "province":"GAUTENG",
+      "farm":"VLAKFONTEIN PTN 178 & 179",
+      "postal":"PO BOX 28026 SONLANDPARK 1944"
+   },
+   {
+      "mine_code":"15008",
+      "mine_name":"ZOMKOLOL SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"L CREMER",
+      "tel":"(012) 333 3257",
+      "district":"CULLINAN",
+      "province":"GAUTENG",
+      "farm":"ROOIKOPJES 483 JR 56",
+      "postal":"PO BOX 32193 TOTIUSDAL 0134"
+   }
+]

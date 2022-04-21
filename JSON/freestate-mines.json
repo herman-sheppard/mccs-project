@@ -1,0 +1,1094 @@
+[
+   {
+      "mine_code":"11831",
+      "mine_name":"ANGLO ALLIED BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO ALLIED BRICK PRODUCTS (PTY) LTD",
+      "tel":"(057) 357 5777",
+      "district":"WELKOM",
+      "province":"FREE STATE",
+      "farm":"KLEIN KOPPIE ALLEEN 182 3",
+      "postal":"PO BOX 66027 LUCETTE EXT RIEBEECKSTAD 9469"
+   },
+   {
+      "mine_code":"14664",
+      "mine_name":"BANKFONTEIN - LETHABO POWERSTN 1814",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"COPPER SUNSET TRADING 324 (PTY) LTD",
+      "tel":"(011) 787 9274",
+      "district":"HEILBRON",
+      "province":"FREE STATE",
+      "farm":"BANKFONTEIN 9",
+      "postal":"PO BOX 413712 CRAIGHALL 2024"
+   },
+   {
+      "mine_code":"15027",
+      "mine_name":"BESTREIN EINDOMME (PTY) LTD",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DR WILLIAM EASBY",
+      "tel":"082 895 3516",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"PONTPLAAS 664",
+      "postal":"PO BOX 6499 FLAMWOOD 2570"
+   },
+   {
+      "mine_code":"10692",
+      "mine_name":"BETHLEHEM OPERATION",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT AGGREGATES (KZN) (PTY) LTD",
+      "tel":"(058) 303 5665",
+      "district":"BETHLEHEM",
+      "province":"FREE STATE",
+      "farm":"WOLHUTERSKOP SUID 620, WOLHUTERSKOP STAND 4038",
+      "postal":"PO BOX 612 BETHLEHEM 9700"
+   },
+   {
+      "mine_code":"12890",
+      "mine_name":"BETHLEHEM STEENWERKE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"H VOLMAN",
+      "tel":"(058) 303 2698",
+      "district":"BETHLEHEM",
+      "province":"FREE STATE",
+      "farm":"UTOPIA D 1685",
+      "postal":"PO BOX 246 BETHLEHEM 9700"
+   },
+   {
+      "mine_code":"13716",
+      "mine_name":"BLAAUWBOSCH DIAMOND MINE",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KOPHIA DIAMANTE",
+      "tel":"(053) 807 2300",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"CATHERINE'S FANCY 831",
+      "postal":"POSBUS 470 KIMBERLY 8301"
+   },
+   {
+      "mine_code":"15037",
+      "mine_name":"BLAZECOR 226 CC (434 MP)",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLAZECOR 226 CC",
+      "tel":"071 899 0018",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"LOUTERBRONNE 250",
+      "postal":"PO BOX 202 THEUNISSEN 9410"
+   },
+   {
+      "mine_code":"14539",
+      "mine_name":"BLUESTONES SAND AND STONE",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUESTONES SAND AND STONE",
+      "tel":"082 593 5737",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"SYDENHAM 445",
+      "postal":"PO BOX 22516 EATON ROAD BLOEMFONTEIN 9323"
+   },
+   {
+      "mine_code":"14650",
+      "mine_name":"CJM FOUCHÉ",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CJM FOUCHÉ AND PARTNERS",
+      "tel":"(053) 551 0026",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"FOURIESKRAAL 660",
+      "postal":"PO BOX 3 WINDSORTON 8510"
+   },
+   {
+      "mine_code":"13292",
+      "mine_name":"COROBRIK - ODENDAALSRUS QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(057) 354 2524",
+      "district":"WELKOM",
+      "province":"FREE STATE",
+      "farm":"HESTERSRUST 29 SUB DIV 1",
+      "postal":"PO BOX 50 ODENDAALSRUS 9480"
+   },
+   {
+      "mine_code":"10134",
+      "mine_name":"DE BEERS - VOORSPOED",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"DE BEERS CONSOLIDATED MINES",
+      "tel":"(056) 216 8431",
+      "district":"KROONSTAD",
+      "province":"FREE STATE",
+      "farm":"GELDENHUYS 1477, MORGENSTER 772, VOORSPOED 2480, VOORSPOED 401, WELGELEGEN 793",
+      "postal":"PO BOX 1964 KOONSTAD 9500"
+   },
+   {
+      "mine_code":"10375",
+      "mine_name":"DON DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"DON DIAMONDS (PTY) LTD",
+      "tel":"(053) 832 4553",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"LOXTONDAL 1610",
+      "postal":"PO BOX 1428 KIMBERLEY 8300"
+   },
+   {
+      "mine_code":"14165",
+      "mine_name":"DYSSELSRUST",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BONEBOHLE MINING CC",
+      "tel":"(051) 434 1591",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"DYSSELSRUST",
+      "postal":"PO BOX 35028 FAUNASIG 9325"
+   },
+   {
+      "mine_code":"14908",
+      "mine_name":"FIKA LE MORITI",
+      "commodity":[
+         "DIMENSION STONE SANDSTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"J KHARAFU",
+      "tel":"824 914 815",
+      "district":"WITSIESHOEK",
+      "province":"FREE STATE",
+      "farm":"PATRYS KAMP 383",
+      "postal":"8031 PHUTHADITSHABA 9866"
+   },
+   {
+      "mine_code":"14187",
+      "mine_name":"FINDCOR DIAMONDS",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"TRADE FIRST 2073 CC",
+      "tel":"(051) 448 7777",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"MONTELEO 255",
+      "postal":"PO BOX 29050 DANHOF 9310"
+   },
+   {
+      "mine_code":"14913",
+      "mine_name":"FLORA MAZIBUKO",
+      "commodity":[
+         "DIMENSION STONE SANDSTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"FLORA NTOMBENI MAZIBUKO",
+      "tel":"738 216 217",
+      "district":"HARRISMITH",
+      "province":"FREE STATE",
+      "farm":"WITSIESHOEK 1815",
+      "postal":"571 THABA BOSIU VILLAGE WITSIESHOEK 9870"
+   },
+   {
+      "mine_code":"11829",
+      "mine_name":"FREEGOLD OPERATIONS",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 411 2000",
+      "district":"WELKOM",
+      "province":"FREE STATE",
+      "farm":"ERFDEEL 18 198, FRIEDESHEIM 51, HESTERSRUS 424, JACOBSRUST 18, KALKUIL 153, ODENDAALSRUS 428, OPHER 405, PHILIPPI 914, RIETKUIL 28, RIETPAN 17, THERONSRUST 69",
+      "postal":"PO BOX 2 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"14785",
+      "mine_name":"FREESTATE BRICKS (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BARNARD FAMILIE TRUST & FANIE V RENSBURG FAMILIE TRUST",
+      "tel":"082 880 6511",
+      "district":"HENNEMAN",
+      "province":"FREE STATE",
+      "farm":"PETRUS HENNENMAN 596 RE",
+      "postal":"PO BOX 66213 RIEBEECKSTAD WELKOM 9469"
+   },
+   {
+      "mine_code":"10261",
+      "mine_name":"FREESTATE OPERATIONS (MASIMONG UNISEL & PHOENIX)",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 411 2000",
+      "district":"VENTERSBURG",
+      "province":"FREE STATE",
+      "farm":"HARMONY 222, KAALLAAGTE 562, LA RIVIERA 289, ONVERWACHT 251",
+      "postal":"PO BOX 2 RANDFONTEIN 1760"
+   },
+   {
+      "mine_code":"14226",
+      "mine_name":"G & W BASE - OCEAN BENTONITE MINE",
+      "commodity":[
+         "BENTONITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZIMCO GROUP",
+      "tel":"(011) 878 0343",
+      "district":"KOPPIES",
+      "province":"FREE STATE",
+      "farm":"BLAAUWBOSCHPOORT 13, OCEAAN 64, OCEAAN 99",
+      "postal":"PO BOX 14052 WADEVILLE 1422"
+   },
+   {
+      "mine_code":"15363",
+      "mine_name":"GERT TACK STAAL EN KONSTRUKSIE CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GERT TACK",
+      "tel":"(058) 863 2057",
+      "district":"REITZ",
+      "province":"FREE STATE",
+      "farm":"MOOIBRON 1374",
+      "postal":"PO BOX 537 REITZ 9810"
+   },
+   {
+      "mine_code":"15448",
+      "mine_name":"GIDEON JACOBUS BEUKES",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JODEO TRUST IT 1510/97",
+      "tel":"(053) 433 1280",
+      "district":"HOOPSTAD",
+      "province":"FREE STATE",
+      "farm":"NIEKERK 276",
+      "postal":"PO BOX 164 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"14919",
+      "mine_name":"HENQUE 4052 CC T/A PIKA MINING",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"PIKA MINING",
+      "tel":"079 220 9970",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"RIETFONTEIN 107 5",
+      "postal":"PO BOX 22689 EXTON ROAD BLOEMFONTEIN 9313"
+   },
+   {
+      "mine_code":"10472",
+      "mine_name":"IDC OOSTHUIZEN",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"IDC OOSTHUIZEN",
+      "tel":"(051) 811 0184",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"KAREEKLOOF 994, KLEINBRAKFONTEIN 307",
+      "postal":"PO BOX 159 DEALESVILLE 9348"
+   },
+   {
+      "mine_code":"14911",
+      "mine_name":"J & B SANDSTONE",
+      "commodity":[
+         "DIMENSION STONE SANDSTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOSEPH M BLANKWE",
+      "tel":"835 847 178",
+      "district":"WITSIESHOEK",
+      "province":"FREE STATE",
+      "farm":"MEMAMOGSHO",
+      "postal":"HOUSE 313 MEMAMOTSHO WITSIESHOEK 9869"
+   },
+   {
+      "mine_code":"14704",
+      "mine_name":"JACOBUS IGNATIUS DE WET",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JACOBUS IGNATIUS DE WET",
+      "tel":"082 444 2464",
+      "district":"HOOPSTAD",
+      "province":"FREE STATE",
+      "farm":"NOOITGEDACHT 28 PTN OF REM",
+      "postal":"PO BOX 110608 HADISON PARK 8306"
+   },
+   {
+      "mine_code":"10136",
+      "mine_name":"JAGERSFONTEIN DEVELOPMENTS (PTY) LTD",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"SURFACE",
+      "owner":"JAGERSFONTEIN DEVELOPMENTS (PTY) LTD",
+      "tel":"(021) 913 9745",
+      "district":"FAURESMITH",
+      "province":"FREE STATE",
+      "farm":"JAGERSONTEIN 14 15 16 & RE",
+      "postal":"GROOT PAARDEVLEI 29 MAGNOLIA STREET SOMERSET WEST 7130"
+   },
+   {
+      "mine_code":"14341",
+      "mine_name":"JAMMERSDRIFT SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JANKO BOERDERY BK",
+      "tel":"082 807 7227",
+      "district":"DEWETSDORP",
+      "province":"FREE STATE",
+      "farm":"DE WEPENER DORPSGRONDEN 178",
+      "postal":"POSBUS 17732 BAINSVLEI 9338"
+   },
+   {
+      "mine_code":"10135",
+      "mine_name":"KOFFIEFONTEIN EMPOWERMENT JV",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"BLUE DIAMOND MINES (PTY) LTD",
+      "tel":"(053) 205 5114",
+      "district":"KOFFIEFONTEIN",
+      "province":"FREE STATE",
+      "farm":"KOFFIEFONTEIN 733",
+      "postal":"PO BOX 80 KOFFIEFONTEIN 9986"
+   },
+   {
+      "mine_code":"12561",
+      "mine_name":"KUDU GRANITE - PARYS",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KUDU GRANITE HOLDINGS LTD",
+      "tel":"(012) 252 7798",
+      "district":"PARYS",
+      "province":"FREE STATE",
+      "farm":"KOPPIESKRAAL 517 IQ",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"14372",
+      "mine_name":"LACE DIAMOND MINES (PTY) LTD",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"LACE DIAMOND MINES (PTY) LTD",
+      "tel":"(056) 212 2308",
+      "district":"KROONSTAD",
+      "province":"FREE STATE",
+      "farm":"RUBY 691",
+      "postal":"PO BOX 6016 KROONHEUWEL 9501"
+   },
+   {
+      "mine_code":"10315",
+      "mine_name":"LAFARGE - OLIVE HILL QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(051) 433 2974",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"ESTOIRE SETTLEMENT VARIOUS, OLIVE HILL 105",
+      "postal":"PO BOX 1032 BLOEMFONTEIN 9300"
+   },
+   {
+      "mine_code":"12357",
+      "mine_name":"LANCASTER QUARRIES - HARRISMITH",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LIMITED",
+      "tel":"(034) 980 9233",
+      "district":"HARRISMITH",
+      "province":"FREE STATE",
+      "farm":"STILLERUST 991 SUB 1",
+      "postal":"PO BOX 205 VRYHEID 3100"
+   },
+   {
+      "mine_code":"12614",
+      "mine_name":"LANCASTER QUARRIES - QWA QWA",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LIMITED",
+      "tel":"(034) 980 9233",
+      "district":"HARRISMITH",
+      "province":"FREE STATE",
+      "farm":"ROOISLOOT 3, VAALKOP 1712",
+      "postal":"PO BOX 205 VRYHEID 3100"
+   },
+   {
+      "mine_code":"14654",
+      "mine_name":"LEHLABATHE DEV - ALPHEN",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LEHLABATHE DEVELOPMENT (PTY) LTD",
+      "tel":"(051) 983 0039",
+      "district":"LADYBRAND",
+      "province":"FREE STATE",
+      "farm":"ALPHEN 938",
+      "postal":"PO BOX 35 HOBHOUSE 9740"
+   },
+   {
+      "mine_code":"14655",
+      "mine_name":"LEHLABATHE DEV - GLEN ALPHEN",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LEHLABATHE DEVELOPMENT (PTY) LTD",
+      "tel":"(051) 983 0039",
+      "district":"LADYBRAND",
+      "province":"FREE STATE",
+      "farm":"GLEN ALPHEN 74",
+      "postal":"PO BOX 35 HOBHOUSE 9740"
+   },
+   {
+      "mine_code":"10159",
+      "mine_name":"LEMOENKLOOF 1237",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"LA BANHAM",
+      "tel":"(051) 831 1002",
+      "district":"BRANDFORT",
+      "province":"FREE STATE",
+      "farm":"LEMOENKLOOF 1237",
+      "postal":"PO BOX 35 SOUTPAN 9356"
+   },
+   {
+      "mine_code":"14365",
+      "mine_name":"LEON NOEL OELSCHIG",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LEON NOEL OELSCHIG",
+      "tel":"(053) 963 1081",
+      "district":"HOOPSTAD",
+      "province":"FREE STATE",
+      "farm":"NOOITGEDACHT 28",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"15438",
+      "mine_name":"MAJORBRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAJORBRICKS",
+      "tel":"827 766 672",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"FAIRVIEW 531 2",
+      "postal":"PO BOX 22536 EXSTON ROAD BLOEMFONTEIN 9301"
+   },
+   {
+      "mine_code":"15309",
+      "mine_name":"MAMPUDI CRUSHERS",
+      "commodity":[
+         "AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BETHLEHEM SAND EN KLIP",
+      "tel":"(058) 303 8419",
+      "district":"BETHLEHEM",
+      "province":"FREE STATE",
+      "farm":"APIA 1258",
+      "postal":"PO BOX 928 BETHLEHEM 9700"
+   },
+   {
+      "mine_code":"13840",
+      "mine_name":"MANROTRADE SEVENTEEN T/A BLOEM BRICKS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MANROTRADE SEVENTEEN (PTY) LTD",
+      "tel":"(051) 526 7041",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"MEADOWPAD, RIETFONTEIN 107 DIV 4",
+      "postal":"PO BOX 22536 EXTON ROAD 9313"
+   },
+   {
+      "mine_code":"14129",
+      "mine_name":"MANTSOPA LOCAL MUNICIPALITY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MANTSOPA LOCAL MUNICIPALITY",
+      "tel":"(051) 924 0654",
+      "district":"LADYBRAND",
+      "province":"FREE STATE",
+      "farm":"DORPSGRONDEN VAN HOPHOUSE 557",
+      "postal":"PO BOX 64 LADYBRAND 9745"
+   },
+   {
+      "mine_code":"13435",
+      "mine_name":"MILLING EQUIPMENT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PC VAN RENSBURG & SEUNS TPT",
+      "tel":"(016) 986 8777",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"MULLERSRUST 352 17 OF 1",
+      "postal":"PO BOX 765 VANDERBIJLPARK 1900"
+   },
+   {
+      "mine_code":"14916",
+      "mine_name":"MISSION POINT TRADING 41 (PTY) LTD",
+      "commodity":[
+         "SILICA, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JHH PRETORIUS",
+      "tel":"(011) 626 1981",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"RIETFONTEIN 152 PTN, WAAGSTUK 78, DRIEFONTEIN 2",
+      "postal":"PO BOX 308 GERMISTON 1400"
+   },
+   {
+      "mine_code":"14912",
+      "mine_name":"MONONELA SANDSTONE MINING",
+      "commodity":[
+         "DIMENSION STONE SANDSTONE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MONONELA PETER",
+      "tel":"727 919 572",
+      "district":"WITSIESHOEK",
+      "province":"FREE STATE",
+      "farm":"SWART WATER 935",
+      "postal":"PO BOX 18949 WITSIESHOEK 9870"
+   },
+   {
+      "mine_code":"14636",
+      "mine_name":"MT NOVAL TDG",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MT NOVAL TDG",
+      "tel":"827 428 067",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"SPRINGFIELD 261 REM",
+      "postal":"PO BOX 6680 BLOEMFONTEIN 9300"
+   },
+   {
+      "mine_code":"14620",
+      "mine_name":"MV SAND SUPPLY CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MV SAND SUPPLY CC",
+      "tel":"(057) 212 6911",
+      "district":"VIRGINIA",
+      "province":"FREE STATE",
+      "farm":"VERMEULENSKRAAL NOORD 480 3",
+      "postal":"22 NAHOON STREET SAAIPLAAS 9430"
+   },
+   {
+      "mine_code":"13743",
+      "mine_name":"NEW ELANDS DIAMOND MINE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KOPHIA DIAMONDS (PTY) LTD",
+      "tel":"084 556 4277",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"NEW ELANDS 949",
+      "postal":"PO BOX 378 BARKLY WEST 8375"
+   },
+   {
+      "mine_code":"11128",
+      "mine_name":"NEW VAAL COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO COAL",
+      "tel":"(016) 450 7211",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"BANKFONTEIN 9, MACCAUWLEI 121, RIETFONTEIN 152, ZANDFONTEIN 259",
+      "postal":"PRIVATE BAG X414 THREE RIVERS 1935"
+   },
+   {
+      "mine_code":"13603",
+      "mine_name":"NKP VERVOER",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NKP VERVOER PTY (LTD)",
+      "tel":"(053) 433 1104",
+      "district":"HOOPSTAD",
+      "province":"FREE STATE",
+      "farm":"GLASGOW 808",
+      "postal":"PO BOX 196 BLOEMHOF 2660"
+   },
+   {
+      "mine_code":"12136",
+      "mine_name":"OMV CRUSHERS - VIRGINIA AND MERRIESPRUIT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ORANJE MYNBOU & VERVOER (EDMS) BPK",
+      "tel":"(057) 212 3075",
+      "district":"VIRGINIA",
+      "province":"FREE STATE",
+      "farm":"MERRIESPRUIT 3, VIRGINIA 1 & 2",
+      "postal":"PO BOX 1222 VIRGINIA 9430"
+   },
+   {
+      "mine_code":"13461",
+      "mine_name":"PARYS GRUISGROEF",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NGWATHE MUNICIPALITY",
+      "tel":"(056) 811 2131",
+      "district":"PARYS",
+      "province":"FREE STATE",
+      "farm":"KLIPSPRUIT 64",
+      "postal":"PO BOX 359 PARYS 9585"
+   },
+   {
+      "mine_code":"14473",
+      "mine_name":"PEAKSTAR DIAMONDS",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PICTURE PERFECT TRADING 207 (PTY) LTD",
+      "tel":"(018) 293 3830",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"VERGELEGEN 85",
+      "postal":"PO BOX 2156 POTCHEFSTROOM 2520"
+   },
+   {
+      "mine_code":"14208",
+      "mine_name":"PETRA QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUMIX (PTY) LTD",
+      "tel":"(051) 433 2964",
+      "district":"BLOEMFONTEIN",
+      "province":"FREE STATE",
+      "farm":"HILLSIDE 2830",
+      "postal":"PO BOX 13057 NOORDSTAD 9302"
+   },
+   {
+      "mine_code":"14996",
+      "mine_name":"PL DE JAGER",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"PL DE JAGER",
+      "tel":"(058) 672 1018",
+      "district":"HARRISMITH",
+      "province":"FREE STATE",
+      "farm":"FRANSHOEK 1861 PTN G",
+      "postal":"PO BOX 61 HARRISMITH 9880"
+   },
+   {
+      "mine_code":"11412",
+      "mine_name":"PURE SOURCE MINE",
+      "commodity":[
+         "SILICA, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GOOSEBAY FARM (PTY) LTD",
+      "tel":"(011) 913 1719",
+      "district":"PARYS",
+      "province":"FREE STATE",
+      "farm":"WOODLANDS 407, VAAL EDEN",
+      "postal":"PO BOX 17037 SUNWARD PARK 1470"
+   },
+   {
+      "mine_code":"10547",
+      "mine_name":"ROVIC DIAMONDS",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"KLEINKOR SEWENTIEN (PTY) LTD",
+      "tel":"084 431 0118",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"DAMPLAATS 319",
+      "postal":"PO BOX 1762 KIMBERLEY 8300"
+   },
+   {
+      "mine_code":"11800",
+      "mine_name":"S BOTHMA & SONS TRANSPORT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"S BOTHMA & SONS TRANSPORT (PTY) LTD",
+      "tel":"(016) 970 2015",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"LONDON DALE 264",
+      "postal":"PO BOX 287 SASOLBURG 9570"
+   },
+   {
+      "mine_code":"14987",
+      "mine_name":"SAND VAN HEERDEN - KROONSTAD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HENDRIK SAND VAN HEERDEN",
+      "tel":"(056) 212 7261",
+      "district":"KROONSTAD",
+      "province":"FREE STATE",
+      "farm":"VRUCHTENDAL 95",
+      "postal":"PO BOX 1095 KROONSTAD 9500"
+   },
+   {
+      "mine_code":"10976",
+      "mine_name":"SAND VAN HEERDEN - VIRGINIA",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HENDRIK SAND VAN HEERDEN",
+      "tel":"(057) 212 2900",
+      "district":"VIRGINIA",
+      "province":"FREE STATE",
+      "farm":"VERMEULENSKRAAL NOORD 490",
+      "postal":"PO BOX 931 VIRGINIA 9430"
+   },
+   {
+      "mine_code":"14435",
+      "mine_name":"SANDY'S SAND MINE",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANDY'S SAND MINE",
+      "tel":"(016) 987 1436",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"FRAAIUITZICHT 217",
+      "postal":"PO BOX 5920 VANDERBIJLPARK 1900"
+   },
+   {
+      "mine_code":"14469",
+      "mine_name":"SHAFT SINKERS (PTY) LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"OPENCAST",
+      "owner":"SHAFT SINKERS (PTY) LTD",
+      "tel":"(057) 391 4905",
+      "district":"WELKOM",
+      "province":"FREE STATE",
+      "farm":"WELKOM TOWNLANDS",
+      "postal":"PO BOX 3236 WELKOM 9460"
+   },
+   {
+      "mine_code":"11178",
+      "mine_name":"SIBANYE GOLD LTD - BEATRIX DIVISION",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE GOLD LTD",
+      "tel":"(018) 788 7168",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"LEEUWBULT 52",
+      "postal":"PRIVATE BAG X2054 CARLETONVILLE 2500"
+   },
+   {
+      "mine_code":"10584",
+      "mine_name":"SIGMA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(016) 970 6477",
+      "district":"SASOLBURG",
+      "province":"FREE STATE",
+      "farm":"29 ADJOINING FARMS, BOSCHBANK 12, SALTBERRY PLAIN 137, WELTEVREDEN 379",
+      "postal":"PO BOX 32 SASOLBURG 1947"
+   },
+   {
+      "mine_code":"14432",
+      "mine_name":"SONNENBERG DIAMANTE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SONNENBERG DIAMANTE",
+      "tel":"(053) 551 0047",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"FOURIESKRAAL 660 PTN",
+      "postal":"PO BOX 6 WINDSORTON 8510"
+   },
+   {
+      "mine_code":"10613",
+      "mine_name":"STAR DIAMONDS (PTY) LTD",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SEDI DIAMONDS (PTY) LTD",
+      "tel":"(057) 733 6205",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"WYNANDSFONTEIN 53",
+      "postal":"PO BOX 293 THEUNISSEN 9410"
+   },
+   {
+      "mine_code":"12663",
+      "mine_name":"STONE & ALLIED - WELKOM",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"SURFACE",
+      "owner":"STONE & ALLIED INDUSTRIES LTD",
+      "tel":"(057) 353 9012",
+      "district":"WELKOM",
+      "province":"FREE STATE",
+      "farm":"FRIEDESHEIM 51, MIJANNIE 66, RHEEDERSDAM 31, THERONSRUST 69 3, WESSELIA 101, WITPAN 62",
+      "postal":"PO BOX 104 WELKOM 9460"
+   },
+   {
+      "mine_code":"10559",
+      "mine_name":"SUID AFRIKAANSE SOUTKOOPERASIE (PTY) LTD - SOUTPAN",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"SURFACE",
+      "owner":"SUID AFRIKAANSE SOUTKOOPERASIE (PTY) LTD",
+      "tel":"(051) 831 1113",
+      "district":"BRANDFORT",
+      "province":"FREE STATE",
+      "farm":"JAKHALSFONTEIN 155, SOUTPAN",
+      "postal":"PO BOX 10 SOUTPAN 9356"
+   },
+   {
+      "mine_code":"15405",
+      "mine_name":"SWEET SENSATIONS VAAL SAND (PTY) LTD",
+      "commodity":[
+         "SILICA, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SWEET SENSATIONS VAAL SAND (PTY) LTD",
+      "tel":"084 587 7454",
+      "district":"PARYS",
+      "province":"FREE STATE",
+      "farm":"DE PONT 228 RE",
+      "postal":"PO BOX 762 RANDPARK RIDGE 2156"
+   },
+   {
+      "mine_code":"10370",
+      "mine_name":"TARGET OPERATIONS",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"HARMONY GOLD MINING COMPANY LTD",
+      "tel":"(011) 411 2000",
+      "district":"ODENDAALSRUS",
+      "province":"FREE STATE",
+      "farm":"REMAINING EXTENT OF AANDENK 227",
+      "postal":"PO BOX 2 RANDONTEIN 1760"
+   },
+   {
+      "mine_code":"15451",
+      "mine_name":"TETRA4 (PTY) LTD",
+      "commodity":[
+         "NATURAL GAS"
+      ],
+      "type":"OPENCAST",
+      "owner":"RENERGEN LTD",
+      "tel":"(010) 045 6010",
+      "district":"VIRGINIA",
+      "province":"FREE STATE",
+      "farm":"MOND VAN DOORNRIVIER 38 PTN OF RE",
+      "postal":"POSTNET SUITE 610 PRIVATE BAG X10030 RANDBURG 2125"
+   },
+   {
+      "mine_code":"14990",
+      "mine_name":"THABA THAFITA DIAMOND MINING CC",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"THABA THAFITA DIAMOND MINING CC",
+      "tel":"(053) 551 0089",
+      "district":"BOSHOF",
+      "province":"FREE STATE",
+      "farm":"SPECULATIE PTN 1",
+      "postal":"PO BOX 82 WINDSORTON 8510"
+   },
+   {
+      "mine_code":"14782",
+      "mine_name":"UITKOMS KLIPBREKER",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"THABA STONE (PTY) LTD",
+      "tel":"082 567 2191",
+      "district":"THABA’NCHU",
+      "province":"FREE STATE",
+      "farm":"UITKOMS 558 1",
+      "postal":"PO BOX 226 THABA NCHU 9780"
+   },
+   {
+      "mine_code":"11817",
+      "mine_name":"VAALBRUG DOLOMIETMYN",
+      "commodity":[
+         "LIMESTONE, LIME, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"PLAASLIKE BOEREDIENSTE (PTY) LTD",
+      "tel":"(053) 963 1081",
+      "district":"VILJOENSKROON",
+      "province":"FREE STATE",
+      "farm":"VAALBRUG DOLOMIET 577",
+      "postal":"PO BOX 1086 SCHWEIZER RENEKE 2780"
+   },
+   {
+      "mine_code":"14451",
+      "mine_name":"VENTERSHOEK",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MASKHASA TRANSPORT CC",
+      "tel":"(051) 451 1362",
+      "district":"WEPENER",
+      "province":"FREE STATE",
+      "farm":"VENTERSHOEK 504",
+      "postal":"PO BOX 17007 BAINVLEI 9338"
+   },
+   {
+      "mine_code":"14178",
+      "mine_name":"VIRGINIA DIAMOND FIELD (PTY) LTD",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SOUTH AFRICA EQUITY INVESTMENTS LIMITED",
+      "tel":"082 941 3529",
+      "district":"THEUNISSEN",
+      "province":"FREE STATE",
+      "farm":"AVONDSRUST 183, AVONDSRUST A 182, DEELDAM 106 RE, DEELDAM 106 SDR, DRIEKOPPIES 422 RE, HENDRINA 463 SD, KLEIN PAN 320, LIELIESDAL 242",
+      "postal":"PO BOX 784059 SANDTON 2146"
+   },
+   {
+      "mine_code":"14340",
+      "mine_name":"WEPENER",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JR FAMILIE TRUST",
+      "tel":"825 568 959",
+      "district":"WEPENER",
+      "province":"FREE STATE",
+      "farm":"JAMMERBERGSDRIFT 540 REM OF 1",
+      "postal":"POSBUS 122 WEPENER 9944"
+   },
+   {
+      "mine_code":"15298",
+      "mine_name":"YELLOWSTAR BENTONITE",
+      "commodity":[
+         "BENTONITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRADEWORX25 (PTY) LTD",
+      "tel":"(011) 794 2202",
+      "district":"VREDEFORT",
+      "province":"FREE STATE",
+      "farm":"MOOIPLAATS B 853 REM, DE WET RUST 230 1 2 & REM, VREDELUST 223 1 & REM, MARA A 854",
+      "postal":"POSTNET SUITE15 PRIVATE BAG X2030 PARYS 9585"
+   }
+]

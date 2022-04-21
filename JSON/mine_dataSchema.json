@@ -1,0 +1,38 @@
+{
+  "title": "mine_data",
+  "description": "Auto generated JSON schema based on the 'mine_data' file",
+  "type": "object",
+  "properties": {
+    "owner": {
+      "type": "string"
+    },
+    "commodity": {
+      "type": "array",
+      "items": {}
+    },
+    "mine_name": {
+      "type": "string"
+    },
+    "province": {
+      "type": "string"
+    },
+    "mine_code": {
+      "type": "string"
+    },
+    "district": {
+      "type": "string"
+    },
+    "farm": {
+      "type": "string"
+    },
+    "tel": {
+      "type": "string"
+    },
+    "postal": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    }
+  }
+}

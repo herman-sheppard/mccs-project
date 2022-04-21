@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                      http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.5.xsd"
+        objectQuotingStrategy="QUOTE_ONLY_RESERVED_WORDS">
+    <changeSet id="6" author="mccs">
+        <modifyDataType columnName="COMMODITY" newDataType="CLOB" tableName="MCCS_MINE"/>
+    </changeSet>
+    <changeSet id="7" author="mccs">
+        <modifyDataType columnName="MINE_NAME" newDataType="CLOB" tableName="MCCS_MINE"/>
+    </changeSet>
+    <changeSet id="8" author="mccs">
+        <modifyDataType columnName="OWNER" newDataType="CLOB" tableName="MCCS_MINE"/>
+    </changeSet>
+    <changeSet id="9" author="mccs">
+        <modifyDataType columnName="POSTAL" newDataType="CLOB" tableName="MCCS_MINE"/>
+    </changeSet>
+</databaseChangeLog>

@@ -18,6 +18,7 @@ public enum Sectors implements EnumClass<String> {
     GOLD("Gold"),
     IRON_ORE("Iron Ore"),
     GOLD_URANIUM("Gold/Uranium"),
+    ALUMINIUM("Aluminium"),
     CORPORATE("Corporate");
 
     private String id;

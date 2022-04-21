@@ -22,6 +22,7 @@
               icon="ARROWS"/>
         <item screen="mccs_MccReport.browse"
               caption="msg://io.embraceit.mccsproject.screen.mccreport/mccReportBrowse.menu" icon="CREATE_ACTION"/>
+        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu"/>
         <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->

@@ -1,0 +1,2074 @@
+[
+   {
+      "mine_code":"14839",
+      "mine_name":"580 MP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LE FOURIE",
+      "tel":"(014) 763 5314",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"TOUWFONTEIN 528 LQ 1",
+      "postal":"PO BOX 1107 LEPHALALE 0555"
+   },
+   {
+      "mine_code":"13746",
+      "mine_name":"ADIT MINING CONSULTANTS & TRADING CC",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ADIT MINING CONSULTANTS & TRADING CC",
+      "tel":"(015) 318 4303",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"FARREL 781 LT 7",
+      "postal":"PO BOX 658856 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"13202",
+      "mine_name":"AFRICAN RED GRANITE - CRYSTAL BROWN",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"HUGOMOND 118 LS 2",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"12429",
+      "mine_name":"AFRICAN RED GRANITE - LEBOWA",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"MOKERONG",
+      "province":"LIMPOPO",
+      "farm":"HAAKDORINGDRAAI 758 LR, KLIPPLAATDRIFT 787 LR, SCHOONOORD 786 LR",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"14585",
+      "mine_name":"AFRICAN SPIRIT TRADING 185 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE SANDSTONE, DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN SPIRIT TRADING 185 (PTY) LTD",
+      "tel":"(011) 392 6701",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"RIETFONTEIN 513 KR",
+      "postal":"PO BOX 1255 ISANDO 1600"
+   },
+   {
+      "mine_code":"14960",
+      "mine_name":"AFROVEST (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFROVEST (PTY) LTD",
+      "tel":"(011) 318 1761",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"RIETFONTEIN 34 KS",
+      "postal":"PO BOX 1746 HALFWAY HOUSE 1685"
+   },
+   {
+      "mine_code":"14917",
+      "mine_name":"AMANDELBULT PRODUCTION SERVICES",
+      "commodity":[
+         "PGM"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 784 1212",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"MIDDELDRIFT 379 KQ, MIDDELLAAGTE 382 KQ, SCHILDPADNEST 385 KQ, ELANDSFONTEIN 386 KQ",
+      "postal":"PO BOX 2 CHROMITE 0362"
+   },
+   {
+      "mine_code":"13737",
+      "mine_name":"ANDALUSITE RESOURCES (PTY) LTD",
+      "commodity":[
+         "ANDALUSITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANDALUSITE RESOURCES (PTY) LTD",
+      "tel":"(014) 786 0021",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"MAROELOESTFONTEIN 366 KQ 10 11 & 28",
+      "postal":"PO BOX 1621 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"14602",
+      "mine_name":"ANGLO PLATINUM - DISHABA MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 784 1599",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"ELANDSKUIL 378 KQ, HAAKDORINGDRIFT 374 KQ, MIDDELLAAGTE 383 KQ",
+      "postal":"PO BOX 2 CHROMITE 0362"
+   },
+   {
+      "mine_code":"14601",
+      "mine_name":"ANGLO PLATINUM - TUMELA MINE",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SODIUM SULPHATE, SULPHUR"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 784 1212",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"ELANDSFONTEIN 386 KQ, MIDDELLAAGTE 383 KQ, MODDERGAT 389 KQ, ZWARTKOP 369 KQ, ELANDSKUIL 378 KQ, HAAKDORINGDRIFT 374 KQ",
+      "postal":"PO BOX 2 CHROMITE 0362"
+   },
+   {
+      "mine_code":"14603",
+      "mine_name":"ANGLO PLATINUM AMANDELBULT CONCENTRATORS",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 784 1702",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"AMANDELBULT 383 KQ, SCHILPADSNEST 385 KQ",
+      "postal":"PO BOX 2 CHROMITE 0362"
+   },
+   {
+      "mine_code":"11264",
+      "mine_name":"ANTIMONY PRODUCT LTD",
+      "commodity":[
+         "ANTIMONY TRIOXIDE"
+      ],
+      "type":"SURFACE",
+      "owner":"VILLAGE MAIN REEF",
+      "tel":"(015) 318 8000",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"JOSEPHINE 777 IT, PHALABORWA 1390",
+      "postal":"PRIVATE BAG X401 GRAVELOTTE 0895"
+   },
+   {
+      "mine_code":"14449",
+      "mine_name":"AP BECKER",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AP BECKER",
+      "tel":"(014) 736 4374",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"ROODEKUIL 496 KR",
+      "postal":"PO BOX 231 BELA BELA 0480"
+   },
+   {
+      "mine_code":"14656",
+      "mine_name":"AQUILA STEEL (SOUTH AFRICA) (PTY) LTD",
+      "commodity":[
+         "IRON ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"AQUILA RESOURCES LTD",
+      "tel":"(014) 772 3337",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"DONKERPOORT 448 KQ",
+      "postal":"POSTNET SUITE 52 PRIVATE BAG X6625 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"11022",
+      "mine_name":"ARLECO MINING (PTY) LTD",
+      "commodity":[
+         "ATTAPULGITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MEYER MINERALS CC",
+      "tel":"(011) 462 5279",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"CALAIS 563 KS",
+      "postal":"PO BOX 77052 FOUNTAINBLEAU 2032"
+   },
+   {
+      "mine_code":"14980",
+      "mine_name":"B COHEN VELLEFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"B COHEN VELLEFONTEIN",
+      "tel":"(014) 735 0824",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"VELLEFONTEIN 517 KQ",
+      "postal":"PO BOX 1 LEEUPOORT 0486"
+   },
+   {
+      "mine_code":"11681",
+      "mine_name":"BADEROUKWE MINE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE SLATE, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BADEROUKWE MINE (PTY) LTD",
+      "tel":"(015) 781 7478",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"BADEROUKWE 11 LU",
+      "postal":"PO BOX 1032 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"14429",
+      "mine_name":"BAFEDILE MINING & CONSTRUCTION",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAFEDILE MINING & CONSTRUCTION",
+      "tel":"(015) 491 5352",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"VAALKOP 819 LR",
+      "postal":"PO BOX 247 MAHWELERENG 0626"
+   },
+   {
+      "mine_code":"14966",
+      "mine_name":"BALOYI KHAZAMOLA GEORGE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"K G BALOYI",
+      "tel":"072 619 4409",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"VOGELSTRUISFONTEIN 472 LQ",
+      "postal":"PO BOX 7011 ONVERWACHT 0557"
+   },
+   {
+      "mine_code":"14166",
+      "mine_name":"BATHLABENI BRICK YARD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"NALDER AGENCY",
+      "tel":"(015) 355 3967",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"LENYENYE",
+      "postal":"PO BOX 2640 TZANEEN 0850"
+   },
+   {
+      "mine_code":"12956",
+      "mine_name":"BESTAF GRANITE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BESTAF GRANITE (PTY) LTD",
+      "tel":"(015) 491 7473",
+      "district":"MOKERONG",
+      "province":"LIMPOPO",
+      "farm":"KLIPPLAATDRIFT 787 LR, EYSSELDRIFT 788 LR",
+      "postal":"PO BOX 179 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"10096",
+      "mine_name":"BLOEMHOF SALT & CHEMICALS",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"BERGPAN SALTWORKS",
+      "tel":"(015) 593 0127",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"ZOUTPAN 479 MS",
+      "postal":"PO BOX 100 VIVO 0924"
+   },
+   {
+      "mine_code":"15453",
+      "mine_name":"BLUE MOONLIGHT PROP (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE MOONLIGHT PROP (PTY) LTD",
+      "tel":"(021) 882 9265",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"KAMEELHOEK 408 KQ",
+      "postal":"PO BOX 266 NORTHRIDING JOHANNESBURG 2162"
+   },
+   {
+      "mine_code":"14503",
+      "mine_name":"BLUE NIGHTINGALE TRADING 228 (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE NIGHTINGALE TRADING 228 (PTY) LTD",
+      "tel":"(014) 772 3398",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"KWAGGASVLAKTE 317 KT 26",
+      "postal":"PO BOX 618 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"10028",
+      "mine_name":"BOKONI PLATINUM MINES (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ATLATSA RESOURCES CORPORATION",
+      "tel":"(015) 620 0229",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"DIAMANT 442 KS, MIDDELPUNT 420 KS, UMKUANASSTAD 419 KS, ZEEKOEGAT 421 KS",
+      "postal":"PO BOX 1 ATOK 0749"
+   },
+   {
+      "mine_code":"14567",
+      "mine_name":"BOSPOORT 450 KR",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRED VAN HEERDEN",
+      "tel":"(014) 736 2020",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"BOSCHPOORT 550 KR",
+      "postal":"PO BOX 765 BELA BELA 0480"
+   },
+   {
+      "mine_code":"11476",
+      "mine_name":"BOSVELD PHOSPHATES",
+      "commodity":[
+         "PHOSPHORIC ACID"
+      ],
+      "type":"SURFACE",
+      "owner":"ETG - EXORT TRADING CO LTD",
+      "tel":"(015) 780 6100",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"WEGSTEEK 30",
+      "postal":"PRIVATE BAG X01022 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"13710",
+      "mine_name":"CENTRAL AFRICA CRUSHERS (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CENTRAL AFRICA CRUSHERS (PTY) LTD",
+      "tel":"(015) 533 0324",
+      "district":"MESSINA",
+      "province":"LIMPOPO",
+      "farm":"FARM MESSINA PTN 4",
+      "postal":"PO BOX 846 MUSINA 0900"
+   },
+   {
+      "mine_code":"14699",
+      "mine_name":"CERAMIC INDUSTRIES - CYFERFONTEIN",
+      "commodity":[
+         "FIRECLAY"
+      ],
+      "type":"OPENCAST",
+      "owner":"CERAMIC INDUSTRIES LTD",
+      "tel":"(016) 930 3600",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"CYFERTONTEIN 457 KR REM OF 1",
+      "postal":"PO BOX 2247 VEREENIGING 1930"
+   },
+   {
+      "mine_code":"14667",
+      "mine_name":"COLLATERAL TRADING 551 CC",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"OPENCAST",
+      "owner":"COLLATERAL TRADING 551 CC",
+      "tel":"(015) 516 2693",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"VERA 815 MS 11",
+      "postal":"PO BOX 384 LOUIS TRICHARDT 0920"
+   },
+   {
+      "mine_code":"10112",
+      "mine_name":"CONS MURCH MINE (PTY) LTD",
+      "commodity":[
+         "ANTIMONY METAL IC, GOLD"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"VILLAGE MAIN REEF",
+      "tel":"(015) 318 8000",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"CLAIMLAND 780 LT 780 LT, JOSEPHINE 777 LT 777 LT",
+      "postal":"PRIVATE BAG X401 GRAVELOTTE 0895"
+   },
+   {
+      "mine_code":"13664",
+      "mine_name":"COROBRIK - POLOKWANE QUARRY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"TWEEFONTEIN 915 LS 119, TWEEFONTEIN 915 LS 163 & 164",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"10119",
+      "mine_name":"CRYSTAL SALT",
+      "commodity":[
+         "SALT"
+      ],
+      "type":"OPENCAST",
+      "owner":"CRYSTAL SALT CC",
+      "tel":"(015) 593 0128",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"ZOUTPAN 459 MS",
+      "postal":"PO BOX 123 VIVO 0924"
+   },
+   {
+      "mine_code":"13186",
+      "mine_name":"DE BEERS - THE OAKS MINE",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"DE BEERS CONSOLIDATED MINES",
+      "tel":"(014) 767 3000",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"THE OAKS 153 MR",
+      "postal":"PO BOX 98 SWARTWATER 0622"
+   },
+   {
+      "mine_code":"11211",
+      "mine_name":"DE BEERS - VENETIA MINE",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"DE BEERS CONSOLIDATED MINES",
+      "tel":"(015) 575 2073",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"VENETIA 103 MS",
+      "postal":"PO BOX 668 MUSINA 0900"
+   },
+   {
+      "mine_code":"14453",
+      "mine_name":"DIKWENA ST MINING CO-OP LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DIKWENA ST MINING CO-OP LTD",
+      "tel":"(015) 229 2900",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"MALIETZIES LOCATION 606 LS",
+      "postal":"PO BOX 1601 KOLOTI 0709"
+   },
+   {
+      "mine_code":"15154",
+      "mine_name":"DR PA BASSON",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DR PA BASSON",
+      "tel":"(011) 916 1900",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"LUNSKLIP 982 KS",
+      "postal":"PO BOX 19953 SUNWARD PARK 1470"
+   },
+   {
+      "mine_code":"14529",
+      "mine_name":"EARTHSTONE GRANITE TRADING 9",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EARTHSTONE TRADING 9 (PTY) LTD",
+      "tel":"(015) 501 2903",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"TARENTAALDRAAI 493 LS",
+      "postal":"PO BOX 1546 DWARSRIVIER 0812"
+   },
+   {
+      "mine_code":"13463",
+      "mine_name":"ELOFF SANDWERKE BK",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ELOFF SANDWERKE BK",
+      "tel":"(014) 763 3414",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"DUIKERFONTEIN 542 LQ, GROOTFONTEIN 501 LQ, RIETSPRUIT 527 LQ",
+      "postal":"PO BOX 693 LEPHALALE 0555"
+   },
+   {
+      "mine_code":"14391",
+      "mine_name":"EXXARO REDUCTANTS",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"SURFACE",
+      "owner":"EXXARO RESOURCES",
+      "tel":"083 609 1029",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"DAARBY 458 LQ",
+      "postal":"PO BOX 9229 PRETORIA 0001"
+   },
+   {
+      "mine_code":"13935",
+      "mine_name":"FEDDIES MINERALS (PTY)LTD (MORELAG MI",
+      "commodity":[
+         "FELDSPAR"
+      ],
+      "type":"OPENCAST",
+      "owner":"FREDDIES MINERALS GROUP OF COMPANIES",
+      "tel":"(015) 769 6070",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"MORELAG 5 KU 2, RHODA 9 KU, SHIELA 1116 LS, GRIETJIE",
+      "postal":"POSTNET SUITE 69 PRIVATE BAG X1013 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"13936",
+      "mine_name":"FELDSPAR MILLING (MILL)",
+      "commodity":[
+         "FELDSPAR"
+      ],
+      "type":"SURFACE",
+      "owner":"FREDDIES MINERALS GROUP OF COMPANIES",
+      "tel":"(015) 769 6070",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"MORELAG 5 KU, GRIETJIE",
+      "postal":"POSTNET SUITE 69 PRIVATE BAG X1013 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"14132",
+      "mine_name":"FOLOVHODWE MINING (PTY) LTD",
+      "commodity":[
+         "MAGNESITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"FOLOVHODWE MINING (PTY) LTD",
+      "tel":"(012) 345 4539",
+      "district":"THOHOYANDOU",
+      "province":"LIMPOPO",
+      "farm":"FOLOVHODWE VILLAGE",
+      "postal":"PO BOX 30 IRENE 0062"
+   },
+   {
+      "mine_code":"10205",
+      "mine_name":"FOSKOR LTD",
+      "commodity":[
+         "PHOSPHATE CONCENTRATE, IRON ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"INDUSTRIAL DEVELOPMENT CORP LTD",
+      "tel":"(015) 789 2006",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"LAASTE 24 LU, LOOLE 31 LU, SCHETTOCH 25 LU, WEGSTEEK 30 LU",
+      "postal":"PO BOX 1 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"14570",
+      "mine_name":"FOSKOR ZIRCONIA (PTY) LTD",
+      "commodity":[
+         "ZIRCON CONCENTRATE, SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"CARBORANDUM UNIVERSAL INTERNATIONAL",
+      "tel":"(015) 789 2346",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"WEGSTEEK 30 LU",
+      "postal":"PO BOX 1 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"14584",
+      "mine_name":"FRED COOPER SAND & KLIP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRED COOPER SAND & KLIP",
+      "tel":"(015) 491 5616",
+      "district":"MOKERONG",
+      "province":"LIMPOPO",
+      "farm":"KNAPDAAR 234 KR",
+      "postal":"PO BOX 1062 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"10211",
+      "mine_name":"FREDDIES MINERALS (PTY) LTD (MAORI MINE)",
+      "commodity":[
+         "FELDSPAR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"FREDDIES MINERALS GROUP OF COMPANIES",
+      "tel":"(015) 769 6070",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"MORELAG 5 KU 2, GRIETJIE",
+      "postal":"POSTNET SUITE 69 PRIVATE BAG X1013 PALABORWA 1390"
+   },
+   {
+      "mine_code":"14686",
+      "mine_name":"GANBEI ENTERPRISES",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GANBEI ENTERPRISES",
+      "tel":"729 670 739",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"ROOIBERG 604 KQ REM",
+      "postal":"PO BOX 141 ROOIBERG 0050"
+   },
+   {
+      "mine_code":"10384",
+      "mine_name":"GELETICH MINING INSUSTRIES (PTY) LTD",
+      "commodity":[
+         "MICA, DIMENSION STONE GRANITE, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DR GERHARDUS VENTER",
+      "tel":"072 797 3785",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"HOOFPYN 269 KT, INYOKU 159 KT, LEKKERGOED 158 KT, ARCHIE 156 KT",
+      "postal":"PO BOX 836 HOEDSPRUIT 1380"
+   },
+   {
+      "mine_code":"13474",
+      "mine_name":"GRASSVALLEY CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LISBON CRUSHERS - KHUMO BATHONG HOLDINGS",
+      "tel":"(015) 491 5866",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"GRASVALLY 293 KR",
+      "postal":"PO BOX 1606 POTGIETERSRUS 0600"
+   },
+   {
+      "mine_code":"12859",
+      "mine_name":"GREATER MUSINA TLC QUARRY",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GREATER MUSINA TLC",
+      "tel":"(015) 534 0211",
+      "district":"MESSINA",
+      "province":"LIMPOPO",
+      "farm":"ARTONVILLE 7 MT",
+      "postal":"PRIVATE BAG X611 MUSINA 0900"
+   },
+   {
+      "mine_code":"10252",
+      "mine_name":"GROOTEGELUK MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"EXXARO COAL",
+      "tel":"(014) 763 9105",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"DAARBY 458 LQ, ENKELBULT 462 LQ, GROOTEGELUK 459 LQ, HIEROMTRENT 460 LQ, LEEUWDRIFT 312 LQ, TURFVLAKTE 463 LQ",
+      "postal":"PO BOX 178 LEPHALALE 0555"
+   },
+   {
+      "mine_code":"11386",
+      "mine_name":"HLOGO CONSTRUCTION CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HLOGO CONSTRUCTION CC",
+      "tel":"(015) 632 4547",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"FRISCHGEWAAGD 88 KS",
+      "postal":"PO BOX 452 CHUENESPOORT 0745"
+   },
+   {
+      "mine_code":"13584",
+      "mine_name":"HOPE BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KUMBELO 102 CC",
+      "tel":"(015) 539 0704",
+      "district":"MESSINA",
+      "province":"LIMPOPO",
+      "farm":"HOPE 109 MT",
+      "postal":"PO BOX 36 MUSINA 0900"
+   },
+   {
+      "mine_code":"11245",
+      "mine_name":"IDWALA MAGNETITE",
+      "commodity":[
+         "IRON ORE"
+      ],
+      "type":"SURFACE",
+      "owner":"IDWALA INDUSTRIAL HOLDINGS (PTY) LTD",
+      "tel":"(011) 914 2600",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"LOOLE 31 61, WEGSTEEK 30 LT",
+      "postal":"PO BOX 6056 DUNSWART 1508"
+   },
+   {
+      "mine_code":"10320",
+      "mine_name":"INCA MINING",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"INCA MINING (PTY) LTD",
+      "tel":"(015) 667 0536",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"CALAIS 563 KS, MALGAS 154 KS, SINGAPORE 585 KS",
+      "postal":"PO BOX 293 ROEDTAN 0580"
+   },
+   {
+      "mine_code":"14373",
+      "mine_name":"IPFI CORUNDUM MINE",
+      "commodity":[
+         "CURUNDUM"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAMBAU",
+      "tel":"(015) 516 1781",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"GROOTPLAATS 239 KS",
+      "postal":"PO BOX 1664 LOUIS TRICHARDT 0920"
+   },
+   {
+      "mine_code":"15233",
+      "mine_name":"IVANPLATS (PTY) LTD",
+      "commodity":[
+         "PGM"
+      ],
+      "type":"OPENCAST",
+      "owner":"IVANHOE",
+      "tel":"(015) 491 0600",
+      "district":"MOKERONG",
+      "province":"LIMPOPO",
+      "farm":"MACALAKASKOP 243 KR, TURFSPRUIT 241 KR",
+      "postal":"7 9 AND 11 THIRD AVENUE INDUSTRIAL SITE MOKOPANE 0600"
+   },
+   {
+      "mine_code":"15353",
+      "mine_name":"JANNIEK MINING (PTY) LTD T/A ROODEPOORT CRUSHER",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JAN WILLEM VAN WAVEREN",
+      "tel":"(015) 293 0208",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"ROODEPOORT 744 LS RE",
+      "postal":"PO BOX 32 LADANNA 0704"
+   },
+   {
+      "mine_code":"15202",
+      "mine_name":"KATLEGO MOTABELE THOBEJANE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOTLOKWA TRANSPORT & CONSTRUCTION (PTY) LTD",
+      "tel":"(013) 214 9902",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"AAPIESBOOMEN 295 KT",
+      "postal":"PO BOX 2007 POLOKWANE 0787"
+   },
+   {
+      "mine_code":"13261",
+      "mine_name":"KLIPSPRINGER MINE",
+      "commodity":[
+         "DIAMONDS KIMBERLITE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"MWANA AFRICA",
+      "tel":"(011) 883 9550",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"MARSFONTEIN 91 KS, MODDERFONTEIN 100 KS, RUSLAND 93 KS",
+      "postal":"PO BOX 78278 SANDTON 2146"
+   },
+   {
+      "mine_code":"14558",
+      "mine_name":"KNOTT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"KNOTT",
+      "tel":"(015) 397 4460",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"RHEBOKFONTEIN 825 LS",
+      "postal":"PO BOX 33 MUNNIK 0703"
+   },
+   {
+      "mine_code":"14685",
+      "mine_name":"KONDOA 191 MT",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JOY COMES IN THE MORNING TE",
+      "tel":"(015) 296 2781",
+      "district":"DZANANI",
+      "province":"LIMPOPO",
+      "farm":"KONDOA 191 MT",
+      "postal":"87 BEKKER STREET FAUNAPARK POLOKWANE 0699"
+   },
+   {
+      "mine_code":"14517",
+      "mine_name":"KROKODILKRAAL QUARRY",
+      "commodity":[
+         "LIMESTONE, LIME, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CONTINENTAL CEMENT (PTY) LTD",
+      "tel":"083 277 4321",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"KROKODILKRAAL 545 KQ 2, NOOITGEDACHT 136 JQ 11",
+      "postal":"PO BOX 87277 HOUGHTON 2041"
+   },
+   {
+      "mine_code":"11794",
+      "mine_name":"KRONE-ENDORA MINE",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"DMI MINERALS SOUTH AFRICA (PTY) LTD",
+      "tel":"792 812 530",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"KRONE 104 MS, ENDORA 66 MS",
+      "postal":"PO BOX 1046 POLOKWANE LIMPOPO 0700"
+   },
+   {
+      "mine_code":"11751",
+      "mine_name":"KUIPERSBULT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT AGGREGATES (OP) (PTY) LTD",
+      "tel":"(023) 342 6026",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"KUIPERSBULT 511 LQ",
+      "postal":"POSBUS 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"12342",
+      "mine_name":"LAFARGE - POLOKWANE CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(015) 291 3286",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"WELTEVREDEN 746 LS",
+      "postal":"PO BOX 80 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"15082",
+      "mine_name":"LAMEI STONE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"LAMEI STONE",
+      "tel":"(015) 781 6535",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"BADEROUKWE 11 LU, LEEUWKOP 10 LU, LEEUWSPRUIT 18 LU",
+      "postal":"PO BOX 1381 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"15015",
+      "mine_name":"LEDJADJA COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"RESOURCE GENERATION LIMITED",
+      "tel":"(012) 345 1057",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"WITKOPJE 238 LQ 1-3 & REM, KALKPAN 243 LQ, DRAAIOM 244 LQ, KRUISHOUT 271 LQ, VISCHPAN 274 LQ, OSORNO 700 LQ, ZEEKOEVLEY 241 LQ",
+      "postal":"PO BOX 5384 RIETVALLEIRAND 0174"
+   },
+   {
+      "mine_code":"13787",
+      "mine_name":"LEEUWPOORT QUARRY",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BENNON DEV CO (PTY) LTD",
+      "tel":"(014) 735 0824",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"LEEUWPOORT 554 KQ",
+      "postal":"PO BOX 1 LEEUWPOORT 0486"
+   },
+   {
+      "mine_code":"10257",
+      "mine_name":"LEO LIMESTONE",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"H PISTORIUS & CO (PTY) LTD",
+      "tel":"(012) 342 1075",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"CALAIS 563 KS",
+      "postal":"PO BOX 7000 PRETORIA 0001"
+   },
+   {
+      "mine_code":"14369",
+      "mine_name":"LEPATSWA BRICK T/A MATJIPA BRICKYARD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KAOSHI KAWETHE",
+      "tel":"(015) 291 3640",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"CROYDON 120 KT",
+      "postal":"PO BOX 810 DRIEKOP 1129"
+   },
+   {
+      "mine_code":"11097",
+      "mine_name":"LEPHALALE SIYANDA RESOURCES",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"SIYANDA INVESTMENT",
+      "tel":"(011) 832 2543",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"GROOTFONTEIN 501 LQ PTN",
+      "postal":"PO BOX 62203 MARSHALLTOWN 2107"
+   },
+   {
+      "mine_code":"14466",
+      "mine_name":"LETABA CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LETABA CRUSHERS",
+      "tel":"073 236 0589",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"TARENTAALRAND 524 LT 3",
+      "postal":"PO BOX 1695 TZANEEN 0850"
+   },
+   {
+      "mine_code":"13221",
+      "mine_name":"LIMPOPO CLAY BRICK MANUFACTURING",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"LIMPOPO CLAY BRICK MANUFACTURING",
+      "tel":"(015) 295 2550",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"LANGGENOEG 745 LS",
+      "postal":"PO BOX 56000 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"14457",
+      "mine_name":"MADIFE KGONOPELE AGRIC & INDUS (PTY)",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"OPENCAST",
+      "owner":"MALEFO JULIA MAMETJA",
+      "tel":"769 387 959",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"THE OAKS 198 KT",
+      "postal":"PO BOX 191 TRICHARDSDAL 0890"
+   },
+   {
+      "mine_code":"12964",
+      "mine_name":"MAGNESITE MINING CC",
+      "commodity":[
+         "MAGNESITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAGNESITE MINING CC",
+      "tel":"(012) 346 2528",
+      "district":"THOHOYANDOU",
+      "province":"LIMPOPO",
+      "farm":"HA-FOLOVHODWE B (GOVT GROUND), NYALA MINE, ZISKA",
+      "postal":"PO BOX 1075 MUSINA 0900"
+   },
+   {
+      "mine_code":"15026",
+      "mine_name":"MAGVANTI",
+      "commodity":[
+         "TITANIUM CONCENTRATE, TITANIUM"
+      ],
+      "type":"OPENCAST",
+      "owner":"GRAVELOTTE IRON ORE CO - SUB OF EXXARO RESOURCES",
+      "tel":"086 774 4048",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"MON DESIR 782 LP",
+      "postal":"PO BOX 9229 PRETORIA 0001"
+   },
+   {
+      "mine_code":"15203",
+      "mine_name":"MAHUTSA ELSIE THOBEJANE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOTLOKWA TRANSPORT & CONSTRUCTION (PTY) LTD",
+      "tel":"(013) 214 9902",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"STEELPOORTDRIFT 296 KT",
+      "postal":"PO BOX 2007 POLOKWANE 0787"
+   },
+   {
+      "mine_code":"12627",
+      "mine_name":"MARANDA MINING CO (PTY) LTD",
+      "commodity":[
+         "ZINC METAL IC"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"METOREX LTD",
+      "tel":"(015) 345 1758",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"MARANDA 675 LT",
+      "postal":"PO BOX 2171 TZANEEN 0850"
+   },
+   {
+      "mine_code":"11011",
+      "mine_name":"MARLIN - ABIQUA SLATE - NABOOM",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"BUFFELSKLOOF 514 KR 3 TO 9",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"13113",
+      "mine_name":"MARLIN - BANDOLIERSKOP - CAPRICORN",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"LEEUWDOORNS 472 LS PTN",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"13111",
+      "mine_name":"MARLIN - GROENDOORN",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"GROENDORING 225 KR, GROENFONTEIN 227 KR",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"13633",
+      "mine_name":"MARULA PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"IMPALA PLATINUM HOLDINGS LTD",
+      "tel":"(013) 214 6000",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"CLAPHAM 118 KT, DRIEKOP 253 KT, FOREST HILL 117 KT, HACKNEY 116 KT, WINNAARSHOEK 250 KT",
+      "postal":"PO BOX 1496 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"12783",
+      "mine_name":"MESSINA PLATINUM MINES LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"WESTERN PLATINUM LID",
+      "tel":"(015) 633 8237",
+      "district":"THABAMOOPOO",
+      "province":"LIMPOPO",
+      "farm":"KAFFIRKRAAL 167 KS, KALKBULT 169 KS, TURFPAN 122 KS, VOORSPOED, ZEBEDELIAS LOCATION",
+      "postal":"POSTNET SUITE 79 PRIVATE BAG X9676 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"11255",
+      "mine_name":"MODIKWA PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ARM / ANGLO PLATINUM JOINT VENTURE",
+      "tel":"(013) 230 2047",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"DRIEKOP 253 KT, HENDRIKSPLAATS 281 KT, MAANDAGSHOEK 254 KT, ONVERWACH 292 KT, WINTERVELD 293 KT",
+      "postal":"PRIVATE BAG X9120 DRIEKOP 1129"
+   },
+   {
+      "mine_code":"11526",
+      "mine_name":"MOGALAKWENA PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(015) 418 2246",
+      "district":"MOKERONG",
+      "province":"LIMPOPO",
+      "farm":"OVERYSEL 815 LR, SANDSLOOT 235 KR, SCHILPADNEST 385 KQ, ZWARTFONTEIN 818 LR",
+      "postal":"PRIVATE BAG X2463 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"14486",
+      "mine_name":"MOKGAMELA MULTIMINERALS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOKGAMELA MULTIMINERALS",
+      "tel":"827 666 950",
+      "district":"DZANANI",
+      "province":"LIMPOPO",
+      "farm":"SENDEDZANE 202 MT",
+      "postal":"17 SAGEWOOD VILLAS ANNLIN 0182"
+   },
+   {
+      "mine_code":"15433",
+      "mine_name":"MORTIMER SMELTER",
+      "commodity":[
+         "PGM"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO AMERICAN",
+      "tel":"(014) 786 1091",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"TURFBULT 404 KG PTN",
+      "postal":"PRIVATE BAG X351 SWARTKLIP 0370"
+   },
+   {
+      "mine_code":"15204",
+      "mine_name":"MOTLOKWA SOLOMON THOBEJANE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MOTLOKWA TRANSPORT & CONSTRUCTION (PTY) LTD",
+      "tel":"(013) 214 9902",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"STEELPOORTDRIFT 296 KT",
+      "postal":"PO BOX 2007 POLOKWANE 0787"
+   },
+   {
+      "mine_code":"14467",
+      "mine_name":"MUKULA STONE CRUSHERS CO-OP LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MUKULA STONE CRUSHERS CO-OP LTD",
+      "tel":"729 735 345",
+      "district":"THOHOYANDOU",
+      "province":"LIMPOPO",
+      "farm":"CHIPASE 386 MT",
+      "postal":"PO BOX 1101 MUKULA 0978"
+   },
+   {
+      "mine_code":"11853",
+      "mine_name":"NORTHAM PLATINUM - ZONDEREINDE",
+      "commodity":[
+         "PGM, GOLD, SILVER, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"NORTHAM PLATINUM LTD",
+      "tel":"(014) 784 3200",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"AMANDELBULT 383 KQ, ELANDSFONTEIN 386 KQ, ZONDEREINDE 348 KQ, APIESKRAAL 377 KQ, GROOTKUIL 376 KQ, KOPJE ALLEEN 442 KQ, MIDDELDRIFT 379 KQ, VRUGBAAR 381 KQ, VRUGBAAR 387 KQ, WITVLEY 423 KQ",
+      "postal":"PO BOX 441 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"12877",
+      "mine_name":"NYLSTENE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"NYLSTENE (EDMS) BPK",
+      "tel":"(014) 717 3737",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"RIETFONTEIN 389 KR 16, 17 &19",
+      "postal":"PO BOX 2408 MODIMOLLE 0510"
+   },
+   {
+      "mine_code":"14262",
+      "mine_name":"NYLSTROOM CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NYLSTROOM CRUSHERS",
+      "tel":"(014) 743 0956",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"GROOTVLEI 417 KR RE OF 19",
+      "postal":"PO BOX 4411 MODIMOLLE 0510"
+   },
+   {
+      "mine_code":"14407",
+      "mine_name":"PAKAMA CRUSHER - VOGELENSANG",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHIRUDINI BELEGGINGS CC",
+      "tel":"(015) 534 3361",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"VOGELENZANG 3 MT",
+      "postal":"PO BOX 582 MUSINA 0900"
+   },
+   {
+      "mine_code":"10489",
+      "mine_name":"PALABORA MINING CO LTD",
+      "commodity":[
+         "COPPER, GOLD, SILVER, PGM, IRON ORE, NICKEL, SULPHUR, VERMICULITE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"PALABORA MINING CO LTD",
+      "tel":"(015) 780 2144",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"LOOLE 38 LU, WEGSTEEK 30 LU",
+      "postal":"PO BOX 65 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"13548",
+      "mine_name":"PALMIETGAT",
+      "commodity":[
+         "DIAMONDS ALLUVIAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"NORTH AMERICAN MINING CORP (PTY) LTD",
+      "tel":"(014) 733 0649",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"PALMIETGAT 34 JR",
+      "postal":"PO BOX 76 BELA-BELA 0480"
+   },
+   {
+      "mine_code":"13734",
+      "mine_name":"PAUER SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PAUER SAND",
+      "tel":"(015) 295 7158",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"OSHATZ 702 LS",
+      "postal":"POSBUS 650 PIETERSBURG 0700"
+   },
+   {
+      "mine_code":"10497",
+      "mine_name":"PEGMIN (PTY) LTD",
+      "commodity":[
+         "FELDSPAR, MICA, SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"PEGMIN (PTY) LTD",
+      "tel":"(015) 817 1828",
+      "district":"PHALABORWA",
+      "province":"LIMPOPO",
+      "farm":"EXCELLENCE 157 KT, HOOFPYN 269 KT, INYOKU 159 KT, ISLINGTON 163 KT",
+      "postal":"PRIVATE BAG X3010 PHALABORWA 1390"
+   },
+   {
+      "mine_code":"14519",
+      "mine_name":"PELGRIMSHOOP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"THE SAND HORSE CC",
+      "tel":"(015) 223 2233",
+      "district":"SESHEGO",
+      "province":"LIMPOPO",
+      "farm":"PELGRIMSHOOP 630 LS",
+      "postal":"PO BOX 594 SESHEGO 0742"
+   },
+   {
+      "mine_code":"13803",
+      "mine_name":"PLATISTONE (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PLATISTONE (PTY) LTD",
+      "tel":"073 497 5705",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"SANDSLOOT 236 KR",
+      "postal":"PO BOX 650 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"14967",
+      "mine_name":"PONTES ABELINO",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"A PONTES",
+      "tel":"072 619 4409",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"VOGELSTRUISFONTEIN 472 LQ",
+      "postal":"PO BOX 7011 ONVERWACHT 0557"
+   },
+   {
+      "mine_code":"11694",
+      "mine_name":"PPC - DWAALBOOM",
+      "commodity":[
+         "LIMESTONE, LIME, SHALE FOR CEMENT"
+      ],
+      "type":"OPENCAST",
+      "owner":"PRETORIA PORTLAND CEMENT CO LTD",
+      "tel":"(014) 778 9100",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"AMSTERDAM 277 KP, BETHANIE 218 KP, GANSVLEY 240 KP, JAKHALSKRAAL 239 KP, PARYS 226 KP, SCHOONGEZICHT 238 KP, TUSSENKOMST 241 KP",
+      "postal":"PO BOX 75 DWAALBOOM 0319"
+   },
+   {
+      "mine_code":"14668",
+      "mine_name":"QUATCON CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"QUATCON CC",
+      "tel":"083 525 2475",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"KLIPGAT 348 KQ",
+      "postal":"PO BOX 822 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"14428",
+      "mine_name":"REBONE MINING (PTY) LTD",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"REBONE MINING (PTY) LTD",
+      "tel":"(015) 263 6231",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"FORT KLIPDAM 852 LS 13",
+      "postal":"PO BOX 3901 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"13157",
+      "mine_name":"RED STONE MINING",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"DLA INVESTMENTS",
+      "tel":"(012) 252 3120",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"KLIPPLAATDRIF 767",
+      "postal":"PO BOX 2345 BRITS 0250"
+   },
+   {
+      "mine_code":"11801",
+      "mine_name":"REGISON MINING (PTY) LTD",
+      "commodity":[
+         "MAGNESITE, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ISCOSA (PTY) LTD",
+      "tel":"(011) 908 2511",
+      "district":"GIYANI",
+      "province":"LIMPOPO",
+      "farm":"MUYEXE MAGNESITE MINE BLOCK 1, ROOIKAT, KLEIN LETABA",
+      "postal":"PO BOX 455 ALBERTON 1450"
+   },
+   {
+      "mine_code":"14081",
+      "mine_name":"RHINO MINERALS PTY LTD",
+      "commodity":[
+         "ANDALUSITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMERYS SOUTH AFRICA (PTY) LTD",
+      "tel":"(012) 643 5880",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"GROOTFONTEIN 352 KQ 3",
+      "postal":"PO BOX 8118 CENTURION 0046"
+   },
+   {
+      "mine_code":"14653",
+      "mine_name":"RIVER DEEP CONSTRUCTION",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JH COETZEE",
+      "tel":"082 898 3138",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"EHRENBREITSTEIN 525 LQ 9 OF 3",
+      "postal":"PO BOX 1219 LEPHALALE 0555"
+   },
+   {
+      "mine_code":"12941",
+      "mine_name":"ROOIBERG STONE (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AKASIA ROAD SURFACING (PTY) LTD",
+      "tel":"082 777 7270",
+      "district":"WARMBAD",
+      "province":"LIMPOPO",
+      "farm":"HARTBEESFONTEIN 511 KQ, LEEUPOORT 554 KQ, WARMBAD",
+      "postal":"PO BOX 259 BON ACCORD 0009"
+   },
+   {
+      "mine_code":"14619",
+      "mine_name":"ROYAL GRANITE SUPPLIES RED (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROYAL GRANITE SUPPLIES RED (PTY) LTD",
+      "tel":"072 810 9305",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"MALOKONG 784 LR 1, VRIESLAND 781 LR, VLIEGEKRAAL 783 LR, GRONINGEN 779 LR, VOGELSTRUISFONTEIN 765 LR",
+      "postal":"H.F. VERWOERD STREET NO 5 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"15367",
+      "mine_name":"SAND HAWKS (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"R TLADI",
+      "tel":"(015) 263 6495",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"MATJESKRAAL 1047 LS 1 & RE",
+      "postal":"PO BOX 833 FAUNA PARK 0787"
+   },
+   {
+      "mine_code":"14618",
+      "mine_name":"SANMAR SANDS CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SANMAR SANDS CC",
+      "tel":"(053) 963 1081",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"GROOTKUIL 376 KQ 11 & 12, HAAKDOORNDRIFT 374 KQ 3, ELDORADO 388 LQ",
+      "postal":"PO BOX 1086 SCHWEIZER-RENEKE 2780"
+   },
+   {
+      "mine_code":"14587",
+      "mine_name":"SCENIC ROUTE TRADING 906 CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SCENIC ROUTE TRADING 906 CC",
+      "tel":"(014) 763 2457",
+      "district":"ELLISRAS",
+      "province":"LIMPOPO",
+      "farm":"TOUWFONTEIN 528 LQ 1 & 2",
+      "postal":"PO BOX 1222 LEPHALALE 9551"
+   },
+   {
+      "mine_code":"14772",
+      "mine_name":"SEFATENG CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SEFENTENG (PTY) LTD",
+      "tel":"(011) 591 0500",
+      "district":"LYDENBURG",
+      "province":"LIMPOPO",
+      "farm":"ZWARTKOPPIES 413 KS",
+      "postal":"PO BOX 98549 SLOANE PARK JOHANNESBURG 2152"
+   },
+   {
+      "mine_code":"14943",
+      "mine_name":"SEKOKO COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SEKOKO COAL (PTY) LTD",
+      "tel":"(015) 295 6513",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"HOOIKRAAL 315 LQ REM, MASSENBERG 305 LQ, MINNASVLAKTE 258 LQ, SMITSPAN 306 LQ",
+      "postal":"SUITE 128 POSTNET X9307 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"10585",
+      "mine_name":"SILICON SMELTERS (PTY) LTD",
+      "commodity":[
+         "SILICA, SILICON ALLOYS"
+      ],
+      "type":"OPENCAST",
+      "owner":"FERROATLANTICA (SPAIN)",
+      "tel":"(015) 290 3142",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"WELTEVREDEN 746 LS",
+      "postal":"PO BOX 657 PIETERSBURG 0700"
+   },
+   {
+      "mine_code":"11258",
+      "mine_name":"SILICON SMELTERS (PTY) LTD (WORKS)",
+      "commodity":[
+         "SILICA, SILICON ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"FERROATLANTICA (SPAIN)",
+      "tel":"(015) 290 3079",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"WELTEVREDEN 746 LS",
+      "postal":"PO BOX 657 POLOKWNE 0700"
+   },
+   {
+      "mine_code":"14468",
+      "mine_name":"SMOKEY HILLS PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"PHOKATHABA PLATINUM (PTY) LTD",
+      "tel":"(013) 230 7400",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"MAANDAGSHOEK 254 KT 4",
+      "postal":"POSTNET SUITE 208 PRIVATE BAG X75 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"14586",
+      "mine_name":"SOLMEN (PTY) LTD",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOLMEN (PTY) LTD",
+      "tel":"(015) 263 6461",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"MAKOTOPONG 1200 LS, ONVERWACHT 914 LS 26, ROODEWAL 808 LS, ZANDRIVIERSPOORT 851 LS 12",
+      "postal":"PO BOX 2211 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"12202",
+      "mine_name":"STEYSER SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"STEYSER SAND",
+      "tel":"(015) 575 1234",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"BRAKSPRUIT 370 IP",
+      "postal":"PO BOX 24 ALLDAYS 0909"
+   },
+   {
+      "mine_code":"13337",
+      "mine_name":"STONY LIME (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"STONY LIME (PTY) LTD",
+      "tel":"(014) 536 9900",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"PONY 395 KQ SEC 1",
+      "postal":"PO BOX 20366 PROTEA PARK 0305"
+   },
+   {
+      "mine_code":"13793",
+      "mine_name":"SYFERFONTEIN DOLOMITE (PTY) LTD",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"SYFERFONTEIN DOLOMITE (PTY) LTD",
+      "tel":"(012) 345 4539",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"ERASMUS 529 MS 11",
+      "postal":"PO BOX 30 IRENE 0062"
+   },
+   {
+      "mine_code":"14647",
+      "mine_name":"TAMBOTI PLATINUM (PTY) LTD",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"AFRICAN RAINBOW MINERALS LTD",
+      "tel":"(011) 779 1194",
+      "district":"LYDENBURG",
+      "province":"LIMPOPO",
+      "farm":"BUFFELSHOEK 368 KT, KALKFONTEIN 367 KT",
+      "postal":"PO BOX 786136 CHISLEHURSTON SANDTON 2146"
+   },
+   {
+      "mine_code":"13420",
+      "mine_name":"TERRA BRICKS",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"TERRA BRICKS (PTY) LTD",
+      "tel":"(015) 295 1700",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"ROODEPOORT 744 LS",
+      "postal":"PO BOX 1380 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"13772",
+      "mine_name":"TERRA CLAY",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"TERRA CLAY",
+      "tel":"(015) 295 1600",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"AMATAVA 41 KS",
+      "postal":"PO BOX 1337 MOKOPANE 0600"
+   },
+   {
+      "mine_code":"14152",
+      "mine_name":"THABA CHRONIMET CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CRONIMET CHROME MINING SA (PTY) LTD",
+      "tel":"(011) 958 0544",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"ELANDSKUIL 378 KQ, MIDDELLAAGTE 382 KQ, ROODEDAM 368 KQ, SCHILDPADNEST 385 KQ, ZWARTKOP 369 KQ",
+      "postal":"PO BOX 3319 WITKOPPEN 2068"
+   },
+   {
+      "mine_code":"12908",
+      "mine_name":"THABA CHUEU MINING (PTY) LTD",
+      "commodity":[
+         "SILICA, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FERROATLANTICA",
+      "tel":"(015) 290 3113",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"FORT KLIPDAM 852 LS 10",
+      "postal":"PO BOX 657 POLOKWANE 0700"
+   },
+   {
+      "mine_code":"10635",
+      "mine_name":"THABAZIMBI IRON ORE MINE",
+      "commodity":[
+         "IRON ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KUMBA IRON ORE LTD",
+      "tel":"(014) 777 3025",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"BUFFELSHOEK 351 KQ, DONKERPOORT 344 KQ, KWAGGASHOEK 345 KQ, WACHTEENBIETJESDRAAI 750 KQ",
+      "postal":"PRIVATE BAG X534 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"15428",
+      "mine_name":"TIVANI (PTY) LTD",
+      "commodity":[
+         "TITANIUM CONCENTRATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"FERROX GROUP LTD (BVI)",
+      "tel":"(012) 754 1408",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"YORK 656 LT, MOIM 654 LT, MOHLABA'S LOCATION 567 LT RE",
+      "postal":"PO BOX 73031 LYNNWOOD RIDGE 0040"
+   },
+   {
+      "mine_code":"13921",
+      "mine_name":"TROPICALE JOINT VENTURE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"THE GRANGE (TROPICALE) 471 LS",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"15356",
+      "mine_name":"TSHEPONG CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CORRIDOR MINING RESOURCES (PTY) LTD",
+      "tel":"(015) 291 3961",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"TWYFELAAR 119 KT",
+      "postal":"PO BOX 1112 LADANA 0704"
+   },
+   {
+      "mine_code":"11375",
+      "mine_name":"TSHIKONDENI COAL MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(015) 966 5000",
+      "district":"THOHOYANDOU",
+      "province":"LIMPOPO",
+      "farm":"TSHIKONDENI 88 MT",
+      "postal":"PO BOX 50 TSHIKONDENI 0959"
+   },
+   {
+      "mine_code":"13598",
+      "mine_name":"TWICKENHAM PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(013) 213 9170",
+      "district":"SEKHUKHUNELAND",
+      "province":"LIMPOPO",
+      "farm":"HACKNEY 116 KT, ROKA MASHABELA 116 KT, SWAZI MNYAMANE AND GA MAKGOPA 114 KT",
+      "postal":"PO BOX 1035 DRIEKOP 1129"
+   },
+   {
+      "mine_code":"10554",
+      "mine_name":"UNION SECTION JOINT VENTURE (COMBINED)",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SODIUM SULPHATE, SULPHUR"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO PLATINUM LTD",
+      "tel":"(014) 786 1377",
+      "district":"THABAZIMBI",
+      "province":"LIMPOPO",
+      "farm":"BRAKSPRUIT 299 JQ, HAAKDORING 6 JQ, HOEDSPRUIT 298 JQ, KLIPFONTEIN 300 JQ, KLIPGAT 281 JQ, PAARDEKRAAL 279 JQ, RUSTENBURG TOWNLANDS 272 JQ, TURFBULT 404 KQ, TURFFONTEIN 302 JQ, WATERVAL 303 JQ, ZWARTKLIP 405 KQ, FARM 504 KG",
+      "postal":"PRIVATE BAG X351 SWARTKLIP 0370"
+   },
+   {
+      "mine_code":"12212",
+      "mine_name":"VAN GILLS PLANT HIRE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAN GILLS PLANT HIRE",
+      "tel":"(014) 763 3380",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"RIETSPRUIT 257 LQ 8",
+      "postal":"PO BOX 148 ELLISRAS 0555"
+   },
+   {
+      "mine_code":"13856",
+      "mine_name":"VANMAG MINE",
+      "commodity":[
+         "IRON ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"VANADIUM AND MAGNETITE EXPL & DEV",
+      "tel":"(021) 861 3140",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"COMMANDODRIFT 228 KR, GEZOND 235 KR, INHAMBANE 802 LR, MOLENDRAAI 811 LR, MOZAMBIQUE 807 LR 2",
+      "postal":"PO BOX 7043 STELLENBOSCH 7599"
+   },
+   {
+      "mine_code":"14752",
+      "mine_name":"VELE COAL MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"COAL OF AFRICA LTD",
+      "tel":"762 979 241",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"BERGEN OP ZOOM 124 MS, OVERVLAKTE 125 MS, VOORSPOED 836 MS",
+      "postal":"PO BOX 468 MUSINA 0090"
+   },
+   {
+      "mine_code":"13024",
+      "mine_name":"VHAVENDA BRICKWORKS (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"VHAVENDA BRICKWORKS (PTY) LTD",
+      "tel":"(015) 964 1619",
+      "district":"THOHOYANDOU",
+      "province":"LIMPOPO",
+      "farm":"LWAMONDO STAMOWERHEID 252 MT",
+      "postal":"PO BOX 485 LOUIS TRICHARDT 0920"
+   },
+   {
+      "mine_code":"14260",
+      "mine_name":"VHEMBE DISTRICT - LANDBOU",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"OPENCAST",
+      "owner":"VHEMBE DISTRICT COLOURSTONE MINING CO-OP",
+      "tel":"(015) 534 3372",
+      "district":"MESSINA",
+      "province":"LIMPOPO",
+      "farm":"LANDBOU 171 MS",
+      "postal":"PO BOX 1215 MUSINA 0900"
+   },
+   {
+      "mine_code":"14119",
+      "mine_name":"VHEMBE DISTRICT - UITENPAS",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"OPENCAST",
+      "owner":"VHEMBE DISTRICT COLOURSTONE MINING CO-OP",
+      "tel":"(015) 534 3372",
+      "district":"MESSINA",
+      "province":"LIMPOPO",
+      "farm":"UITENPAS 2 MT REM EXT",
+      "postal":"PO BOX 1215 MUSINA 0900"
+   },
+   {
+      "mine_code":"13909",
+      "mine_name":"WATER VAAL 669 LS",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MODUBI'S BRICK MASTER",
+      "tel":"(015) 223 5884",
+      "district":"SEKGOSESE",
+      "province":"LIMPOPO",
+      "farm":"WATER VAAL 669 LS",
+      "postal":"1598 ZONE I SESHEGO 0742"
+   },
+   {
+      "mine_code":"13788",
+      "mine_name":"WATERBERG CBM PILOT PLANT",
+      "commodity":[
+         "NATURAL GAS"
+      ],
+      "type":"SURFACE",
+      "owner":"ANGLO COAL",
+      "tel":"(014) 940 0915",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"WILDEBEESTPAN 173 LQ",
+      "postal":"PRIVATE BAG X9 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"11576",
+      "mine_name":"WG WEARNE - MAKHADO",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 459 4500",
+      "district":"SOUTPANSBERG",
+      "province":"LIMPOPO",
+      "farm":"RIETVLEI 130 LT 19 & 20",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"10299",
+      "mine_name":"WG WEARNE - TZANEEN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 459 4500",
+      "district":"LETABA",
+      "province":"LIMPOPO",
+      "farm":"LEDZEE 559 LT",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"10455",
+      "mine_name":"WG WEARNE LTD - POLOKWANE QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"WG WEARNE (PTY) LTD",
+      "tel":"(011) 459 4500",
+      "district":"PIETERSBURG",
+      "province":"LIMPOPO",
+      "farm":"RIETFONTEIN 743 LS, ROODEPOORT 744 LS 64",
+      "postal":"PO BOX 1674 CRESTA 2118"
+   },
+   {
+      "mine_code":"13939",
+      "mine_name":"ZANDRIVIER MINE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZANDRIVIER MINE",
+      "tel":"(014) 755 4374",
+      "district":"WATERBERG",
+      "province":"LIMPOPO",
+      "farm":"ZANDRIVIER 138 KR",
+      "postal":"PO BOX 452 VAALWATER 0530"
+   },
+   {
+      "mine_code":"13579",
+      "mine_name":"ZEBEDIELA BRICKS MINE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZEBEDIELA BRICKS MINING",
+      "tel":"(015) 642 1300",
+      "district":"POTGIETERSRUS",
+      "province":"LIMPOPO",
+      "farm":"PLATNEK 108 KS, ROOIBOSCHBAAK 107 KS",
+      "postal":"PO BOX 1434 MOKOPANE 0600"
+   }
+]

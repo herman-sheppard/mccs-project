@@ -1,0 +1,3292 @@
+[
+   {
+      "mine_code":"15034",
+      "mine_name":"AFRIMAT - HARTEBEESFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT LTD",
+      "tel":"(023) 342 6026",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"HARTEBEESFONTEIN 538 JR 3",
+      "postal":"PO BOX 505 WORCESTER 6850"
+   },
+   {
+      "mine_code":"10739",
+      "mine_name":"AFRISAM - ZEEKOEWATER",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRISAM (SA) (PTY) LTD",
+      "tel":"(011) 670 5997",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"ZEEKOEWATER 311 JS 167",
+      "postal":"PO BOX 6367 WELTEVREDENPARK 1715"
+   },
+   {
+      "mine_code":"14575",
+      "mine_name":"AFRO MINERAL TRADING AG",
+      "commodity":[
+         "SILICON ALLOYS, MANGANESE ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"RENOVA MANGANESE INVESTMENTS",
+      "tel":"+41 41 711 5988 +41 41 711 5989",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSFONTEIN 309 JS",
+      "postal":"BAARERSTRASSE 94 CH-6300 ZUG SWITZERLAND 0000"
+   },
+   {
+      "mine_code":"14753",
+      "mine_name":"ANGLO INYOSI COAL - ZIBULO COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANGLO INYOSI COAL (PTY) LTD",
+      "tel":"(013) 643 4400",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"ZONDAGSFONTEIN 253 IR, RIETVLEI 64 IS",
+      "postal":"PRIVATE BAG X7275 WITBANK 1035"
+   },
+   {
+      "mine_code":"10282",
+      "mine_name":"ANNESLEY ANDALUSITE MINE",
+      "commodity":[
+         "ANDALUSITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMERYS SA (PTY) LTD",
+      "tel":"(012) 643 5880",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"ANNESLEY 109 KT, HOLFONTEIN 126 KT, MORGENSON 125 KT",
+      "postal":"PO BOX 8118 CENTURION 0046"
+   },
+   {
+      "mine_code":"15234",
+      "mine_name":"AQUAVAL LANDGOED CC T/A AFRISAND AND STONE",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARTIN FOURIE GROUP",
+      "tel":"086 111 1116",
+      "district":"BALFOUR",
+      "province":"MPUMALANGA",
+      "farm":"MODDERFONTEIN 562 IR",
+      "postal":"PO BOX 818 BALFOUR 2410"
+   },
+   {
+      "mine_code":"10013",
+      "mine_name":"ARNOT COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(013) 297 8612",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BLESBOKFONTEIN 487 JS, BLESBOKLAAGTE 488 JS, BOSMANSSPRUIT 459 JS, BRAAMSPRUIT 465 JS, GROOTLAAGTE 449 JS, KLIPPAN 452 JS, KOPERMIJN 491 JS, KROMDRAAI 486 JS, KWAGGAFONTEIN 460 JS, LEEUPAN 494 JS, MOOIFONTEIN 448 JS, NOOITGEDACHT 493 JS",
+      "postal":"PRIVATE BAG X3 RIETKUIL 1097"
+   },
+   {
+      "mine_code":"11272",
+      "mine_name":"ARTHUR TAYLOR COLLIERY - (ATC)",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE OPERATIONS SA",
+      "tel":"(013) 687 8247",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"BLESBOKFONTEIN 31 IS",
+      "postal":"PRIVATE BAG X7265 WITBANK 1035"
+   },
+   {
+      "mine_code":"12659",
+      "mine_name":"ARTHUR TAYLOR OPENCAST MINE - (ATCOM)",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENCORE OPERATIONS SA",
+      "tel":"(013) 687 8235",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KROMFONTEIN 30 IS 3",
+      "postal":"PRIVATE BAG X7265 WITBANK 1035"
+   },
+   {
+      "mine_code":"13332",
+      "mine_name":"ASA METALS - FERROCHROME SMELTER",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"ASA METALS (PTY) LTD",
+      "tel":"(013) 230 7674",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MOOIHOEK 255 KT",
+      "postal":"PO BOX 169 BURGERSFORT 1150"
+   },
+   {
+      "mine_code":"11290",
+      "mine_name":"ASSMANG CHROME - MACHADODORP WORKS",
+      "commodity":[
+         "CHROMIUM ALLOYS, MANGANESE ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"AFRICAN RAINBOW MINERALS & ASSORE LTD",
+      "tel":"(013) 256 5000",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PO BOX 152 MACHADODORP 1170"
+   },
+   {
+      "mine_code":"14020",
+      "mine_name":"ATTACLAY (PTY) LTD",
+      "commodity":[
+         "ATTAPULGITE, BENTONITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"ELBROC MINING PRODUCTS (PTY) LTD",
+      "tel":"(011) 392 4025",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MAANDAGSHOEK 254 KT",
+      "postal":"PO BOX 10216 EDENGLEN 1613"
+   },
+   {
+      "mine_code":"14968",
+      "mine_name":"B & E INTERN (PTY) LTD - DWAALFONTEIN",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RAUBEX GROUP LIMITED",
+      "tel":"(011) 966 4300",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DWAALFONTEIN 565 JR 2",
+      "postal":"PO BOX 26730 EAST RAND 1462"
+   },
+   {
+      "mine_code":"14863",
+      "mine_name":"B & E INTERNATIONAL (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HOWARD QUARRY",
+      "tel":"(011) 966 4300",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DOORNRUG 302 JS 30",
+      "postal":"PO BOX 26730 EAST RAND 1462"
+   },
+   {
+      "mine_code":"15348",
+      "mine_name":"BANKFONTEIN",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ROAN COAL (PTY) LTD",
+      "tel":"(013) 004 0127",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"BANKFONTEIN 215 IS 7",
+      "postal":"PO BOX 140 BETHAL 2310"
+   },
+   {
+      "mine_code":"10037",
+      "mine_name":"BARBROOK MINES LIMITED",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EASTERN GOLDFIELDS SA (PTY) LTD",
+      "tel":"(013) 753 3046",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"MISTLAND 329 JU, RHINELANDS 330 JU, STATE LAND LOT 3, WAALHEUWEL 360 JU, WHANGCENE 336 JU",
+      "postal":"PO BOX 820 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"15224",
+      "mine_name":"BAUBA A HLABIRWA MINING INVESTMENTS (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BAUBA PLATINUM",
+      "tel":"(011) 699 5720",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MOEIJELYK 412 KS",
+      "postal":"PO BOX 1658 WITKOPPEN 2068"
+   },
+   {
+      "mine_code":"10042",
+      "mine_name":"BELFAST GRANITE QUARRIES (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"DE SUIKERBOSCHKOP 361 JS 25, BLACK GRANITE 968",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"13822",
+      "mine_name":"BELFAST JADE MINE",
+      "commodity":[
+         "LIMESTONE, LIME"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN JADE MINING (PTY) LTD",
+      "tel":"(012) 803 0400",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"HARTEBEESTSPRUIT 361 JT",
+      "postal":"PO BOX 34144 GLENSTANTIA 0010"
+   },
+   {
+      "mine_code":"13266",
+      "mine_name":"BELFAST SILICA MINE (PTY) LTD",
+      "commodity":[
+         "SILICA, AGGREGATE"
+      ],
+      "type":"SURFACE",
+      "owner":"MALCOLM CLAASE",
+      "tel":"(012) 346 2546",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 385 JS 1, LEEUWKLIP",
+      "postal":"PO BOX 1104 BELFAST 1100"
+   },
+   {
+      "mine_code":"11886",
+      "mine_name":"BJ VAN DER MERWE BRICKS NO 2",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BJ VAN DER MERWE BRICKS NO 2",
+      "tel":"(013) 652 9993",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KROMDRAAI 279 SECTION H 10 11",
+      "postal":"PO BOX 1246 WITBANK 1035"
+   },
+   {
+      "mine_code":"13046",
+      "mine_name":"BLACK WATTLE COLLIERY (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"BISCHI MINING EXPLORATION LTD",
+      "tel":"(013) 246 9013",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"MIDDELBURG TOWNLANDSJS REM",
+      "postal":"PO BOX 1704 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13899",
+      "mine_name":"BLUE RIDGE PLATINUM",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SIBANYE PLATINUM",
+      "tel":"(014) 536 4118",
+      "district":"GROBLERSDAL",
+      "province":"MPUMALANGA",
+      "farm":"BLAAUWBANK 168 JS",
+      "postal":"PO BOX 1533 GROBLERSDAL 0470"
+   },
+   {
+      "mine_code":"14801",
+      "mine_name":"BOOYSENDAL",
+      "commodity":[
+         "PGM, GOLD, CHROME ORE, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"NORTHAM PLATINUM LTD",
+      "tel":"(014) 784 3200",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"BOOYSENDAL 43 JT, BUTTENSHOPE 51 JT, DER BROCHEN 7 JT, DRAAIKRAAL 48 JT, HEBRON 5 JT, HERMANSDAL 3 JT, JOHANNESBURG 45 JT, KLIPRIVIER 73 JT, PIETERSBURG 44 JT, SHEEPRUN 50 JT, UYSEDOORNS 47 JT",
+      "postal":"PO BOX 441 THABAZIMBI 0380"
+   },
+   {
+      "mine_code":"11596",
+      "mine_name":"BOSJESSPRUIT MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"BOSJESSPRUIT 291 IS SUB 32, GENADESFONTEIN 334 IS",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"14880",
+      "mine_name":"BRAKFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"TEGETA EXPLORATION & GOLDRIDGE TRADING",
+      "tel":"(011) 430 7640",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"BRAKFONTEIN 264 IR 17 & 27",
+      "postal":"POSTNET SUITE 458 PRIVATE BAG X9 BENMORE 2010"
+   },
+   {
+      "mine_code":"11475",
+      "mine_name":"BRANDSPRUIT MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"BRANDSPRUIT 318 IS SUB 3",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"14184",
+      "mine_name":"BURNSTONE GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SOUTH GOLD EXPLORATION (PTY) LTD",
+      "tel":"(017) 773 9376",
+      "district":"BALFOUR",
+      "province":"MPUMALANGA",
+      "farm":"BALFOUR 557 IR, BANTOESDORP 555 IR, BRAKFONTEIN 513 IR, RIETBULT ESTATES 505 IR, VANOLDERSKOP 547 IR, VLAKFONTEIN 556 IR",
+      "postal":"PO BOX 78182 SANDTON 2146"
+   },
+   {
+      "mine_code":"13937",
+      "mine_name":"CLAU-CLAU DAM",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SIBAMBENE PROJECT CC",
+      "tel":"(013) 796 4145",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"MBOMBELA STATELAND",
+      "postal":"PO BOX 5935 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"13116",
+      "mine_name":"CLEWER SAND",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CLEVER SAND PARTNERSHIP",
+      "tel":"(013) 649 9902",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"HARTEBEESTLAAGTE 325 JS 40",
+      "postal":"PO BOX 321 RIVERCRESCENT 1042"
+   },
+   {
+      "mine_code":"11895",
+      "mine_name":"COROBRIK - DUVHA & CORO II",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DUVHA KRAGSTASIE 337 JS 3, NAAUWPOORT 335 JS 83, SPEEKFONTEIN 336 JS 25",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"13477",
+      "mine_name":"COROBRIK - EAST BRICK",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRICK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"RIETFONTEIN 286 JS",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"13254",
+      "mine_name":"CORRIDOR FARM LOUW MINING",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"CORRIDOR STEENGROEF (EDMS) BPK",
+      "tel":"(013) 751 1213",
+      "district":"WITRIVIER",
+      "province":"MPUMALANGA",
+      "farm":"LOUW 93 JU",
+      "postal":"PO BOX 3458 WITRIVIER 1240"
+   },
+   {
+      "mine_code":"14387",
+      "mine_name":"CRAIGIEBURN CLAY MINE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"BUSHBUCKRIDGE CLAY BRICKS (PTY) LTD",
+      "tel":"(013) 755 8500",
+      "district":"PELGRIMSRUS",
+      "province":"MPUMALANGA",
+      "farm":"ARTHURSSEAT 214 KU PTN, CRAIGIEBURN 462 KT PTN",
+      "postal":"PO BOX 9103 SANPARK 1203"
+   },
+   {
+      "mine_code":"15421",
+      "mine_name":"DE GROOTE BOOM CHROME MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"DE GROOTE BOOM MINERALS (PTY) LTD",
+      "tel":"(082 906 3299",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DE GROOTEBOOM 373 KT",
+      "postal":"POSTNET SUITE 320 PRIVATE BAG X06 WATERKLOOF 0145"
+   },
+   {
+      "mine_code":"13561",
+      "mine_name":"DELMAS COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"KUYASA MINING",
+      "tel":"(013) 665 7030",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"BRAKFONTEIN 264 IR, DIEPLAAGTE 262 IR, ENKELDEBOSCH 391 IR, HAWERKLIP 265 IR, MIDDLEBURG 266 IR, STEENKOOLSPRUIT 302 IR",
+      "postal":"PRIVATE BAG X0002 DELMAS 2210"
+   },
+   {
+      "mine_code":"10856",
+      "mine_name":"DILOKONG CHROME MINE (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ASA METALS (PTY) LTD",
+      "tel":"(013) 230 7674",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MOOIHOEK 255 KT",
+      "postal":"PO BOX 169 BURGERSFORT 1150"
+   },
+   {
+      "mine_code":"15290",
+      "mine_name":"DINGWELL",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRIMAT AGGREGATE (TRADING) (PTY) LTD",
+      "tel":"(023) 342 6026",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"DINGWELL 276 JT",
+      "postal":"PO BOX 505 WORCESTER 6849"
+   },
+   {
+      "mine_code":"13071",
+      "mine_name":"DOORNRUG COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DOORNRUG 302 JS 11 OF 3, RONDEBULT 303 JS RE",
+      "postal":"SUITE MW113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13308",
+      "mine_name":"DORSTFONTEIN COAL MINES (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO COAL CENTRAL (PTY) LTD",
+      "tel":"(011) 441 6800",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"DORSTFONTEIN",
+      "postal":"PO BOX 2344 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"13419",
+      "mine_name":"DROOGVALLEI COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"COASTAL FUELS",
+      "tel":"(011) 705 2241",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"DROOGVALLEI 41 IT",
+      "postal":"PO BOX 194 WITKOPPEN 2068"
+   },
+   {
+      "mine_code":"13444",
+      "mine_name":"DWARSRIVIER MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST, SURFACE, UNDERGROUND",
+      "owner":"ASSMANG CHROME",
+      "tel":"(013) 230 5300",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DWARSRIVIER 372 KT",
+      "postal":"PO BOX 567 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"10727",
+      "mine_name":"EASTERN CHROME MINES",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SAMANCOR CHROME LTD",
+      "tel":"(013) 230 7199",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DOORNBOSCH 294 KT, DWARS RIVIER 372 KT 2, GROOTBOOM 336 KT, HENDRIKSPLAATS 281 KT, ONVERWACHT 292 KT, TWEEFONTEIN 360 KT, WINTERVELD 283 KT, WINTERVELD 293 KT",
+      "postal":"PO BOX 3 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"13794",
+      "mine_name":"EASTSIDE COAL CO (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLACK GOLD COAL ESTATES (PTY) LTD",
+      "tel":"(013) 690 3131",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PO BOX 3185 WITBANK 1035"
+   },
+   {
+      "mine_code":"14652",
+      "mine_name":"ELANDSFONTEIN COLLIERY - SUDOR",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SUDOR COAL (PTY) LTD",
+      "tel":"(013) 690 3316",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSFONTEIN 75 IS",
+      "postal":"PRIVATE BAG X7260 WITBANK 1035"
+   },
+   {
+      "mine_code":"12994",
+      "mine_name":"ELANDSFONTEIN COLLIERY (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANKER COAL CO (PTY) LTD",
+      "tel":"(013) 659 9900",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSFONTEIN 309 JS 14",
+      "postal":"PO BOX 4929 MIDDLEBURG 1050"
+   },
+   {
+      "mine_code":"14455",
+      "mine_name":"ELEPHANTS RIVER GRANITE QUARRY (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DSJATE 249 KT, FERNKLOOF 539 KS",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"11296",
+      "mine_name":"EMALAHLENI SMELTERS",
+      "commodity":[
+         "SILICON ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"SILICON SMELTERS -(FERROATLANTICA GROUP)",
+      "tel":"(013) 690 8212",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PO BOX 214 WITBANK 1035"
+   },
+   {
+      "mine_code":"13328",
+      "mine_name":"ENERGY COAL SA",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUT 32",
+      "tel":"(011) 376 9111",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PO BOX 61820 MARSHALLTOWN 2107"
+   },
+   {
+      "mine_code":"13768",
+      "mine_name":"ENG & OP SERV (CENTRAL WORKSHOP/OTS/MINING SERVICES)",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"BRANDSPRUIT 318 IS SUB 3",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"15252",
+      "mine_name":"ERA BRICKS - DELMAS CLAY MINE",
+      "commodity":[
+         "SAND NATURAL, CLAY BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ERA STENE (PTY) LTD",
+      "tel":"083 450 3958",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"RIETVALEI 195 IR 9",
+      "postal":"PO BOX 25001 MONUMENT PARK 0105"
+   },
+   {
+      "mine_code":"13806",
+      "mine_name":"ERMELO STENE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"ERMELO STENE",
+      "tel":"(017) 811 3951",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"WITBANK 262 IT PLOT 27",
+      "postal":"PO BOX 725 ERMELO 2350"
+   },
+   {
+      "mine_code":"10197",
+      "mine_name":"ESKAY CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"ESKAY CRUSHERS (PTY) LTD",
+      "tel":"(017) 826 0055",
+      "district":"PIET RETIEF",
+      "province":"MPUMALANGA",
+      "farm":"WELVERDIEND 148 HT",
+      "postal":"PO BOX 320 PIET RETIEF 2380"
+   },
+   {
+      "mine_code":"13765",
+      "mine_name":"EVANDER 5 SHAFT",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PAN AFRICAN RESOURCES",
+      "tel":"(017) 620 1604",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"DRIEFONTEIN 137 IS 14",
+      "postal":"PRIVATE BAG X1012 EVANDER 2280"
+   },
+   {
+      "mine_code":"13766",
+      "mine_name":"EVANDER 7 SHAFT",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PAN AFRICAN RESOURCES",
+      "tel":"(017) 620 1604",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"WINKELHAAK 135 IS 37",
+      "postal":"PRIVATE BAG X1012 EVANDER 2280"
+   },
+   {
+      "mine_code":"13767",
+      "mine_name":"EVANDER 8 SHAFT",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"PAN AFRICAN RESOURCES",
+      "tel":"(017) 620 1604",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"LEEUWSPRUIT 134 IS REM",
+      "postal":"PRIVATE BAG X1012 EVANDER 2280"
+   },
+   {
+      "mine_code":"13797",
+      "mine_name":"EVEREST PLATINUM MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST, SURFACE, UNDERGROUND",
+      "owner":"AQUARIUS PLATINUM SOUTH AFRICA (PTY) LTD",
+      "tel":"(014) 536 4118",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DE KAFFERSKRAAL 53 JT, HOOGLAND 38 JT, STERKFONTEIN 52 JT, STERKFONTEIN 749 JT",
+      "postal":"PO BOX 1093 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"12895",
+      "mine_name":"EXXARO COAL LEEUWPAN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"EXXARO RESOURCES LTD",
+      "tel":"(013) 665 7613",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"KENBAR 257 IR, WITKLIP",
+      "postal":"PO BOX 2353 DELMAS 2210"
+   },
+   {
+      "mine_code":"10036",
+      "mine_name":"FAIRVIEW GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"BARBERTON MINES (PTY) LTD",
+      "tel":"(013) 712 8500",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"BICKENHALL 346 JU 120 123 14, BRAMER EAST 314 JU, DYCEDALE 368 JU, PROSPECTING CLAIMS 124 134 & 140",
+      "postal":"PO BOX 121 BARBERTON 1300"
+   },
+   {
+      "mine_code":"15221",
+      "mine_name":"FENTONIA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"FENTONIA COLLIERY (PTY) LTD",
+      "tel":"(013) 656 3609",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"DORSTFONTEIN 71 IS 9",
+      "postal":"PO BOX 13643 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"11254",
+      "mine_name":"FERROMETALS LTD",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"INTERNATION MINERAL RESOURCES BV",
+      "tel":"(013) 693 7403",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DRIEFONTEIN PTN 9",
+      "postal":"PRIVATE BAG X7228 WITBANK 1035"
+   },
+   {
+      "mine_code":"12996",
+      "mine_name":"FORZANDO COAL MINES (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO COAL CENTRAL (PTY) LTD",
+      "tel":"(011) 441 6800",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"BANKPAN 225 IS, WELTEVREDEN 193 IS",
+      "postal":"PO BOX 2344 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"11404",
+      "mine_name":"FRIK GEYSER KLIP&SAND & MACHERO QUARR",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"FRIK GEYSER KLIP&SAND & MACHERO QUARRIES",
+      "tel":"(013) 262 3388",
+      "district":"GROBLERSDAL",
+      "province":"MPUMALANGA",
+      "farm":"LOSKOP NORTH 12 JS 1096 & 153",
+      "postal":"PO BOX 355 GROBLERSDAL 0470"
+   },
+   {
+      "mine_code":"10181",
+      "mine_name":"GALAXY GOLD REEFS (PTY) LTD - (PREVIOUSLY AGNES GOLD MINING)",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GALAXY GOLD",
+      "tel":"087 351 8304",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"AMEIDE 717 JT, OORSCHOT 692 JT",
+      "postal":"PRIVATE BAG X1605 BARBERTON 1300"
+   },
+   {
+      "mine_code":"13330",
+      "mine_name":"GERMAR TRUST H/A RIETFONTEIN RIVIERSA",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"GERMAR TRUST",
+      "tel":"(013) 282 7816",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"RIETFONTEIN 314 JS REM OF 2",
+      "postal":"PO BOX 416 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"16272",
+      "mine_name":"GLISA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"EYESIZWE COAL (PTY) LTD",
+      "tel":"(013) 253 7300",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"PAARDEPLAATS 380 JT 1-5 & 24",
+      "postal":"PO BOX 321 BELFAST 1100"
+   },
+   {
+      "mine_code":"11439",
+      "mine_name":"GOEDEHOOP COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANGLO COAL",
+      "tel":"(013) 687 6306",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ENKELDEBOSCH 20 IS, GOEDEHOOP 46 IS, HAASFONTEIN 28 IS",
+      "postal":"PRIVATE BAG X410 VANDYKSDRIF 2245"
+   },
+   {
+      "mine_code":"12913",
+      "mine_name":"GOEDEHOOP STENE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"GOEDEHOOP STENE",
+      "tel":"(013) 297 1719",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"GOEDEHOOP 498 JS",
+      "postal":"PO BOX 382 CAROLINA 1185"
+   },
+   {
+      "mine_code":"13599",
+      "mine_name":"GOEDGEVONDEN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GOEDGEVONDEN COLLIERY",
+      "tel":"(013) 643 4390",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"BLESBOKFONTEIN 31 IS, BOSCHMANSFONTEIN 12 IS, GOEDGENVONDEN 10 IS, GROENFONTEIN 331 IS, KLEINKOPJE 15 IS, KLEINZUIKERBOSPLAAT 5 IS, KLIPLAATJIE 32 IS, KLIPPAN 111 IS, KLIPPOORTJIE 32 IS, OGIESFONTEIN 4 IS, TWEEFONTEIN 13 IS, ZAAIWATER 11 IS",
+      "postal":"PRIVATE BAG X17 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"12765",
+      "mine_name":"GOLFVIEW MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANKER COAL AND MINERAL HOLDINGS",
+      "tel":"(017) 801 1933",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"BUHRMANNS TAFELKOP 135 IT 7, DRIEHOEK 273 IS, SPITSKOP 276 IS 64 & 31",
+      "postal":"PO BOX 4929 MIDDLEBURG 1050"
+   },
+   {
+      "mine_code":"14218",
+      "mine_name":"GRASPAN LEEUWFONTEIN LAKESIDE BANKFONTEIN & M'BURG TOWNLANDS",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SHANDUKA COAL (PTY) LTD",
+      "tel":"(013) 244 8017",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"BANKFONTEIN 216 IR, LEEUWFONTEIN 219 IR, MIDDELBURG, RIETFONTEIN, UITKYK, WELGELEGEN 221 IR",
+      "postal":"SUITE MW113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"10906",
+      "mine_name":"GREENSIDE COLLIERY - DIV OF SA COAL ESTATES",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLO COAL MINE - DIV OF ANGLO OP LTD",
+      "tel":"(011) 638 2221",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"GROENFONTEIN 331 JS, VAALKRANS 29 IS",
+      "postal":"PRIVATE BAG X7275 WITBANK 1035"
+   },
+   {
+      "mine_code":"15145",
+      "mine_name":"GUBAVU MINING PROJECTS CC",
+      "commodity":[
+         "SEMI PRECIOUS STONES"
+      ],
+      "type":"OPENCAST",
+      "owner":"GUBAVU MINING PROJECTS CC",
+      "tel":"824 437 974",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"HANDS UP BABERTON",
+      "postal":"PO BOX 72 KARINO 1204"
+   },
+   {
+      "mine_code":"14794",
+      "mine_name":"HAKHANO COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMTHOMBO RESOURCES (PTY) LTD",
+      "tel":"(011) 783 7996",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BRUMMERSHEIM 409 JS",
+      "postal":"PO BOX 2632 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"13799",
+      "mine_name":"HALFGEWONNEN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUDOR COAL (PTY) LTD",
+      "tel":"(013) 690 3316",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HALFGEWONNEN 190 IS",
+      "postal":"PRIVATE BAG X7260 WITBANK 1035"
+   },
+   {
+      "mine_code":"13861",
+      "mine_name":"HELENA MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"SURFACE, UNDERGROUND",
+      "owner":"CLENCORE",
+      "tel":"(013) 230 6600",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"THORNCLIFFE 374 KT 1",
+      "postal":"PO BOX 403 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"10911",
+      "mine_name":"HIGHVELD CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"P BOER (EDMS) BPK J/V BOERBOU BROERS",
+      "tel":"(017) 712 1381",
+      "district":"STANDERTON",
+      "province":"MPUMALANGA",
+      "farm":"RIVERLOO, VERBLYDEN 387 IS",
+      "postal":"PO BOX 19 STANDERTON 2430"
+   },
+   {
+      "mine_code":"10275",
+      "mine_name":"HIGHVELD STEEL & VANADIUM - STEEL",
+      "commodity":[
+         "VANADIUM CHEMICALS"
+      ],
+      "type":"SURFACE",
+      "owner":"HIGHVELD STEEL & VANADIUM - CORP LTD",
+      "tel":"(013) 690 9094",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"SCHOONGEZICHT 308 JS 29 & 93",
+      "postal":"PO BOX 111 WITBANK 1035"
+   },
+   {
+      "mine_code":"13810",
+      "mine_name":"HONINGKRANTS SAND",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"BALMORAL CRUSHERS (PTY) LTD",
+      "tel":"(011) 826 6334",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"HONINGKRANTZ 536 JR 1",
+      "postal":"PO BOX 8426 ELANDSFONTEIN 0299"
+   },
+   {
+      "mine_code":"13415",
+      "mine_name":"ILANGA COAL MINES (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUTH AFRICAN COAL MINING HOLDINGS LTD",
+      "tel":"(017) 001 7500",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"KLEINFONTEIN 49 IS",
+      "postal":"PO BOX X9013 EMERLO 2350"
+   },
+   {
+      "mine_code":"13877",
+      "mine_name":"IMPALA IMPERIAL",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"MAPOCHSGRONDE 500 JQ 432 TO 436",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"15261",
+      "mine_name":"IMPUMELELO COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"RASKOP (GREYLINGSTAD) 677 IR",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"15028",
+      "mine_name":"INTIBANE COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"WESCOAL HOLDINGS LTD",
+      "tel":"(011) 954 2721",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"VLAKVARKFONTEIN 213 IR 16",
+      "postal":"PO BOX 1020 PAARDEKRAAL 1752"
+   },
+   {
+      "mine_code":"14301",
+      "mine_name":"INYANDA COAL MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"EXXARO RESOURCES LIMITED",
+      "tel":"(013) 652 8513",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KALBASFONTEIN 284 JS PTN 21",
+      "postal":"PO BOX 2023 WITBANK 1034"
+   },
+   {
+      "mine_code":"13728",
+      "mine_name":"ISIBONELO COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"ANGLO OPERATIONS LTD",
+      "tel":"(017) 620 2700",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"AANGEWYS 81 IS, ALEXANDER 102 IS, BOSCHMANSKRAAL 113 IS, BRAKFONTEIN 117 IS, REITFONTEIN 101 IS, WITBANK 80 IS",
+      "postal":"PRIVATE BAG X701 TRICHARDT 2300"
+   },
+   {
+      "mine_code":"15134",
+      "mine_name":"IYANGA - KLIPFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"IYANGA MINING (PTY) LTD",
+      "tel":"(013) 696 1007",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 568 JR",
+      "postal":"PO BOX 439 WITBANK 1035"
+   },
+   {
+      "mine_code":"14578",
+      "mine_name":"JDL KEET",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"JDL KEET",
+      "tel":"822 107 486",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KALBASFONTEIN 284 JS PTN OF 2",
+      "postal":"PO BOX 13467 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"14612",
+      "mine_name":"JUST COAL (BANKFONTEIN 48 JOINT VENTU",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"JUST COAL CC",
+      "tel":"(013) 282 5742",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BANKFONTEIN 375 JS 48",
+      "postal":"PO BOX 22928 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"15455",
+      "mine_name":"KAALPLAATS COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANALISA MINING AND INDUSTRIAL SERVICES CC",
+      "tel":"087 809 0051",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"KAALPLAATS 453 JS",
+      "postal":"16 CUL DE SAC KESTELL STREET WITBANK 1035"
+   },
+   {
+      "mine_code":"15044",
+      "mine_name":"KANGALA",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UNIVERSAL COAL ENERGY HOLDINGS SA (PTY) LTD",
+      "tel":"081 013 1729",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"WOLWENFONTEIN 244 IR",
+      "postal":"BO BOX 2269 DELMAS 2210"
+   },
+   {
+      "mine_code":"15050",
+      "mine_name":"KANGRA COAL (PTY)LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"LIMEISA INT COAL SA (PTY) LTD",
+      "tel":"(017) 826 9700",
+      "district":"WAKKERSTROOM",
+      "province":"MPUMALANGA",
+      "farm":"ANNYSPRUIT 139 HT, KLIPSPRUIT 138 HT, MAQUASA 19 HT, ROODEKRAAL 214 HT",
+      "postal":"PO BOX 745 PIET RETIEF 2380"
+   },
+   {
+      "mine_code":"12955",
+      "mine_name":"KELGRAN AFRICA - AFRICAN LILAC",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"KELGRAN INVESTMENTS (PTY) LTD",
+      "tel":"(012) 250 1970",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"MOEDERLIEF 209 JU 4 & 5",
+      "postal":"PO BOX 616 BRITS 0250"
+   },
+   {
+      "mine_code":"14478",
+      "mine_name":"KENDAL COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"HOMELAND MINING & ENERGY SA (PTY) LTD",
+      "tel":"(013) 656 1060",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"BANKFONTEIN 216 IR 6, HEUVELFONTEIN 215 IR 5 & 10",
+      "postal":"PO BOX 20586 DEL JUDOR EXT 4 WITBANK 1044"
+   },
+   {
+      "mine_code":"14475",
+      "mine_name":"KHANYISA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"WESCOAL HOLDINGS LTD",
+      "tel":"(011) 954 2721",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"HEUVELFONTEIN 215 IR 18",
+      "postal":"PO BOX 1020 PAARDEKRAAL 1752"
+   },
+   {
+      "mine_code":"11691",
+      "mine_name":"KHUTALA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SOUTH32",
+      "tel":"(013) 648 5000",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"COLOGNE 34 IS, HEUVELFONTEIN 216 JR, KLIPPOORTJIE 32 IS, LEEUWFONTEIN 219 IR, SCOONGEZICHT 218 IR, SMITHFIELD 44 IS, SPRINGBOKLAAGTE 33 IS, ZONDAGSVLEI 9 IS",
+      "postal":"PO BOX 440 OGIES 2230"
+   },
+   {
+      "mine_code":"12928",
+      "mine_name":"KHWEZELA COLLIERY - A DIVISION OF SOUTH AFRICA COAL ESTATES",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO COAL MINE DIVISION OF ANGLO COAL OPERATIONS LIMITED",
+      "tel":"(011) 638 2221",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KROMDRAAI 279 JS, MERWEDE 272 JS, NOOITGEDACHT 300 JS, SCHOONGESIGT 308 JS",
+      "postal":"PRIVATE BAG X7275 WITBANK 1035"
+   },
+   {
+      "mine_code":"14818",
+      "mine_name":"KIEPERSOL COLLIERY",
+      "commodity":[
+         "COAL ANTHRACITE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"JINDAL MINING SA (PTY) LTD",
+      "tel":"(017) 492 0001",
+      "district":"PIET RETIEF",
+      "province":"MPUMALANGA",
+      "farm":"GOEDEHOOP 169 HT 4, GROOTHOEK 171 HT, LANGGEWACHT 170 HT, ST HELENA 67 HT",
+      "postal":"PRIVATE BAG X5002 PIET RETIEF 2380"
+   },
+   {
+      "mine_code":"13947",
+      "mine_name":"KLEINFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLEINFONTEIN 49 IS",
+      "postal":"SUITE MV113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13827",
+      "mine_name":"KLINKERSTENE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"KLINKERSTENE BK",
+      "tel":"082 652 0821",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"WELTEVREDEN 227 IR",
+      "postal":"PO BOX 313 DELMAS 2210"
+   },
+   {
+      "mine_code":"14925",
+      "mine_name":"KLIP 25 COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"BSM MINING",
+      "tel":"082 575 9006",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 579 JR 25",
+      "postal":"POSTNET SUITE P1 PRIVATE BAG X7260 WITBANK 1035"
+   },
+   {
+      "mine_code":"13416",
+      "mine_name":"KLIPPAN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"GROOTPAN 456 JS, KAALPLAATS 453 JS, KLIPPAN 452 JS, WONDERFONTEIN 428 JS",
+      "postal":"SUITE MW113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13684",
+      "mine_name":"KLIPSPRUIT COLLIERY SERVICES LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUTH 32",
+      "tel":"(013) 643 4072",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 3 IS",
+      "postal":"PRIVATE BAG X15 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"10048",
+      "mine_name":"KOORNFONTEIN MINES",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"OPTIMUM COAL HOLDINGS",
+      "tel":"(013) 295 5211",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BROODSNYERSPLAATS 25 IS, GELUK 26 IS, VLAKLAAGTE 21 IS",
+      "postal":"PO BLINKPAN BLINKPAN 2250"
+   },
+   {
+      "mine_code":"10014",
+      "mine_name":"KRIEL COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"ANGLO AMERICAN INYOAI COAL",
+      "tel":"(017) 617 1247",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"DRIEFONTEIN 69 IS, FRISCHGEWAAGD 60 IS, NOOITGEDACHT 59 IS, ONVERWACHT 70 IS, ROODEBLOEM 58 IS, ROODEPOORT 40 IS, VAALPAN 68 IS, VIERFONTEIN 61 IS, VLAKLAAGTE 83 IS",
+      "postal":"PO BOX 27 KRIEL 2271"
+   },
+   {
+      "mine_code":"15183",
+      "mine_name":"KROMDRAAI COAL",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"IPC (PTY) LTD",
+      "tel":"(013) 656 2695",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"KROMDRAAI 486 6 &8",
+      "postal":"POSTNET SUIT 387 PRIVATE BAG X7297 EMALAHLENI 1035"
+   },
+   {
+      "mine_code":"10937",
+      "mine_name":"KRUGERSPOST ANDALUSITE MINE",
+      "commodity":[
+         "ANDALUSITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"IMERYS SA (PTY) LTD",
+      "tel":"(012) 643 5880",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 400 KT",
+      "postal":"PO BOX 8118 CENTURION 0046"
+   },
+   {
+      "mine_code":"10380",
+      "mine_name":"LAFARGE - NELSPRUIT QUARRY",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(013) 747 2115",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"KIA ORA 139 JU",
+      "postal":"PO BOX 1070 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"13501",
+      "mine_name":"LAFARGE - STONETECH KOMATIPOORT",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"082 903 8039",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"GRINMAN 193 JU",
+      "postal":"PO BOX 409 KOMATIPOORT 1340"
+   },
+   {
+      "mine_code":"11735",
+      "mine_name":"LAFARGE - STONETECH MACHADODORP",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LAFARGE SOUTH AFRICA",
+      "tel":"(013) 257 5068",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"GELUK 348 JT 10",
+      "postal":"PO BOX 846 MACHADODORP 1170"
+   },
+   {
+      "mine_code":"14956",
+      "mine_name":"LEEUWPOORT COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"EYETHU COAL (PTY) LTD",
+      "tel":"(012) 807 0229",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"LEEUWPOORT 283 JS",
+      "postal":"PO BOX 71986 DIE WILGER 0041"
+   },
+   {
+      "mine_code":"12472",
+      "mine_name":"LIME-CHEM (LIMEHAUS)",
+      "commodity":[
+         "LIMESTONE, LIME, AGGREGATE, SHALE FOR CEMENT"
+      ],
+      "type":"OPENCAST",
+      "owner":"LIME-CHEM (PTY) LTD",
+      "tel":"(012) 667 1919",
+      "district":"GROBLERSDAL",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSDRIF 8 JS, SCHERP ARABIE 743 KS",
+      "postal":"PO BOX 460 IRENE 0062"
+   },
+   {
+      "mine_code":"12169",
+      "mine_name":"LION SMELTERS",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE OPERATIONS SA (PTY) LTD",
+      "tel":"(013) 230 5271",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"KENNEDY'S VALE 361 KT",
+      "postal":"PO BOX 218 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"11630",
+      "mine_name":"LONDANI COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUMO COAL (PTY) LTD",
+      "tel":"(011) 684 2764",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"KOPERMYN 435 JS 3 11 12 17",
+      "postal":"PO BOX 2906 RIVONIA 2128"
+   },
+   {
+      "mine_code":"11316",
+      "mine_name":"LYDENBURG SMELTER",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"GLENCORE / XTRATA ALLOYS",
+      "tel":"(013) 230 6000",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PO BOX 195 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"14356",
+      "mine_name":"MAFUBE COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ANGLO COAL & EXXARO",
+      "tel":"(013) 246 9459",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"SPRINGBOKLAAGTE 416 JS",
+      "postal":"PO BOX 3385 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"14797",
+      "mine_name":"MAGARENG MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"GLENCORE",
+      "tel":"(013) 230 6600",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"THORNCLIFFE 374 KT 1",
+      "postal":"PO BOX 403 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"11939",
+      "mine_name":"MAGDALA MINING (EDMS) BPK",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8697",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"RIETFONTEIN 286 JS 8 REM EXT",
+      "postal":"PO BOX 49 GERMISTON 1400"
+   },
+   {
+      "mine_code":"14975",
+      "mine_name":"MAJUBA UNDERGROUND COAL GASIFICATION",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ESKOM HOLDINGS SOC LTD",
+      "tel":"(017) 799 3700",
+      "district":"AMERSFOORT",
+      "province":"MPUMALANGA",
+      "farm":"ROODEKOPJES 67 HS",
+      "postal":"PO BOX 382 VOLKSRUST 2470"
+   },
+   {
+      "mine_code":"15016",
+      "mine_name":"MAKGOMO CHROME (PTY) LTD",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"50% MAKGOMO COMMUNITY TRUST",
+      "tel":"(014) 569 6768",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DRIEKOP 253 KT, CLAPHAM 118 KT",
+      "postal":"PO BOX 5683 RUSTENBURG 0300"
+   },
+   {
+      "mine_code":"11443",
+      "mine_name":"MAKONJWAAN IMPERIAL MINING CO (PTY) L",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"OPENCAST",
+      "owner":"EASTERN GOLDFIELDS SA (PTY) LTD",
+      "tel":"(013) 753 3046",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"CRYSTAL STREAM 323 JU, KAAP BLOCK LOT 196 & 197 SEC A, MINWAAR 196, LILYDALE 324 JU",
+      "postal":"PO BOX 820 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"12185",
+      "mine_name":"MALELANE STENE (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"MALELANE STENE",
+      "tel":"(013) 790 0428",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"MALELANE ESTATE 390 JU 8",
+      "postal":"PO BOX 131 MALELANE 1320"
+   },
+   {
+      "mine_code":"11311",
+      "mine_name":"MANGANESE METAL CO (PTY) LTD",
+      "commodity":[
+         "MANGANESE METAL"
+      ],
+      "type":"SURFACE",
+      "owner":"AGATTU TRADING 195 (PTY) LTD",
+      "tel":"(013) 759 4807",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"NELSPRUIT 312 JT 312 JT 80 OF 2",
+      "postal":"PO BOX 323 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"15168",
+      "mine_name":"MANUNGU COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"TSHEDZA MINING RESOURCES",
+      "tel":"(013) 656 3732",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"WEILAAGTE 271 IR, WELGEVONDEN 272 IR",
+      "postal":"POSTNET SUITE 1091 PRIVATE BAG X7297 WITBANK 1035"
+   },
+   {
+      "mine_code":"10458",
+      "mine_name":"MARBLE HALL",
+      "commodity":[
+         "LIMESTONE, LIME, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"LYTTELTON DOLOMITE (PTY) LTD",
+      "tel":"012 664 5649",
+      "district":"GROBLERSDAL",
+      "province":"MPUMALANGA",
+      "farm":"LOSKOP NOORD JS 12",
+      "postal":"PO BOX 14014 LYTTELTON 0140"
+   },
+   {
+      "mine_code":"12412",
+      "mine_name":"MARLIN - KWAGGASKOP",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"KWAGGASKOP 359 JS",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"13303",
+      "mine_name":"MARLIN - MAPOCHS",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY)LTD",
+      "tel":"(012) 252 7798",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"MAPOCHSGRONDE",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"12844",
+      "mine_name":"MARLIN - PRAIRIE GRANITE",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"WELGELEGEN 400 JT 6",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"10219",
+      "mine_name":"MASALA TALC MINE",
+      "commodity":[
+         "TALC"
+      ],
+      "type":"OPENCAST",
+      "owner":"MATSOPA MINERALS",
+      "tel":"(011) 878 0343",
+      "district":"PIET RETIEF",
+      "province":"MPUMALANGA",
+      "farm":"BOTHASHOOP 521 IT",
+      "postal":"PO BOX 14052 WADEVILLE 1422"
+   },
+   {
+      "mine_code":"12310",
+      "mine_name":"MATLA COLLIERY - MINE NO 1",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(017) 616 2223",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HAASFONTEIN 85 IS",
+      "postal":"PRIVATE BAG X5006 KRIEL 2271"
+   },
+   {
+      "mine_code":"12355",
+      "mine_name":"MATLA COLLIERY - MINE NO 2",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(017) 616 2310",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HAASFONTEIN 85 IS `",
+      "postal":"PRIVATE BAG X5006 KRIEL 2271"
+   },
+   {
+      "mine_code":"12402",
+      "mine_name":"MATLA COLLIERY - MINE NO 3",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(017) 616 2310",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HAASFONTEIN 85 IS",
+      "postal":"PRIVATE BAG X5006 KRIEL 2271"
+   },
+   {
+      "mine_code":"13450",
+      "mine_name":"MATLA COLLIERY - MINE NO 5",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO",
+      "tel":"(017) 616 2310",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HAASFONTEIN 85 IS",
+      "postal":"PRIVATE BAG X5006 KRIEL 2271"
+   },
+   {
+      "mine_code":"15041",
+      "mine_name":"MBALI COLLIERY - MBALI COAL (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"HCI COAL (PTY) LTD",
+      "tel":"(011) 448 4900",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLIPPOORTJIE 32 IS VARIOUS",
+      "postal":"PO BOX 1839 HALFWAY HOUSE 1685"
+   },
+   {
+      "mine_code":"15042",
+      "mine_name":"MECKLENBURG MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHROMEX MINING (PTY) LTD",
+      "tel":"(011) 668 3800",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MECKLENBURG 112 KT",
+      "postal":"PO BOX 11368 CENTURION 0046"
+   },
+   {
+      "mine_code":"11496",
+      "mine_name":"MIDDELBULT MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"MIDDELBULT 284 IS SUB 7",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"11307",
+      "mine_name":"MIDDELBURG FERROCHROME",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"SAMANCOR CHROME LTD",
+      "tel":"(013) 249 4568",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"",
+      "postal":"PRIVATE BAG X251846 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"14335",
+      "mine_name":"MIDDELKRAAL COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"MIDDELKRAAL 50 IS",
+      "postal":"SUITE MV113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13350",
+      "mine_name":"MIDDELWIT STENE",
+      "commodity":[
+         "CLAY BRICKMAKING, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"COROBRIK (PTY) LTD",
+      "tel":"(011) 871 8600",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"MOOIFONTEIN 285 JS 17",
+      "postal":"PO BOX 49 GERMINSTON 1400"
+   },
+   {
+      "mine_code":"13646",
+      "mine_name":"MIDDENIN SANDGROEF DE JAGER",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MIDDENIN SANDGROEF DE JAGER",
+      "tel":"(013) 751 3421",
+      "district":"WITRIVIER",
+      "province":"MPUMALANGA",
+      "farm":"MIDDENIN 109 JU",
+      "postal":"POSBUS 694 WITRIVIER 1240"
+   },
+   {
+      "mine_code":"12414",
+      "mine_name":"MILE INVESTMENT 284 (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MILE INVESTMENT 284 (PTY) LTD",
+      "tel":"(012) 252 0499",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"BOSCHPOORT` 388 JS 6",
+      "postal":"PO BOX 3069 BRITS 0250"
+   },
+   {
+      "mine_code":"13486",
+      "mine_name":"MIMOSA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"NORTHERN COAL (PTY) LTD",
+      "tel":"(011) 882 7204",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"WITKRANZ 53 IT 1",
+      "postal":"PO BOX 52651 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"14290",
+      "mine_name":"MKHULUNYELWA MESHACK MTSWENI",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"MKHULUNYELWA MESHACK MTSWENI",
+      "tel":"(017) 647 1974",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"EERSTE GELUK 256 IS 50",
+      "postal":"2794 COW VILLAGE MZINONI TOWNSHIP BETHAL 2310"
+   },
+   {
+      "mine_code":"13412",
+      "mine_name":"MOOIFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"EYETHU COAL (PTY) LTD",
+      "tel":"(013) 807 0229",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"SPEEKFONTEIN 336 JS 4 REM EXT",
+      "postal":"PO BOX 71986 DIE WILGERS 0041"
+   },
+   {
+      "mine_code":"14617",
+      "mine_name":"MOOIPLAATS COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"COAL OF AFRICA (PTY) LTD",
+      "tel":"(010) 003 8045",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"MOOIPLAATS 290 IT 1 & 9",
+      "postal":"POSTNET SUITE X1335 PRIVATE BAG X9013 ERMELO 2350"
+   },
+   {
+      "mine_code":"14082",
+      "mine_name":"MOTOTOLO MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE",
+      "tel":"(013) 230 6661",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"THORNCLIFFE 374 KT 1",
+      "postal":"POSTNET 46 PRIVATE BAG X20097 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"14865",
+      "mine_name":"NELPAN (PTY LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"NELPAN (PTY LTD",
+      "tel":"(013) 282 8943",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DOORNRUG 302 JS 13 10 42 3",
+      "postal":"PO BOX 11385 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"12534",
+      "mine_name":"NELSPRUIT CRUSHERS (ALKMAAR)",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"HENQUE 2360 CC T/A NELSPRUIT CRUSHERS",
+      "tel":"(013) 733 4192",
+      "district":"NELSPRUIT",
+      "province":"MPUMALANGA",
+      "farm":"ALKMAAR 286 JT 76",
+      "postal":"PO BOX 5071 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"10180",
+      "mine_name":"NEW CONSORT GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"BARBERTON MINES (PTY) LTD",
+      "tel":"(013) 712 8500",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"KAAP BLOCK SECTION D LOT 191 TO 200",
+      "postal":"PO BOX 121 BARBERTON 1300"
+   },
+   {
+      "mine_code":"11122",
+      "mine_name":"NEW DENMARK COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ANGLO COAL",
+      "tel":"(017) 749 0031",
+      "district":"STANDERTON",
+      "province":"MPUMALANGA",
+      "farm":"BEGINSEL 357 IS, EENSGEVONDEN 373 IS, FARM 550 IS, HONIBALL 352 IS, IRENE DALE 358 IS, JOUBERTSVALLEI 337 IS, LIEBENBERG 345 IS, MEYERSVALLEI 354 IS, MOOIFONTEIN 342 IS, NEW DENMARK 335 IS, PRETORIUSVLEY 374 IS, RACEBULT 352 IS, SLAGKRAAL 353 IS",
+      "postal":"PRIVATE BAG X2022 STANDERTON 2430"
+   },
+   {
+      "mine_code":"13458",
+      "mine_name":"NEW IMPALA QUARRY",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"EAGLE GRANITE (PTY) LTD",
+      "tel":"(011) 803 3910",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MAPOCHSGRONDE 500 JS 250",
+      "postal":"PO BOX 6194 RIVONIA 2128"
+   },
+   {
+      "mine_code":"14198",
+      "mine_name":"NICOR SAND",
+      "commodity":[
+         "SAND NATURAL, AGGREGATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"NICOR SAND",
+      "tel":"082 608 0321",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"LEEUWPOORT 283 JS 9",
+      "postal":"PO BOX 8626 DIE HEUWEL 1042"
+   },
+   {
+      "mine_code":"15088",
+      "mine_name":"NKK COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"NKK MINERAL & CONSTRUCTION CC",
+      "tel":"(012) 804 5597",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"KROMKRANS 208 IS VARIOUS",
+      "postal":"668 MORELETA STREET SILVERTON 0127"
+   },
+   {
+      "mine_code":"13441",
+      "mine_name":"NKOMATI ANTHRACITE",
+      "commodity":[
+         "COAL ANTHRACITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BENICON COAL (PTY) LTD",
+      "tel":"(013) 691 1144",
+      "district":"NKOMAZI",
+      "province":"MPUMALANGA",
+      "farm":"STATELAND UNSURVEYED",
+      "postal":"PO BOX 2244 WITBANK 1035"
+   },
+   {
+      "mine_code":"13139",
+      "mine_name":"NKOMATI MINE",
+      "commodity":[
+         "NICKEL, GOLD, SILVER, PGM, CHROME ORE, COBALT METAL IC, COPPER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"AFRICAN RAINBOW MINERALS & NORILSK NICKE",
+      "tel":"(013) 712 8200",
+      "district":"WATERVAL-BOVEN",
+      "province":"MPUMALANGA",
+      "farm":"SLAAIHOEK 540 JT 540 JT NKOMATI",
+      "postal":"PO BOX 562 MACHADODORP 1170"
+   },
+   {
+      "mine_code":"15040",
+      "mine_name":"NOODHULP COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"KATAWA TRADING 106 CC",
+      "tel":"(013) 244 3283",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"WOESTALLEEN 477 JS PTN OF 12",
+      "postal":"PO BOX 14568 LERAATSFONTEIN WITBANK 1038"
+   },
+   {
+      "mine_code":"14533",
+      "mine_name":"NORWESCO COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"BRAKFONTEIN 264 IR 5",
+      "postal":"SUITE MV113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"11046",
+      "mine_name":"NTSHOVELO MINING RESOURCES - VLAKVARKFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"MBUYELO COAL",
+      "tel":"(013) 656 3732",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"VLAKVARKFONTEIN 213 IR 3 5 13",
+      "postal":"PO BOX 90349 BERTSHAM 2013"
+   },
+   {
+      "mine_code":"15004",
+      "mine_name":"NUNGU COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"NUNGU COLLIERY",
+      "tel":"(015) 307 6600",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSPRUIT 291 JS 23",
+      "postal":"PO BOX 2244 TZANEEN 0850"
+   },
+   {
+      "mine_code":"15110",
+      "mine_name":"OPGOEDENHOOP",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"MUHANGA MINES (PTY) LTD",
+      "tel":"(013) 243 0795",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"GOEDENHOOP 6 7 12",
+      "postal":"PO BOX 4541 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"10474",
+      "mine_name":"OPTIMUM COAL MINE (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"OPTIMUM COAL HOLDINGS",
+      "tel":"(013) 296 5111",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BOSCHMANSKOP 154 IS, DRIEPAN 156 IS, OPTIMUS 480 JS, PULLENSHOPE 155 IS, ZEVENFONTEIN 484 JS",
+      "postal":"PRIVATE BAG X1201 PULLENS HOPE 1096"
+   },
+   {
+      "mine_code":"15339",
+      "mine_name":"OVERLOOKED COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"AMALGAMATED CONTRACTOR COMPANIES",
+      "tel":"(013) 246 8555",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"HALFGEWONNEN 190 IS 5 17 & RE",
+      "postal":"POSTNET SUITE 252 PRIVATE BAG X1866 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13756",
+      "mine_name":"PAARL GRANITE (PTY) LTD",
+      "commodity":[
+         "DIMENSION STONE GRANITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"MARLIN GRANITE (PTY) LTD",
+      "tel":"(012) 252 7798",
+      "district":"PIET RETIEF",
+      "province":"MPUMALANGA",
+      "farm":"ROSENDAL 32 HU",
+      "postal":"PO BOX 4664 BRITS 0250"
+   },
+   {
+      "mine_code":"12798",
+      "mine_name":"PEMBANI COAL CAROLINA (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"PEMBANI COAL CAROLINA (PTY) LTD",
+      "tel":"(017) 843 1013",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"GROENVALLEI 40 IT 5, HAARLEM 39 IT PTN, PAARDEPLAATS 121 IT 2",
+      "postal":"PO BOX 1213 CAROLINA 1185"
+   },
+   {
+      "mine_code":"14946",
+      "mine_name":"PENUMBRA COAL MINING (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"CONTINENTAL COAL",
+      "tel":"(017) 801 1300",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"WITBANK 262 IT, LANGVERWACHT 293 IT PTNS, RIETSPRUIT 417 IS, VLAKVARKFONTEIN 213 IR 5 13 RE 3",
+      "postal":"PO BOX 2118 ERMELO 2350"
+   },
+   {
+      "mine_code":"15014",
+      "mine_name":"PHALANNDWA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMTHOMBO RESOURCES",
+      "tel":"(011) 783 7996",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"SCHOONGEZICHT 225 IR 10 & 11",
+      "postal":"PO BOX 2632 SAXONWORLD 2132"
+   },
+   {
+      "mine_code":"10503",
+      "mine_name":"PHOENIX COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE",
+      "tel":"(013) 687 8235",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"KLIPPLAAT 14 IS, KROMFONTEIN 30 IS, MIDDELDRIFT 42 IS, STEENKOOLSPRUIT 18 IS",
+      "postal":"PRIVATE BAG X7265 WITBANK 1035"
+   },
+   {
+      "mine_code":"14793",
+      "mine_name":"PHOLA COAL PROCESSING PLANT",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"SURFACE",
+      "owner":"BECSA / ACSA",
+      "tel":"(013) 643 5614",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"KLIPSPRUIT",
+      "postal":"PO BOX 645 OGIES 2230"
+   },
+   {
+      "mine_code":"14406",
+      "mine_name":"PHOMOKI JOSHUA KHOZA",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"PHOMOKI JOSHUA KHOZA",
+      "tel":"832 836 182",
+      "district":"NKOMAZI",
+      "province":"MPUMALANGA",
+      "farm":"STATE LAND",
+      "postal":"PO BOX 624 KWA LUGEDIANE 1341"
+   },
+   {
+      "mine_code":"11707",
+      "mine_name":"POLMAISE COLLIERY (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"POLMAISE COLLIERY (PTY) LTD",
+      "tel":"(013) 283 1478",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"GOEDEHOOP 315 JS",
+      "postal":"PO BOX 1499 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"15398",
+      "mine_name":"RETROLEX 39 CC",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"RETROLEX 39 CC",
+      "tel":"824 495 329",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"SCHOONGEZICHT 308 JS 6",
+      "postal":"PO BOX 8936 DIE HEUWEL WITBANK 1042"
+   },
+   {
+      "mine_code":"10536",
+      "mine_name":"RIETSPRUIT STONE CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"RIETSPRUIT CRUSHERS (PTY) LTD",
+      "tel":"(017) 819 1473",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"RIETSPRUIT 347 IS 7",
+      "postal":"PO BOX 144 ERMELO 2350"
+   },
+   {
+      "mine_code":"15079",
+      "mine_name":"RIRHANDZU COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"PERISAT INVESTMENT (PTY) LTD",
+      "tel":"(011) 867 0219",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"VLAKVARKFONTEIN 213 IR VARIOUS",
+      "postal":"PO BOX 90349 BERTSHAM 2013"
+   },
+   {
+      "mine_code":"13568",
+      "mine_name":"SACOIL HOLDINGS LIMITED",
+      "commodity":[
+         "MANGANESE CHEMICALS"
+      ],
+      "type":"SURFACE",
+      "owner":"SACOIL HOLDINGS LIMITED",
+      "tel":"(013) 767 1432",
+      "district":"PELGRIMSRUS",
+      "province":"MPUMALANGA",
+      "farm":"GRASKOP 564 KT",
+      "postal":"PO BOX 299 GRASKOP 1270"
+   },
+   {
+      "mine_code":"10151",
+      "mine_name":"SAMQUARZ - THABA CHUEU MINING - DELMAS",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"SAMQUARZ - THABA CHUEU MINING - DELMAS",
+      "tel":"(013) 665 7250",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"MOABSVELDEN 248 IR",
+      "postal":"PO BOX 65 DELMAS 2210"
+   },
+   {
+      "mine_code":"10409",
+      "mine_name":"SARINGA SLATE",
+      "commodity":[
+         "DIMENSION STONE SLATE"
+      ],
+      "type":"OPENCAST",
+      "owner":"SARINGA SLATE",
+      "tel":"(013) 238 2328",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DOORNKOM 418 JP, KLIPBANKFONTEIN 445 JP, ORIGSTAD 443 KT 291, WAGEBOOMSKOP 415 JP",
+      "postal":"PO BOX 139 OHRIGSTAD 1122"
+   },
+   {
+      "mine_code":"11460",
+      "mine_name":"SASOL COAL SUPPLY PLANT",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"BRANDSPRUIT 318 IS 3, TWISTDRAAI 285 IS",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"10577",
+      "mine_name":"SCOTIA TALC MINE",
+      "commodity":[
+         "TALC"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"CHAMOTTE HOLDINGS (PTY) LTD",
+      "tel":"(011) 805 1916",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"BON ACCORD STOCK FARM 282 JU",
+      "postal":"PO BOX 1064 HALFWAY HOUSE 1685"
+   },
+   {
+      "mine_code":"10179",
+      "mine_name":"SHEBA GOLD MINE",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"BARBERTON MINES (PTY) LTD",
+      "tel":"(013) 712 8500",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"KAAP BLOCK SECTION 1",
+      "postal":"PO BOX 121 BARBERTON 1300"
+   },
+   {
+      "mine_code":"15283",
+      "mine_name":"SHONLAND COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"MAFIKITHATA MINING (PTY) LTD",
+      "tel":"079 498 0072",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"SCHOONGEZIGHT 308 JS 6",
+      "postal":"PO BOX 8174 DIE HEUWEL 1042"
+   },
+   {
+      "mine_code":"10204",
+      "mine_name":"SILICA QUARTZ (PTY) LTD",
+      "commodity":[
+         "SILICA, AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SILICA QUARTZ (PTY) LTD",
+      "tel":"(013) 665 7900",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"GROENFONTEIN 206 JR",
+      "postal":"PO BOX 571 DELMAS 2210"
+   },
+   {
+      "mine_code":"11994",
+      "mine_name":"SILVER UNICORN COAL AND MINERALS (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SILVER UNICORN TRADING",
+      "tel":"(011) 463 0514",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ONGEZIEN 365 JS",
+      "postal":"PO BOX 1963 CAMPERVIEW 2060"
+   },
+   {
+      "mine_code":"12016",
+      "mine_name":"SILVEX 648 CC T/A BRICKFAB (PTY) LTD",
+      "commodity":[
+         "CLAY BRICKMAKING, AGGREGATE, SAND NATURAL, SHALE BRICKMAKING"
+      ],
+      "type":"OPENCAST",
+      "owner":"SILVEX 648 CC",
+      "tel":"(017) 811 4704",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"BUHRMANS TAFELKOP 135",
+      "postal":"PO BOX 599 ERMELO 2350"
+   },
+   {
+      "mine_code":"15161",
+      "mine_name":"SINGANI COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"ZONNEBLOEM COAL (PTY) LTD",
+      "tel":"(011) 783 7996",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ZONNEBLOEM 396 JS RE",
+      "postal":"PO BOX 2632 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"15167",
+      "mine_name":"SISEBENZILE COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE NIGHTINGALE TRADING 817 (PTY) LTD",
+      "tel":"(013) 246 9013",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"KLIPFONTEIN 316 JS",
+      "postal":"PO BOX 1704 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"10598",
+      "mine_name":"SOUTH WITBANK COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE COAL SA",
+      "tel":"(013) 686 3338",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"BLESBOKFONTEIN 38 IS, FRISCHGEWAAGD 60 IS, KLIPPOORTJIE 32 IS, BLESBOKFONTEIN 31 IS",
+      "postal":"PRIVATE BAG X16 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"10793",
+      "mine_name":"SOUTH32 COAL PROCESSING - MIDDELBURG MINE SERVICES (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUTH32",
+      "tel":"(013) 689 3076",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BANKFONTEIN 340 JS, GOEDEHOOP 315 JS, HARTBEESFONTEIN 339 JS, KLIPFONTEIN 316 JS, STERKWATER 317 JS",
+      "postal":"PO BOX 1672 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"15380",
+      "mine_name":"SPITSVALE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"OPENCAST",
+      "owner":"BCR MINERALS (PTY) LTD",
+      "tel":"(011) 467 5793",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"SPITSKOP 333 KT, KENNEDY'S VALE 361 KT",
+      "postal":"POSTNET SUITE 911 PRIVATE BAG X153 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"10602",
+      "mine_name":"SPITZKOP COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"MSOBO COAL (PTY) LTD",
+      "tel":"(017) 861 8458",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"KAFFERSPRUIT 274 IS, KLIPSTAPEL 243 IS, SPITSKOP 276 IS, VOORSLAG 274 IS, WATERVAL 244 IS",
+      "postal":"PO BOX 166 BREYTEN 2330"
+   },
+   {
+      "mine_code":"14542",
+      "mine_name":"SPITZKOP MINE",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"OPENCAST",
+      "owner":"EASTERN PLATINUM LTD",
+      "tel":"(013) 230 3116",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"SPITSKOP 333 KT",
+      "postal":"PRIVATE BAG X501 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"10799",
+      "mine_name":"STRATHMORE MAGNESITE MINE",
+      "commodity":[
+         "MAGNESITE"
+      ],
+      "type":"OPENCAST",
+      "owner":"CHAMOTTE HOLDINGS (PTY) LTD",
+      "tel":"(013) 791 0000",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"STRATHMORE 214 JU",
+      "postal":"PO BOX 243 MALELANE 1320"
+   },
+   {
+      "mine_code":"11727",
+      "mine_name":"STRATHRAE COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, SURFACE",
+      "owner":"UMCEBO MINING (PTY) LTD",
+      "tel":"(013) 244 8000",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"STRATHRAE 496 JS",
+      "postal":"SUITE MW113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13205",
+      "mine_name":"STUART COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"STUART COAL (PTY) LTD",
+      "tel":"(011) 552 5925",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"WELTEVREDEN 227 IR 9",
+      "postal":"PO BOX 13844 NORTHMEAD 1511"
+   },
+   {
+      "mine_code":"13826",
+      "mine_name":"SURFACE SERVICES (PROJECT MANAGEMENT)",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"BRANDSPRUIT 318 IS SUB 3",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"12543",
+      "mine_name":"SYFERFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"RIVERSDALE 119, SYFERFONTEIN 115, TWEEDRAAI 139, VAN SCHALKWYKSRUST 118 IS, ZWAKFONTEIN 120 IS",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"10633",
+      "mine_name":"TAVISTOCK COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE SA (PTY) LTD",
+      "tel":"(013) 686 3338",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"BLESBOKFONTEIN 31 IS, HARTEBEESTFONTEIN 39 IS, ROODEPOORT 40 IS, BLESBOKFONTEIN 38 IS",
+      "postal":"PRIVATE BAG X7265 WITBANK 1035"
+   },
+   {
+      "mine_code":"13057",
+      "mine_name":"THORNCLIFFE MINE",
+      "commodity":[
+         "CHROME ORE"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"XSTRATA ALLOYS",
+      "tel":"(013) 230 6600",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"THORNCLIFF 374 KT 1",
+      "postal":"PO BOX 403 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"14923",
+      "mine_name":"THUTSI MINING",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SILVER LAKES",
+      "tel":"(013) 283 1400",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"UITGEVALLEN 134 IT 26",
+      "postal":"SUITE NW 546 PRIVATE BAG X1836 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"15036",
+      "mine_name":"TNDB COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"EYETHU COAL (PTY) LTD",
+      "tel":"(012) 807 0229",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"FARM 336 JS SUURWATER",
+      "postal":"PO BOX 71986 DIE WILGER 0041"
+   },
+   {
+      "mine_code":"12466",
+      "mine_name":"TRANSALLOYS (PTY) LTD",
+      "commodity":[
+         "MANGANESE ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"RENOVA MANGANESE INVESTMENTS",
+      "tel":"(013) 693 8000",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSFONTEIN 309 JS",
+      "postal":"PO BOX 856 WITBANK 1035"
+   },
+   {
+      "mine_code":"12494",
+      "mine_name":"TRANSVAAL GOLD MINING ESTATES LTD",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"STONEWALL MINING (PTY) LTD",
+      "tel":"(013) 768 1271",
+      "district":"PELGRIMSRUS",
+      "province":"MPUMALANGA",
+      "farm":"GROOTFONTEIN 562 KT, MORGENZON 525 KT, PEACH TREE 544 KT, PONIESKRANTZ 543 KT",
+      "postal":"PO BOX 21 PILGRIM'S REST 1260"
+   },
+   {
+      "mine_code":"13267",
+      "mine_name":"TRICHARDT CRUSHERS",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"TRICHARDT CRUSHERS (PTY) LTD",
+      "tel":"(017) 638 0286",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"TRICHARDTSFONTEIN",
+      "postal":"PO BOX 5020 SECUNDA 2302"
+   },
+   {
+      "mine_code":"11087",
+      "mine_name":"TSELENTIS COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"MSOBO COAL (PTY) LTD",
+      "tel":"(017) 861 8458",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"BOTHASRUST 211 IS, GOEDVERWATCHING 81 IT, KLIPSTAPEL 243 IS, LILLIPUT 83 IT, MOOIPLAATS 86 IT, SMUTSOOG 214 IS 2, WITBANK 82 IT",
+      "postal":"PO BOX 166 BREYTEN 2330"
+   },
+   {
+      "mine_code":"11176",
+      "mine_name":"TUBATSE FERROCHROME (PTY) LTD",
+      "commodity":[
+         "CHROMIUM ALLOYS"
+      ],
+      "type":"SURFACE",
+      "owner":"SAMANCOR LTD",
+      "tel":"(013) 230 8401",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"FARM 337 KT, STEELPOORT 1133",
+      "postal":"PO BOX 46 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"11346",
+      "mine_name":"TUBATSE QUARTZITE MINE",
+      "commodity":[
+         "SILICA"
+      ],
+      "type":"OPENCAST",
+      "owner":"SAMANCOR CHROME",
+      "tel":"(013) 230 7134",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"GOUDMYN 337 KT",
+      "postal":"PO BOX 3 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"15020",
+      "mine_name":"TUMELO COAL MINES (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"EXXARO COAL CENTRAL (PTY) LTD",
+      "tel":"(011) 441 6800",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"BOSCHMANSKOP 154 IS",
+      "postal":"PO BOX 2344 SAXONWOLD 2132"
+   },
+   {
+      "mine_code":"13198",
+      "mine_name":"TWEEFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"GLENCORE COAL SA",
+      "tel":"(013) 686 3308",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"TWEEFONTEIN 13 LS",
+      "postal":"PRIVATE BAG X16 LERAATSFONTEIN 1038"
+   },
+   {
+      "mine_code":"15043",
+      "mine_name":"TWISTDRAAI EXPORT PLANT",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"SURFACE",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"TWISTDRAAI 285 IS, BRANDSPRUIT 318 IS 3",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"11488",
+      "mine_name":"TWISTDRAAI MINE",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"SASOL MINING (PTY) LTD",
+      "tel":"(017) 614 3179",
+      "district":"HIGHVELD RIDGE",
+      "province":"MPUMALANGA",
+      "farm":"GOEDEHOOP 290 IS SUB 34, TWISTDRAAI 285 IS",
+      "postal":"PRIVATE BAG X1015 SECUNDA 2302"
+   },
+   {
+      "mine_code":"13697",
+      "mine_name":"TWO RIVERS PLATINUM",
+      "commodity":[
+         "PGM, GOLD, COBALT METAL IC, COPPER, NICKEL, SULPHUR"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"ARM - AFRICAN RAINBOW MINERALS",
+      "tel":"(013) 230 2800",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"DWARSRIVIER 372 KT",
+      "postal":"PO BOX 8168 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"14989",
+      "mine_name":"UKUFISA INVESTMENT HOLDING",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"SURFACE",
+      "owner":"UKUFISA INVESTMENT HOLDING (PTY) LTD",
+      "tel":"087 941 3503",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"LEEUWFONTEIN MIDDELBURG PTN 20",
+      "postal":"PO BOX 3537 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"13771",
+      "mine_name":"UMLABU COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SOUTH AFRICAN COAL MINING HOLDINGS",
+      "tel":"(017) 861 9910",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"MOOIFONTEIN 109 IT 1",
+      "postal":"PO BOX 630 EMERLO 2350"
+   },
+   {
+      "mine_code":"15032",
+      "mine_name":"UMSIMBITHI MINING - WONDERFONTEIN",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"UNDERGROUND",
+      "owner":"UMCEBO GROUP",
+      "tel":"(013) 244 8000",
+      "district":"BELFAST",
+      "province":"MPUMALANGA",
+      "farm":"JOHAN STEELE, GENERAALSDRAAI 423 JS, DE JAGER, VAN WYK, BEZUIDENHOUT",
+      "postal":"SUITE MW 113 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"15019",
+      "mine_name":"UMZOBANZI COAL & ENGERGY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"UMZOBANZI COAL & ENGERGY",
+      "tel":"(011) 454 5379",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"SCHOONGEZICHT 308 JS 6",
+      "postal":"PO BOX 2957 BEDFORDVIEW 2008"
+   },
+   {
+      "mine_code":"10446",
+      "mine_name":"UNIVERSAL COAL DEVELOPMENT VIII",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST, UNDERGROUND",
+      "owner":"NEW CLYDESDALE COLLIERY",
+      "tel":"(013) 687 6904",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"DIEPSPRUIT 41 IS, HAASFONEIN 28 IS, MIDDELDRIFT 42 IS, RIETFONTEIN 43 IS, VAALKRANZ 29 IS, VAN WYK'S DRIFT",
+      "postal":"PO BOX 2423 BROOKLYN SQUARE PRETORIA 0075"
+   },
+   {
+      "mine_code":"14735",
+      "mine_name":"USUTU COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"VUNENE MINING",
+      "tel":"(017) 801 1922",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"BLAAUWKOP 271 IT 3 7 & 9, CAMDEN POWER STATION 329 IT 2, HOLBANK 265 IT, JAN HENDRIKSFONTEIN 263 IT, LEEUWENBURG 137 IT 2 & 4, MOOIPLAATS 290 IT, ONVERWACHT 273 IT 9 & 12, REPUBLIEK 123 IT, ROODEWAL 270 IT 9 & 12, SWAARBOU 256 IT, TRANSUTU 257 IT, TWYFELAARORBURNSIDE 4 IT 266, UITKOMST 292 IT 18, VAN OUDSHOORNSTROOM 261 IT 4, VLAKFONTEIN 266 IT 1, VLAKFONTEIN 269 IT 1-4, WELTEVREDEN 289 IT 2, WITBANK 262 IT 25, WITPUNT 267 IT",
+      "postal":"PRIVATE BAG X1009 ERMELO 2350"
+   },
+   {
+      "mine_code":"15250",
+      "mine_name":"VAAL READYMIX (PTY) LTD",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"SIMON MARITE",
+      "tel":"(011) 206 2000",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"BRAKFONTEIN 310 IR 4",
+      "postal":"PRIVATE BAG X14 OLIFANTSONTEIN 1665"
+   },
+   {
+      "mine_code":"15190",
+      "mine_name":"VAALBULT COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAALBULT MINING CO (PTY) LTD",
+      "tel":"872 321 359",
+      "district":"CAROLINA",
+      "province":"MPUMALANGA",
+      "farm":"VAALBULT 3 IT 9 10 RE 1",
+      "postal":"POSTNET SUITE 72 PRIVATE BAG X01 UMHLANGA ROCKS 4320"
+   },
+   {
+      "mine_code":"15124",
+      "mine_name":"VAN NIEKERK STENE CC",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VAN NIEKERK STENE CC",
+      "tel":"(013) 230 9069",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"RIETFONTEIN 375 KT 8",
+      "postal":"PO BOX 165 STEELPOORT 1133"
+   },
+   {
+      "mine_code":"14983",
+      "mine_name":"VANGGATFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"KEATON ENERGY HOLDINGS LTD",
+      "tel":"(011) 317 1700",
+      "district":"DELMAS",
+      "province":"MPUMALANGA",
+      "farm":"VANGGATFONTEIN 251 IR PTNS, RIETKUIL 249 IR 4, BRAKFONTEIN 264 IR 29, BRAKFONTEIN 277 IR",
+      "postal":"POSTNET SUITE 464 PRIVATE BAG X51 BRYANSTON 2021"
+   },
+   {
+      "mine_code":"15346",
+      "mine_name":"VERKEERDEPAN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"MSOBO COAL (PTY) LTD",
+      "tel":"(017) 860 8017",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"VERKEERDEPAN 50 IT, WITRAND 52 IT, JAGLUST 47 IT, GOEDEHOOP 45 IT, ROODEBLOEM 51 IT, KRANSPAN 49 IT, ROETS 21 IT",
+      "postal":"PO BOX 166 BREYTEN 2330"
+   },
+   {
+      "mine_code":"14882",
+      "mine_name":"VIERFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"IDWALA CRYPTS (PTY) LTD T/A IDWALA COAL (PTY) LTD",
+      "tel":"(011) 430 7640",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"VIERFONTEIN 61 IS REM 31 44",
+      "postal":"POSTNET SUITE 458 PRIVATE BAG X9 BENMORE 2010"
+   },
+   {
+      "mine_code":"14812",
+      "mine_name":"VLAKFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"AFRICAN EXPL MINING & FINANCE CORP",
+      "tel":"823 271 625",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"VLAKFONTEIN 569 JR 3",
+      "postal":"PO BOX 712 OGIES 2230"
+   },
+   {
+      "mine_code":"12077",
+      "mine_name":"VOORSPOED SAND AND KLIP",
+      "commodity":[
+         "SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VOORSPOED SAND AND KLIP",
+      "tel":"(013) 235 4594",
+      "district":"LYDENBURG",
+      "province":"MPUMALANGA",
+      "farm":"MODDERSPRUIT 13 JT 108",
+      "postal":"PO BOX 866 LYDENBURG 1120"
+   },
+   {
+      "mine_code":"13815",
+      "mine_name":"VUKA CRUSHERS CC",
+      "commodity":[
+         "AGGREGATE, SAND NATURAL"
+      ],
+      "type":"OPENCAST",
+      "owner":"VUKA CRUSHERS CC",
+      "tel":"(013) 737 6299",
+      "district":"WITRIVIER",
+      "province":"MPUMALANGA",
+      "farm":"GOVERNMENT GROUND SECTION F KAAP BLOCK",
+      "postal":"PO BOX 2498 HAZYVIEW 1242"
+   },
+   {
+      "mine_code":"14589",
+      "mine_name":"VUNA COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"BLUE FALCON 212 TRADING (PTY) LTD",
+      "tel":"082 415 4144",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ZONNEBLOEM 396 JS",
+      "postal":"PO BOX 3890 RIVONIA 2196"
+   },
+   {
+      "mine_code":"14792",
+      "mine_name":"WELGELEGEN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"IYANGA MINING (PTY) LTD",
+      "tel":"(013) 696 1007",
+      "district":"WITBANK",
+      "province":"MPUMALANGA",
+      "farm":"WELGELEGEN 221 IR VARIOUS",
+      "postal":"PO BOX 439 WITBANK 1035"
+   },
+   {
+      "mine_code":"15177",
+      "mine_name":"WELGEMEEND COLLIERY (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"MBUYELO COAL (PTY) LTD",
+      "tel":"(013) 656 3732",
+      "district":"ERMELO",
+      "province":"MPUMALANGA",
+      "farm":"WELGEMEEND 206 IS 1 2 3 4 7",
+      "postal":"POSTNET SUITE 1091 PRIVATE BAG X7297 WITBANK 1035"
+   },
+   {
+      "mine_code":"14734",
+      "mine_name":"WELTEVREDEN COAL",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"SUDOR COAL (PTY) LTD",
+      "tel":"(013) 690 3316",
+      "district":"BETHAL",
+      "province":"MPUMALANGA",
+      "farm":"DUNBAR 189 IS 1 3 5 6 7, KAFFERSTAD 195 IS VARIOUS, WELTEVREDEN 193 IS VARIOUS",
+      "postal":"POSTNET P152 PRIVATE BAG X7260 WITBANK 1035"
+   },
+   {
+      "mine_code":"15231",
+      "mine_name":"WESCOAL MINING ELANDSPRUIT",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"WESCOAL HOLDINGS (PTY) LTD",
+      "tel":"(013) 492 0248",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSPRUIT 291 JS VARIOUS",
+      "postal":"SUITE MW 678 PRIVATE BAG X1838 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"14994",
+      "mine_name":"WILDFONTEIN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"HLAGISA MINING LTD",
+      "tel":"(013) 324 5152",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"WILDFONTEIN 420 JS",
+      "postal":"PO BOX 1146 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"11963",
+      "mine_name":"WOESTALLEEN COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"NUCOAL MINING (PTY) LTD",
+      "tel":"082 415 4144",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"WOESTALLEEN 477 JS REM",
+      "postal":"PO BOX 1639 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"14869",
+      "mine_name":"WOLWEKRANS COLLIERY",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"BHP BILLITON ENERGY COAL SA",
+      "tel":"(013) 249 3131",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"HARTEBEESFONTEIN 339 JS",
+      "postal":"PO BOX 1672 MIDDELBURG 1050"
+   },
+   {
+      "mine_code":"14518",
+      "mine_name":"WORCESTER",
+      "commodity":[
+         "GOLD, SILVER"
+      ],
+      "type":"OPENCAST",
+      "owner":"EASTERN GOLDFIELDS SA (PTY) LTD",
+      "tel":"(013) 753 3046",
+      "district":"BABERTON",
+      "province":"MPUMALANGA",
+      "farm":"KAAP BLOCK SECTION C, LOT 84, LOT 85, LOT 95 A",
+      "postal":"PO BOX 820 NELSPRUIT 1200"
+   },
+   {
+      "mine_code":"15133",
+      "mine_name":"YOCTOLUC INVESTMENTS (PTY) LTD",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"YOCTOLUC INVESTMENTS (PTY) LTD",
+      "tel":"(012) 809 3505",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"ELANDSPRUIT 291 JS 38",
+      "postal":"PO BOX 14522 HATFIELD PRETORIA 0028"
+   },
+   {
+      "mine_code":"15422",
+      "mine_name":"ZONNEBLOEM COAL MINES",
+      "commodity":[
+         "COAL BITUMINOUS"
+      ],
+      "type":"OPENCAST",
+      "owner":"GLENCORE OPERATIONS SA (PTY) LTD",
+      "tel":"(013) 244 8035",
+      "district":"MIDDELBURG MP",
+      "province":"MPUMALANGA",
+      "farm":"GEMSBONFONTEIN 411 JS, PATATTAFONEIN 421 JS RE, ZONNEBLOEM 396 JS 1, PANPLAATS 395 JS VARIOUS",
+      "postal":"SUITE MW 113 PRIVATE BAG X 1838 MIDDELBURG 1050"
+   }
+]
