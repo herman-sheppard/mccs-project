@@ -28,6 +28,8 @@
               caption="msg://io.embraceit.mccsproject.screen.ownership/ownershipBrowse.menu"/>
         <item screen="mccs_HRDevelopment.browse"
               caption="msg://io.embraceit.mccsproject.screen.hrdevelopment/HRDevelopmentBrowse.menu"/>
+        <item screen="mccs_MineCommunityDevelopment.browse"
+              caption="msg://io.embraceit.mccsproject.screen.minecommunitydevelopment/mineCommunityDevelopmentBrowse.menu"/>
         <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->
