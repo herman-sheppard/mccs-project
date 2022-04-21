@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragment xmlns="http://jmix.io/schema/ui/fragment">
+    <layout>
+        <image id="logoImage"
+               scaleMode="CONTAIN"
+               stylename="jmix-brandlogin-background">
+            <resource>
+                <relativePath path="VAADIN/brand-login-screen/jmix-icon-login.svg"/>
+            </resource>
+        </image>
+    </layout>
+</fragment>
