@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fragment xmlns="http://jmix.io/schema/ui/fragment">
+    <data>
+        <collection id="miningCharterScorecardsDc" class="io.embraceit.mccsproject.entity.MiningCharterScorecard" >
+            <fetchPlan extends="_local"/>
+            <loader id="miningCharterScorecardsDl">
+                <query>
+                    <![CDATA[select e from mccs_MiningCharterScorecard e]]>
+                </query>
+            </loader>
+        </collection>
+    </data>
+    <layout width="100%">
+        <vbox spacing="true" width="AUTO">
+            <table id="miningCharterScorecardsTable" height="100px" width="AUTO"
+                   dataContainer="miningCharterScorecardsDc">
+                <actions>
+                    <action id="create" type="create"/>
+                    <action id="edit" type="edit"/>
+                    <action id="excelExport" type="excelExport"/>
+                    <action id="listPrintForm" type="listPrintForm"/>
+                    <action id="refresh" type="refresh"/>
+                    <action id="runReport" type="runReport"/>
+                    <action id="showPivot" type="showPivot"/>
+                    <action id="view" type="view"/>
+                </actions>
+                <buttonsPanel alwaysVisible="true">
+                    <button id="miningCharterScorecardsTableCreateBtn" action="miningCharterScorecardsTable.create"/>
+                    <button id="miningCharterScorecardsTableEditBtn" action="miningCharterScorecardsTable.edit"/>
+                    <button id="miningCharterScorecardsTableExcelExportBtn"
+                            action="miningCharterScorecardsTable.excelExport"/>
+                    <button id="miningCharterScorecardsTableListPrintFormBtn"
+                            action="miningCharterScorecardsTable.listPrintForm"/>
+                    <button id="miningCharterScorecardsTableRefreshBtn" action="miningCharterScorecardsTable.refresh"/>
+                    <button id="miningCharterScorecardsTableRunReportBtn"
+                            action="miningCharterScorecardsTable.runReport"/>
+                    <button id="miningCharterScorecardsTableShowPivotBtn"
+                            action="miningCharterScorecardsTable.showPivot"/>
+                    <button id="miningCharterScorecardsTableViewBtn" action="miningCharterScorecardsTable.view"/>
+                </buttonsPanel>
+                <columns>
+                    <column id="tenant" visible="false"/>
+                    <column id="reference"/>
+                    <column id="reviewedMCS"/>
+                    <column id="weighting"/>
+                    <column id="calculation"/>
+                </columns>
+            </table>
+        </vbox>
+    </layout>
+</fragment>

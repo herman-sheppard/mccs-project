@@ -2,7 +2,7 @@
 <fragment xmlns="http://jmix.io/schema/ui/fragment">
     <data>
         <collection id="minesDc" class="io.embraceit.mccsproject.entity.Mine">
-            <fetchPlan extends="_local"/>
+            <fetchPlan extends="_base"/>
             <loader id="minesDl">
                 <query>
                     <![CDATA[select e from mccs_Mine e]]>

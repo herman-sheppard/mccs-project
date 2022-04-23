@@ -4,34 +4,22 @@
     <menu id="application" caption="msg://io.embraceit.mccsproject/menu.application" icon="CODEPEN" expanded="true">
         <item screen="mccs_MccsUser.browse"
               caption="msg://io.embraceit.mccsproject.screen.mccsuser/mccsUserBrowse.menu" icon="USER_CIRCLE_O"/>
-        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mines/minesBrowse.menu"
-              icon="DIAMOND"/>
-        <item screen="mccs_MccReport.browse"
-              caption="msg://io.embraceit.mccsproject.screen.mccreport/mccReportBrowse.menu" icon="CREATE_ACTION"/>
-        <item screen="mccs_Cities.browse" caption="msg://io.embraceit.mccsproject.screen.cities/citiesBrowse.menu"
-              icon="BUILDING_O"/>
-        <item screen="mccs_Client.browse" caption="msg://io.embraceit.mccsproject.screen.client/clientBrowse.menu"
-              icon="USER_O"/>
-        <item screen="mccs_Contractor.browse"
-              caption="msg://io.embraceit.mccsproject.screen.contractor/contractorBrowse.menu" icon="USER_PLUS"/>
-        <item screen="mccs_Corporation.browse"
-              caption="msg://io.embraceit.mccsproject.screen.corporation/corporationBrowse.menu" icon="INDUSTRY"/>
-        <item screen="mccs_Countries.browse"
-              caption="msg://io.embraceit.mccsproject.screen.countries/countriesBrowse.menu" icon="GLOBE"/>
         <item screen="mccs_Employee.browse" caption="msg://io.embraceit.mccsproject.screen.employee/employeeBrowse.menu"
               icon="ADDRESS_CARD"/>
-        <item screen="mccs_States.browse" caption="msg://io.embraceit.mccsproject.screen.states/statesBrowse.menu"
-              icon="ARROWS"/>
         <item screen="mccs_MiningCharterScorecard.browse"
-              caption="msg://io.embraceit.mccsproject.screen.miningcharterscorecard/miningCharterScorecardBrowse.menu"/>
+              caption="msg://io.embraceit.mccsproject.screen.miningcharterscorecard/miningCharterScorecardBrowse.menu"
+              icon="DIALOG_OK"/>
         <item screen="mccs_Ownership.browse"
-              caption="msg://io.embraceit.mccsproject.screen.ownership/ownershipBrowse.menu"/>
+              caption="msg://io.embraceit.mccsproject.screen.ownership/ownershipBrowse.menu" icon="_500PX"/>
         <item screen="mccs_HRDevelopment.browse"
-              caption="msg://io.embraceit.mccsproject.screen.hrdevelopment/HRDevelopmentBrowse.menu"/>
+              caption="msg://io.embraceit.mccsproject.screen.hrdevelopment/HRDevelopmentBrowse.menu"
+              icon="HANDSHAKE_O"/>
         <item screen="mccs_MineCommunityDevelopment.browse"
-              caption="msg://io.embraceit.mccsproject.screen.minecommunitydevelopment/mineCommunityDevelopmentBrowse.menu"/>
+              caption="msg://io.embraceit.mccsproject.screen.minecommunitydevelopment/mineCommunityDevelopmentBrowse.menu"
+              icon="USERS"/>
         <item screen="mccs_ProcurementSupplier.browse"
-              caption="msg://io.embraceit.mccsproject.screen.procurementsupplier/procurementSupplierBrowse.menu"/>
+              caption="msg://io.embraceit.mccsproject.screen.procurementsupplier/procurementSupplierBrowse.menu"
+              icon="MONEY"/>
         <!--        <item screen="mccs_Designation.browse"-->
 <!--              caption="msg://io.embraceit.mccsproject.screen.designation/designationBrowse.menu" icon="ADDRESS_CARD_O"/>-->
 <!--        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mine/mineBrowse.menu" icon="DIAMOND"/>-->
@@ -62,11 +50,27 @@
     <menu id="administration" icon="COGS">
         <item screen="mccs_User.browse" caption="msg://io.embraceit.mccsproject.screen.user/UserBrowse.caption"
               icon="USER_CIRCLE_O"/>
+        <item screen="mccs_Cities.browse" caption="msg://io.embraceit.mccsproject.screen.cities/citiesBrowse.menu"
+              icon="BUILDING_O"/>
+        <item screen="mccs_States.browse" caption="msg://io.embraceit.mccsproject.screen.states/statesBrowse.menu"
+              icon="ARROWS"/>
+        <item screen="mccs_Countries.browse"
+              caption="msg://io.embraceit.mccsproject.screen.countries/countriesBrowse.menu" icon="GLOBE"/>
+        <item screen="mccs_Mine.browse" caption="msg://io.embraceit.mccsproject.screen.mines/minesBrowse.menu"
+              icon="DIAMOND"/>
+        <item screen="mccs_Corporation.browse"
+              caption="msg://io.embraceit.mccsproject.screen.corporation/corporationBrowse.menu" icon="INDUSTRY"/>
+        <item screen="mccs_MccReport.browse"
+              caption="msg://io.embraceit.mccsproject.screen.mccreport/mccReportBrowse.menu" icon="CREATE_ACTION"/>
+        <item screen="mccs_Contractor.browse"
+              caption="msg://io.embraceit.mccsproject.screen.contractor/contractorBrowse.menu" icon="USER_PLUS"/>
+        <item screen="mccs_Client.browse" caption="msg://io.embraceit.mccsproject.screen.client/clientBrowse.menu"
+              icon="USER_O"/>
         <item screen="ui_JmxConsoleScreen" icon="UNLOCK_ACTION"/>
-        <item screen="sec_ResourceRoleModel.browse"
-              caption="msg://io.jmix.securityui/menu.sec_ResourceRoleModel.browse" icon="SHIELD"/>
-        <item screen="sec_RowLevelRoleModel.browse"
-              caption="msg://io.jmix.securityui/menu.sec_RowLevelRoleModel.browse" icon="ALIGN_CENTER"/>
+        <item screen="sec_ResourceRoleModel.browse" caption="msg://io.jmix.securityui/menu.sec_ResourceRoleModel.browse"
+              icon="SHIELD"/>
+        <item screen="sec_RowLevelRoleModel.browse" caption="msg://io.jmix.securityui/menu.sec_RowLevelRoleModel.browse"
+              icon="ALIGN_CENTER"/>
         <item screen="ntf_InAppNotification.browse"
               caption="msg://io.jmix.notificationsui.screen.inappnotification/inAppNotificationBrowse.menu"
               icon="AMERICAN_SIGN_LANGUAGE_INTERPRETING"/>
@@ -78,10 +82,10 @@
         <item screen="email_SendingMessage.browse" icon="ENVELOPE_OPEN"/>
         <item screen="appset_appSettingsEntity.screen" icon="WRENCH"/>
         <item screen="buscal_BusinessCalendarModel.browse" icon="CALENDAR"/>
-<!--        <item screen="quartz_JobModel.browse" caption="msg://io.jmix.quartz.screen.jobs/jobModelBrowse.menu"-->
-<!--              icon="CLOCK_O"/>-->
         <item screen="themeSettingsScreen" caption="msg://io.jmix.ui.app.themesettings/themeSettings.caption"
               icon="PAINT_BRUSH"/>
+        <!--        <item screen="quartz_JobModel.browse" caption="msg://io.jmix.quartz.screen.jobs/jobModelBrowse.menu"-->
+<!--              icon="CLOCK_O"/>-->
     </menu>
     <menu id="reports" caption="msg://io.jmix.reportsui/menu.reports" icon="AREA_CHART">
         <item id="report_Report.browse" caption="msg://io.jmix.reportsui/menu.report_Report.browse" icon="BAR_CHART"/>
